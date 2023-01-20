@@ -1,5 +1,6 @@
 ---
 layout: home
+output: html_document
 author_profile: false
 ---
 
