@@ -5,7 +5,6 @@ last_modified_at: 2023-01-20
 layout: home
 ---
 
-***People***
 
 **Director**
 
@@ -14,6 +13,7 @@ layout: home
 **Faculty**
 
 **Postdocs**
+
 Kateryna Vovk
 
 **Students**
