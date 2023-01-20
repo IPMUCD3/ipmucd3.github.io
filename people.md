@@ -2,7 +2,7 @@
 title: "People"
 permalink: /people/
 last_modified_at: 2023-01-20
-layout: home
+layout: single
 ---
 
 
