@@ -1,17 +1,26 @@
 ---
 title: "People"
 permalink: /people/
-excerpt: "Students, postdocs, staff, and faculty"
 last_modified_at: 2023-01-20
-redirect_from:
-  - /theme-setup/
-toc: true
+layout: home
 ---
-**Director**
-[Jia Liu] (https://liuxx479.github.io/)
 
-**Research Staff**
+***People***
+
+**Director**
+
+[Jia Liu](https://liuxx479.github.io/)
+
+**Faculty**
+
+**Postdocs**
 Kateryna Vovk
+
+**Students**
+
+**Past Members**
+
+
 
 Test page
 
