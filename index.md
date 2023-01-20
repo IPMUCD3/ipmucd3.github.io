@@ -4,7 +4,7 @@ output: html_document
 author_profile: false
 ---
 
-![](_images/tea_time.jpeg)
+![Tea](/_images/tea_time.jpeg)
 
 The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) at the University of Tokyo invites applications for a tenure-track assistant or associate professor position in our new Center for Data-Driven Discovery, led by Jia Liu (director), Masahiro Takada, Tomotake Matsumura, and other faculty members at Kavli IPMU. The mission of Kavli IPMU is to discover the fundamental laws of Nature and use them to solve the deepest mysteries of the Universe by bringing mathematicians, physicists, and astronomers together and using theoretical and observational/experimental methods. 
 
