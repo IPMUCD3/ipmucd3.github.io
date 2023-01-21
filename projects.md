@@ -19,10 +19,10 @@ layout: single
 For the first ten years of operation, Vera Rubin Observatory will perform the **[Legacy Survey of Space and Time](https://www.lsst.org/){:target="_blank"}** (LSST) , using the 3.2 Gigapixel Rubin Observatory LSST Camera and the 8.4-m Simonyi Survey Telescope. Work toward understanding the nature of dark energy with the survey is being carried out by the LSST **[Dark Energy Science Collaboration](https://lsstdesc.org/){:target="_blank"}** (DESC). 
 
 <img src="/_images/logo_so.jpg"  style="width: 120px;">\
-The **[Simons Observatory](https://simonsobservatory.org/){:target="_blank"}** (SO) is a ground-based CMB experiment situated on Cerrro Toco, 5300 m (17,000 feet) above the Atacama Desert in Chile. 
+The **[Simons Observatory](https://simonsobservatory.org/){:target="_blank"}** (SO) is a ground-based CMB experiment situated on Cerrro Toco, Chile, 5300 m (17,000 feet) above the Atacama Desert in Chile. 
 
 <img src="/_images/logo_cmbs4.png" style="width: 120px;">\
-**[CMB-S4](https://cmb-s4.org/){:target="_blank"}** is the next-generation ground-based CMB experiment, expected to start operation in early 2030s with 21 telescopes at the South Pole and in the Chilean Atacama desert surveying the sky with over 500,000 cryogenically-cooled superconducting detectors for 7 years.
+**[CMB-S4](https://cmb-s4.org/){:target="_blank"}** is the next-generation ground-based CMB experiment, expected to start operation in early 2030s with 21 telescopes at the South Pole and in the Chilean Atacama desert surveying the sky for 7 years.
 
 <img src="/_images/logo_sk.gif"  style="width: 120px;">\
 **[Super-Kamiokande](https://www-sk.icrr.u-tokyo.ac.jp/en/sk/){:target="_blank"}** is the world’s largest water Cherenkov detector, located at 1,000 meter underground in the Kamioka-mine, Hida-city, Gifu, Japan. It studies neutrino properties and searches for proton decay and supernova relic neutrino. 
