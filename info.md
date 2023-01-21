@@ -6,7 +6,7 @@ layout: single
 ---
 
 \
-**[Visit Kavli IPMU](https://www.ipmu    .jp/en/visitors){:target="_blank"}**\
+**Visit Kavli IPMU** ([link](https://www.ipmu.jp/en/visitors){:target="_blank"}\
 For information about access, accommodation, and life in Japan.
 
 **Get Involved**\
