@@ -8,7 +8,7 @@ layout: single
 \
 **Faculty**
 
-[Jia Liu](https://liuxx479.github.io/) (director)\
+[Jia Liu](https://liuxx479.github.io/) {:target="_blank"}(director)\
 Masahiro Takada\
 Tomotake Matsumura\
 Khee-Gan Lee\
@@ -22,5 +22,4 @@ Kateryna Vovk
 
 **Students**
 
-**Past Members**
 
