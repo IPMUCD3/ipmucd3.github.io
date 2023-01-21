@@ -1,6 +1,6 @@
 ---
 title: "Data and Code"
-permalink: /dataandcode/
+permalink: /code/
 last_modified_at: 2023-01-21
 layout: single
 ---

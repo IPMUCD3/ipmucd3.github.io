@@ -1,5 +1,4 @@
 ---
-title: "About"
 last_modified_at: 2023-01-21
 permalink: https://ipmucd3.github.io/
 layout: home
