@@ -6,7 +6,8 @@ layout: single
 ---
 
 \
-![](/_images/logo_hsc.jpg =x100) **<font size="25">HSC</font>**\
+<img src="/_images/logo_hsc.jpg" alt="drawing" height="100"/>
+**<font size="25">HSC</font>**\
 Hyper Suprime-Cam (HSC) is a prime focus camera at the 8.2m Subaru Telescope. Anyone who is working at an institute in Japan has the right of full data access (access to the proprietary data/data products). To join the HSC collaboration, please visit the page [Information for New Members](https://hscsurvey.pbworks.com/w/page/19661930/FrontPage).
 
 ![](/_images/logo_pfs.jpg =x100) **PFS**\
