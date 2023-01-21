@@ -1,12 +1,10 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-01-20
+last_modified_at: 2023-01-21
 layout: single
 ---
 
-<div>
-<div class="col-md-4 container">
 **Faculty**
 
 [Jia Liu](https://liuxx479.github.io/) (director)\
@@ -16,11 +14,7 @@ Khee-Gan Lee\
 Masahito Yamazaki\
 Patrick de Perio\
 John Silverman
-</div>
-</div>
 
-<div>
-<div class="col-md-4 container">
 **Postdocs**
 
 Kateryna Vovk
@@ -30,6 +24,4 @@ Kateryna Vovk
 **Past Members**
 
 
-</div>
-</div>
 
