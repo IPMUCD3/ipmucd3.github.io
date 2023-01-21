@@ -1,8 +1,10 @@
 ---
-layout: home
-output: html_document
-author_profile: false
+title: ""
+permalink: /index/
+last_modified_at: 2023-01-21
+layout: single
 ---
+
 
 ![Tea](/_images/tea_time.jpeg)
 
