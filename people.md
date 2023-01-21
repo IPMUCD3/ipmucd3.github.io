@@ -6,11 +6,15 @@ layout: single
 ---
 
 
-**Director**
-
-[Jia Liu](https://liuxx479.github.io/)
-
 **Faculty**
+
+[Jia Liu](https://liuxx479.github.io/) (director)\
+Masahiro Takada\
+Tomotake Matsumura\
+Khee-Gan Lee\
+Masahito Yamazaki\
+Patrick de Perio\
+John Silverman\
 
 **Postdocs**
 
@@ -22,5 +26,4 @@ Kateryna Vovk
 
 
 
-Test page
 
