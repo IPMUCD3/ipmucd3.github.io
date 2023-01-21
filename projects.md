@@ -7,7 +7,7 @@ layout: single
 
 \
 <img src="/_images/logo_hsc.jpg"  height="50">
-![](/_images/logo_hsc.jpg | height=50>)
+![](/_images/logo_hsc.jpg){:height=50}
 **<font size="25">HSC</font>**\
 Hyper Suprime-Cam (HSC) is a prime focus camera at the 8.2m Subaru Telescope. Anyone who is working at an institute in Japan has the right of full data access (access to the proprietary data/data products). To join the HSC collaboration, please visit the page [Information for New Members](https://hscsurvey.pbworks.com/w/page/19661930/FrontPage).
 
@@ -23,16 +23,16 @@ LiteBIRD is a satellite that will search for primordial gravitational waves emit
 **<font size="25">LSST</font>**\
 For the first ten years of operation, Vera C. Rubin Observatory will perform the Rubin Observatory Legacy Survey of Space and Time (LSST) , using the 3.2 Gigapixel Rubin Observatory LSST Camera and the 8.4-m Simonyi Survey Telescope. Work toward meeting the LSST science goals is being carried out by the Rubin Observatory LSST Dark Energy Science Collaboration (DESC). Key working groups are Weak gravitational lensing, Large-scale structure, Type Ia Supernovae, Galaxy clusters, and Strong gravitational lensing.
 
-<img src="/_images/logo_so.png"  height="50"/>  
+<img src="/_images/logo_so.jpg"  height="50"/>  
 **<font size="25">Simons Observatory</font>**\
 
-<img src="/_images/logo_cmbs4.png" height="50"/>
+<img src="/_images/logo_cmbs4.jpeg" height="50"/>
 **<font size="25">CMB-S4</font>**\
 
 <img src="/_images/logo_sk.png"  height="50"/>  
 **<font size="25">Super-Kamiokande</font>**\
 
-<img src="/_images/logo_hk.png"  height="50"/>  
+<img src="/_images/logo_hk.jpeg"  height="50"/>  
 **<font size="25">Hyper-Kamiokande</font>**\
 
 <img src="/_images/logo_t2k.png" height="50"/>
