@@ -5,7 +5,8 @@ last_modified_at: 2023-01-20
 layout: single
 ---
 
-
+<div>
+<div class="col-md-4 container">
 **Faculty**
 
 [Jia Liu](https://liuxx479.github.io/) (director)\
@@ -14,8 +15,12 @@ Tomotake Matsumura\
 Khee-Gan Lee\
 Masahito Yamazaki\
 Patrick de Perio\
-John Silverman\
+John Silverman
+</div>
+</div>
 
+<div>
+<div class="col-md-4 container">
 **Postdocs**
 
 Kateryna Vovk
@@ -25,5 +30,6 @@ Kateryna Vovk
 **Past Members**
 
 
-
+</div>
+</div>
 
