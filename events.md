@@ -6,8 +6,7 @@ layout: single
 ---
 
 
-![Events](/_images/ipmu_concert.jpeg)
-
+\
 **Workshop: Future Science with CMB x LSS** 
 [Website](https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/index.php){:target=`_blank`}
 
