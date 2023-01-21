@@ -1,6 +1,5 @@
 ---
 title: "About"
-permalink: https://ipmucd3.github.io/
 last_modified_at: 2023-01-21
 layout: home
 ---
