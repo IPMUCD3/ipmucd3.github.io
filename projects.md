@@ -18,7 +18,7 @@ layout: single
 <img src="/_images/logo_lsst.png" style="width: 120px;">\
 For the first ten years of operation, Vera Rubin Observatory will perform the **[Legacy Survey of Space and Time](https://www.lsst.org/){:target="_blank"}** (LSST) , using the 3.2 Gigapixel Rubin Observatory LSST Camera and the 8.4-m Simonyi Survey Telescope. Work toward understanding the nature of dark energy with the survey is being carried out by the LSST **[Dark Energy Science Collaboration](https://lsstdesc.org/){:target="_blank"}** (DESC). 
 
-<img src="/_images/logo_so.jpg"  style="width: 120px;">\
+<img src="/_images/logo_so.jpg"  style="width: 110px;">\
 The **[Simons Observatory](https://simonsobservatory.org/){:target="_blank"}** (SO) is a ground-based CMB experiment situated on Cerrro Toco, Chile, 5300 m (17,000 feet) above the Atacama Desert in Chile. 
 
 <img src="/_images/logo_cmbs4.png" style="width: 120px;">\
