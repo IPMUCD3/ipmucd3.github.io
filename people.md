@@ -16,17 +16,11 @@ Masahito Yamazaki\
 Patrick de Perio\
 John Silverman
 
-
-\
 **Postdocs**
 
 Kateryna Vovk
 
-\
 **Students**
 
-\
 **Past Members**
-
-
 
