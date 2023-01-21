@@ -1,0 +1,18 @@
+---
+title: "General Information"
+permalink: /info/
+last_modified_at: 2023-01-21
+layout: single
+---
+
+
+
+![Building](/_images/buildint_sketch.jpg)
+
+**Visit Kavli IPMU**
+For information about access, accommodation, and life in Japan, please visit [For Wisitors](https://www.ipmu.jp/en/visitors){:target=`_blank`}
+
+**Get Involved**
+If you are interested in becoming a member and/or receiving announcements of future activities, please fill out this [form](https://forms.gle/n6JYTyrJPvW2enjr9){:target=`_blank`}.
+
+
