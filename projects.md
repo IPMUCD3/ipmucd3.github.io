@@ -25,18 +25,18 @@ The **[Simons Observatoryhttps://simonsobservatory.org/{:target="_blank"}** (SO)
 **[CMB-S4](https://cmb-s4.org/){:target="_blank"}** is the next-generation ground-based cosmic microwave background experiment, expected to start operation in early 2030s. With 21 telescopes at the South Pole and in the Chilean Atacama desert surveying the sky with over 500,000 cryogenically-cooled superconducting detectors for 7 years, CMB-S4 will deliver transformative discoveries in fundamental physics, cosmology, astrophysics, and astronomy.
 
 <img src="/_images/logo_sk.png"  style="height: 80px;">\  
-**<font size="25">Super-Kamiokande</font>**\
+**[Super-Kamiokande](https://www-sk.icrr.u-tokyo.ac.jp/en/sk/){:target="_blank"}**  is the world’s largest water Cherenkov detector. Its detector consists of a stainless-steel tank, 39.3m diameter and 41.4m tall, filled with 50,000 tons of water. About 13,000 photo-multipliers are installed on the tank wall. The detector is located at 1,000 meter underground in the Kamioka-mine, Hida-city, Gifu, Japan. Its key scientific goals are elucidation of neutrino properties, observations of the universe by neutrino, search for proton decay, and observation of supernova relic neutrino. 
 
 <img src="/_images/logo_hk.jpeg"  style="height: 80px;">\  
-**<font size="25">Hyper-Kamiokande</font>**\
+**Hyper-Kamiokande**
 
 <img src="/_images/logo_t2k.png" style="height: 80px;">\
-**<font size="25">T2K</font>**\
+**T2K**
 
 <img src="/_images/logo_xenon.png" style="height: 80px;">\
-**<font size="25">XENON</font>**\
+**XENON**
 
 <img src="/_images/logo_belleII.png" style="height: 80px;">\  
-**<font size="25">Belle-II</font>**\
+**Belle-II**
 
 
