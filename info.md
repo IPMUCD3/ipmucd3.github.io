@@ -1,27 +1,34 @@
 ---
 title: "Information"
 permalink: /info/
-last_modified_at: 2023-01-21
+last_modified_at: 2023-01-23
 layout: single
 toc: true
-toc_sticky: false
+toc_sticky: true
 ---
 
 
-## Visit Kavli IPMU
+## Visit us
+The Center for Data-Driven Discovery is an integral part of the Kavli IPMU (both scientifically and physically!). Kavli IPMU is located at: 
+
+<span style="color:navy">5-1-5 Kashiwanoha, Kashiwa, Chiba, 277-8583, Japan</span>
+
 For information about access, accommodation, and life in Japan, please visit [this page](https://www.ipmu.jp/en/visitors){:target="_blank"}.
 
 ## Get Involved
+
 If you are interested in becoming a member and/or receiving announcements of future activities, please fill out this [form](https://forms.gle/n6JYTyrJPvW2enjr9){:target="_blank}.
 
 ## Affiliation & Acknowledgement
-If you are a member, in your relevant publications please use the institutional affiliation:\
-*Center for Data-Driven Discovery, Kavli IPMU (WPI), UTIAS, The University of Tokyo, Kashiwa, Chiba 277-8583, Japan*
 
-If you are not a member of Kavli IPMU, but your work were initiated, performed, or performed in part during the Center's events, such as (but not limited to) tutorials, seminars, and workshops, please add appropriate acknowledgement in your publication(s):\
-*This work was initiated at Center for Data-Driven Discovery, Kavli IPMU (WPI).*\
-*This work was performed at Center for Data-Driven Discovery, Kavli IPMU (WPI).*\
-*This work was performed in part at Center for Data-Driven Discovery, Kavli IPMU (WPI).*
+If you are a member, in your relevant publications please use the institutional affiliation:
+
+<span style="color:navy">Center for Data-Driven Discovery, Kavli IPMU (WPI), UTIAS, The University of Tokyo, Kashiwa, Chiba 277-8583, Japan</span>
+
+If you are not a member of Kavli IPMU, but your work were initiated, performed, or performed in part during the Center's events, such as (but not limited to) tutorials, seminars, and workshops, please add appropriate acknowledgement in your publication(s):
+
+<span style="color:navy">This work was [initiated]\* at Center for Data-Driven Discovery, Kavli IPMU (WPI).</span>\
+\* Please change to "performed" or  "performed in part" accordingly.
 
 ## Code of Conduct
 
@@ -35,4 +42,4 @@ The Center for Data-Driven Discovery at the Kavli IPMU is committed to creating 
 
 1. Comply with all applicable laws, regulations, and policies governing research, including but not limited to those related to data privacy, data security and data protection.
 
-The Center for Data-Driven Discovery is dedicated to providing a positive and productive environment for all members of its community. Any behavior that is deemed to be in violation of this code of conduct will result in disciplinary action, up to and including expulsion from the Center. If you feel that you or others have been subjected to behavior that is in violation of this code of conduct, please contact the Center's Director or the Director of the Kavli IPMU.
+We are dedicated to providing a positive and productive environment for all members of its community. Any behavior that is deemed to be in violation of this code of conduct will result in disciplinary action, up to and including expulsion from the Center. If you feel that you or others have been subjected to behavior that is in violation of this code of conduct, please contact the Center's Director or the Director of the Kavli IPMU.
