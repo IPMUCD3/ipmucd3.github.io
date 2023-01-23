@@ -11,7 +11,7 @@ toc_sticky: true
 ## Visit Us
 The Center for Data-Driven Discovery is an integral part of the Kavli IPMU (both scientifically and physically!). Kavli IPMU is located at: 
 
-<span style="color:black">5-1-5 Kashiwanoha, Kashiwa, Chiba, 277-8583, Japan</span>
+<span style="color:black;font-weight:bold;">5-1-5 Kashiwanoha, Kashiwa, Chiba, 277-8583, Japan</span>
 
 For information about access, accommodation, and life in Japan, please visit [this page](https://www.ipmu.jp/en/visitors){:target="_blank"}.
 
@@ -23,11 +23,11 @@ If you are interested in becoming a member and/or receiving announcements of fut
 
 If you are a member, in your relevant publications please use the institutional affiliation:
 
-<span style="color:black">Center for Data-Driven Discovery, Kavli IPMU (WPI), UTIAS, The University of Tokyo, Kashiwa, Chiba 277-8583, Japan</span>
+<span style="color:black;font-weight:bold;">Center for Data-Driven Discovery, Kavli IPMU (WPI), UTIAS, The University of Tokyo, Kashiwa, Chiba 277-8583, Japan</span>
 
 If you are not a member of Kavli IPMU, but your work were initiated, performed, or performed in part during the Center's events including, but not limited to, tutorials, seminars, and workshops, please add appropriate acknowledgement in your publication(s):
 
-<span style="color:black">This work was [initiated]\* at Center for Data-Driven Discovery, Kavli IPMU (WPI).</span>\
+<span style="color:black;font-weight:bold;">This work was [initiated]\* at Center for Data-Driven Discovery, Kavli IPMU (WPI).</span>\
 \* Please change to "performed" or  "performed in part" accordingly.
 
 ## Code of Conduct
