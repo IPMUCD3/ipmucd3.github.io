@@ -17,14 +17,13 @@ Tomotake Matsumura\
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
 John Silverman\
 Toshiya	Namikawa\
-[Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
-[Masahito Yamazaki](https://member.ipmu.jp/masahito.yamazaki/index.shtml){:target="_blank"}\
 [Masaki Yamashita](https://db.ipmu.jp/member/personal/55en.html){:target="_blank"}\
 Mark Vagins
 
 
 ## Postdocs
 
+[Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
 Joshua Eby\
 Junjie Xia\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
