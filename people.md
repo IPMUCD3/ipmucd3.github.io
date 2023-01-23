@@ -3,12 +3,13 @@ title: "People"
 permalink: /people/
 last_modified_at: 2023-01-21
 layout: single
+toc: true
+toc_sticky: true
 ---
 
-\
-**Faculty**
+## Faculty
 
-[Jia Liu](https://liuxx479.github.io/){:target="_blank"} (director)\
+[Jia Liu](https://liuxx479.github.io/){:target="_blank"} (Director)\
 Masahiro Takada\
 Tomotake Matsumura\
 [Khee-GanLee](https://www.kglee.me/){:target="_blank"}\
@@ -22,7 +23,7 @@ Toshiya	Namikawa\
 Mark Vagins
 
 
-**Postdocs**
+## Postdocs
 
 Joshua Eby\
 Junjie Xia\
@@ -33,7 +34,7 @@ César Jesús Valls\
 Kateryna Vovk
 
 
-**Students**
+## Students
 
 Akira Tokiwa\
 Tian Qiu
