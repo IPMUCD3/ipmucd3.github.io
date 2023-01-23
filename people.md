@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-01-21
+last_modified_at: 2023-01-23
 layout: single
 toc: true
 toc_sticky: true
