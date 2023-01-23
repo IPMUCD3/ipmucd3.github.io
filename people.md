@@ -19,7 +19,8 @@ Toshiya	Namikawa\
 [Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
 [Masahito Yamazaki](https://member.ipmu.jp/masahito.yamazaki/index.shtml){:target="_blank"}\
 [Masaki Yamashita](https://db.ipmu.jp/member/personal/55en.html){:target="_blank"}\
-Mark Vagins\
+Mark Vagins
+
 
 **Postdocs**
 
@@ -29,11 +30,12 @@ Junjie Xia\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 Angela Chen\
 César Jesús Valls\
-Kateryna Vovk\
+Kateryna Vovk
+
 
 **Students**
 
 Akira Tokiwa\
-Tian Qiu\
+Tian Qiu
 
 
