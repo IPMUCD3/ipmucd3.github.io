@@ -10,7 +10,7 @@ main:
     url: /code/
   - title: "Events"
     url: /events/
-  - title: "Jobs"
-    url: /jobs/
+  #- title: "Jobs"
+  #  url: /jobs/
   - title: "Info"
     url: /info/
