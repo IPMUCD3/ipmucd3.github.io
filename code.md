@@ -1,20 +1,22 @@
 ---
 title: "Data and Code"
 permalink: /code/
-last_modified_at: 2023-01-21
+last_modified_at: 2023-01-25
 layout: single
+toc: true
+toc_sticky: true
 ---
 
 \
-Here we list the data products and codes released by our members and projects.
+Here we list the data products and softwares released by our members and projects.
 
 ## Observation
 
-**[Hyper Suprime-Cam](https://hsc.mtk.nao.ac.jp/ssp/){:target="_blank"}** 
+**[Hyper Suprime-Cam](https://hsc.mtk.nao.ac.jp/ssp/){:target="_blank"}**
 
 The latest public release (third release) of HSC-SSP occurred on 31 August 2021.  The release includes over 600 square degrees of deep multi-color data served through dedicated databases and user interfaces.  
 
-Documentations and data access: [link](https://hsc.mtk.nao.ac.jp/ssp/data-release/)
+Documentations and data access: [link](https://hsc.mtk.nao.ac.jp/ssp/data-release/){:target="_blank"}
 
 ## Software
 
