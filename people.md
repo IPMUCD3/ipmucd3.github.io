@@ -45,3 +45,5 @@ Tian Qiu
 [Information Technology Center](https://www.itc.u-tokyo.ac.jp/en/){:target="_blank"}\
 [Forefront Physics and Mathematics Program to Drive Transformation] (https://www.s.u-tokyo.ac.jp/en/FoPM/){:target="_blank"}\
 [ILANCE](https://ilance.cnrs.fr/){:target="_blank"} 
+
+If you are interested in partnering with us through programs such as student exchange and visiting scholars, please reach out!
