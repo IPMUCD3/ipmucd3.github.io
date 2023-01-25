@@ -46,4 +46,4 @@ The Center for Data-Driven Discovery at the Kavli IPMU is committed to creating 
 
 1. Comply with all applicable laws, regulations, and policies governing research, including but not limited to those related to data privacy, data security and data protection.
 
-We are dedicated to providing a positive and productive environment for all members of this community. Any behavior that is deemed to be in violation of this code of conduct will result in disciplinary action, up to and including expulsion from the Center. If you feel that you or others have been subjected to behavior that is in violation of this code of conduct, please contact the Center's Director or the Director of the Kavli IPMU.
+We are dedicated to providing a positive and productive environment for all members of this community. Any behavior that is deemed to be in violation of this code of conduct will result in disciplinary action, up to and including expulsion from the Center. If you feel that you or others have been subjected to behavior that is in violation of this code of conduct, please contact the Center's Director or the Director of Kavli IPMU.
