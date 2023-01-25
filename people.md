@@ -12,7 +12,7 @@ toc_sticky: true
 [Jia Liu](https://liuxx479.github.io/){:target="_blank"} (Director)\
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
 [Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
-Sanmay Ganguly{:target="_blank"}\
+Sanmay Ganguly\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
