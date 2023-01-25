@@ -7,3 +7,5 @@ author_profile: false
 ![Tea](/_images/tea_time.jpeg)
 
 The **Center for Data-Driven Discovery** at the [Kavli Institute for the Physics and Mathematics of the Universe](https://www.ipmu.jp/){:target='_blank'} (**Kavli IPMU**) is dedicated to advancing our understanding of the universe through the innovative use of data science and machine learning techniques, by fostering a collaborative and interdisciplinary research environment, and by engaging with the broader scientific community and society. 
+
+The Center is supported by MEXT through the University of Tokyo and in part by the Kavli IPMU endowment.
