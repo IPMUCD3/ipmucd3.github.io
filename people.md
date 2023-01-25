@@ -19,7 +19,7 @@ toc_sticky: true
 [John Silverman](https://db.ipmu.jp/member/personal/594en.html){:target="_blank"}\
 [Mark Vagins](https://db.ipmu.jp/member/personal/27en.html){:target="_blank"}\
 [Masaki Yamashita](https://db.ipmu.jp/member/personal/55en.html){:target="_blank"}\
-[Masahito Yamazaki](https://member.ipmu.jp/masahito.yamazaki/index.shtml){:target="_blank"}
+[Masahito Yamazaki](https://member.ipmu.jp/masahito.yamazaki/index.shtml){:target="_blank"}\
 [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"}
 
 ## Postdocs
