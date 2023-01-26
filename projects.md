@@ -49,7 +49,7 @@ The **[Simons Observatory](https://simonsobservatory.org/){:target="_blank"}** (
 
 ## Quantum Machine Learning
 
-We explores the feasibility of applying quantum technologies to data analysis in experiments and observations. In addition to quantum machine learning algorithms, we broadly study quantum algorithms and quantum simulations, to better understand the powers and limitations of quantum computers.
+We explore the feasibility of applying quantum technologies to data analysis in experiments and observations. In addition to quantum machine learning algorithms, we broadly study quantum algorithms and quantum simulations, to better understand the powers and limitations of quantum computers.
 
 ## AI Ethics
 
