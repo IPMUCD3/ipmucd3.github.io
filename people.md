@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-01-25
+last_modified_at: 2023-01-26
 layout: single
 toc: true
 toc_sticky: true
@@ -46,6 +46,8 @@ Sanmay Ganguly\
 
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
+[Takumi Tanaka](https://sites.google.com/view/ tanakatakumi){:target="_blank"}\
+[Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
