@@ -38,7 +38,7 @@ toc_sticky: true
 [Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
-[Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"}\
+[Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}
 
 ## Students
@@ -54,7 +54,7 @@ toc_sticky: true
 
 ## Collaborators
 
-Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target="_blank"}, [BAI](https://beyondai.jp/?lang=en){:target="_blank"})\
+Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target="_blank"}, [BAI](https://beyondai.jp/?lang=en){:target="_blank"})
 
 ## Partner Institutes
 
