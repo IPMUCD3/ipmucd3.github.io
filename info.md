@@ -36,7 +36,7 @@ If you are not a member of Kavli IPMU, but your work was initiated, performed, o
 
 ## Code of Conduct
 
-The Center for Data-Driven Discovery at the Kavli IPMU is committed to creating a safe, inclusive, and respectful environment for all members of our community. In order to achieve this goal, we have established the following code of conduct:
+The Center for Data-Driven Discovery at Kavli IPMU is committed to creating a safe, inclusive, and respectful environment for all members of our community. In order to achieve this goal, we have established the following code of conduct:
 
 1. Treat each other with respect and professionalism. Refrain from using disrespectful language or engaging in behavior that creates an intimidating, hostile, or offensive environment.
 
