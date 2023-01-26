@@ -39,10 +39,12 @@ toc_sticky: true
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
-[Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}
+[Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
+Stephane Zsoldos
 
 ## Students
 
+Rhea Gaur\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
 [Takumi Tanaka](https://sites.google.com/view/ tanakatakumi){:target="_blank"}\
