@@ -12,7 +12,6 @@ toc_sticky: true
 [Jia Liu](https://liuxx479.github.io/){:target="_blank"} (Director)\
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
 [Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
-Sanmay Ganguly\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
@@ -33,12 +32,12 @@ Sanmay Ganguly\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
-[Yue	Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
+[Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
-[Sunao	Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
+[Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
-[Valeri	Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
+[Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"}\
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}
 
@@ -53,12 +52,15 @@ Sanmay Ganguly\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}
 
+## Collaborators
 
-## Partners
+Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target="_blank"}, [BAI](https://beyondai.jp/?lang=en){:target="_blank"})\
+
+## Partner Institutes
 
 [Beyond AI](https://beyondai.jp/?lang=en){:target="_blank"}\
 [Information Technology Center](https://www.itc.u-tokyo.ac.jp/en/){:target="_blank"}\
 [FoPM](https://www.s.u-tokyo.ac.jp/en/FoPM/){:target="_blank"}\
 [ILANCE](https://ilance.cnrs.fr/){:target="_blank"} 
 
-If you are interested in partnering with us through programs such as student exchange and visiting scholars, please reach out!
+If you are interested in partnering with us through programs such as student exchange and visiting scholars, please reach out! 
