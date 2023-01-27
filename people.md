@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-01-26
+last_modified_at: 2023-01-27
 layout: single
 toc: true
 toc_sticky: true
@@ -29,9 +29,11 @@ toc_sticky: true
 [Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
 [Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
 [Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
+[Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
+[Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
@@ -39,7 +41,10 @@ toc_sticky: true
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
-[Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}
+[Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
+[Kiyoto Yabe](https://db.ipmu.jp/member/personal/4354en.html){:target="_blank"}\
+[Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
+Stephane Zsoldos
 
 ## Students
 
