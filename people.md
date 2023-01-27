@@ -51,7 +51,7 @@ Stephane Zsoldos
 Rhea Gaur\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
-[Takumi Tanaka](https://sites.google.com/view/ tanakatakumi){:target="_blank"}\
+[Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
 [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
