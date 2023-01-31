@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-01-30
+last_modified_at: 2023-01-31
 layout: single
 toc: true
 toc_sticky: true
@@ -58,8 +58,10 @@ Rhea Gaur\
 [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
-[Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}
+[Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
+Yu Watanabe
+
 
 ## Collaborators
 
