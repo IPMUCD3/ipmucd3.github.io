@@ -68,7 +68,7 @@ Rhea Gaur\
 [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
-[Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}
+[Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 Yu Watanabe\
 Chenghan Zha
