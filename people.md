@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-01-31
+last_modified_at: 2023-02-01
 layout: single
 toc: true
 toc_sticky: true
@@ -12,9 +12,12 @@ toc_sticky: true
 [Jia Liu](https://liuxx479.github.io/){:target="_blank"} (Director)\
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
 [Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
+[Elisa Gouvea Mauricio Ferreira](www.elisagmferreira.com){:target="_blank"}\
+[Simeon Hellerman](https://db.ipmu.jp/member/personal/154en.html){:target="_blank"}\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
-[Yukari Ito](https://db.ipmu.jp/member/personal/5393en.html){:target="_blank"}\
+<!-- [Yukari Ito](https://db.ipmu.jp/member/personal/5393en.html){:target="_blank"}\ -->
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
+[Tom Melia](https://db.ipmu.jp/member/personal/2727en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
 [Toshiya Namikawa](https://db.ipmu.jp/member/personal/1857en.html){:target="_blank"}\
 [John Silverman](https://db.ipmu.jp/member/personal/594en.html){:target="_blank"}\
@@ -33,8 +36,13 @@ toc_sticky: true
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
+<!-- [Alessandro Granelli](https://www.unibo.it/sitoweb/alessandro.granelli/en){:target="_blank"}\ -->
+<!-- Shunichi Horigome -->
+[Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
+[Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
+[Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
@@ -52,15 +60,18 @@ Stephane Zsoldos
 
 [Saki Fujita](https://www.chiplearning.net/){:target="_blank"}\
 Rhea Gaur\
-[Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
+[Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
+[Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
+[Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
 [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
-Yu Watanabe
+Yu Watanabe\
+Chenghan Zha
 
 
 ## Collaborators
