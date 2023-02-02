@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-02-01
+last_modified_at: 2023-02-02
 layout: single
 toc: true
 toc_sticky: true
@@ -40,6 +40,7 @@ toc_sticky: true
 <!-- Shunichi Horigome -->
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
+[Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
