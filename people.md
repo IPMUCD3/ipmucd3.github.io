@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-02-03
+last_modified_at: 2023-02-06
 layout: single
 toc: true
 toc_sticky: true
@@ -11,10 +11,10 @@ toc_sticky: true
 
 [Jia Liu](https://liuxx479.github.io/){:target="_blank"} (Director)\
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
-[Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
-[Elisa Ferreira](https://www.elisagmferreira.com){:target="_blank"}\
 [Simeon Hellerman](https://db.ipmu.jp/member/personal/154en.html){:target="_blank"}\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
+[Elisa Ferreira](https://www.elisagmferreira.com){:target="_blank"}\
+[Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
 <!-- [Yukari Ito](https://db.ipmu.jp/member/personal/5393en.html){:target="_blank"}\ -->
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
 [Tom Melia](https://db.ipmu.jp/member/personal/2727en.html){:target="_blank"}\
