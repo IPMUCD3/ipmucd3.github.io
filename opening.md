@@ -1,6 +1,6 @@
 ---
 title: "CD3 Opening Symposium"
-permalink: /openingsymposium/
+permalink: /opening/
 last_modified_at: 2023-02-08
 layout: single
 toc: true
