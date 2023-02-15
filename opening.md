@@ -61,7 +61,7 @@ During the week, we will have many visitors in the cosmology group. We arranged 
 
 April 18 (Tue) 
 
-10:00 - 10:45 IPMU building tour, meet at IPMU lobby (1F); Organizer: KG Lee\
+10:00 - 10:45 IPMU building tour, meet at IPMU lobby (1F); Organizer: John Silverman\
 11:00 - 12:00 Research exchange: LSS (location: Balcony A, 4F); Organizer: Elisa Ferreira\
 12:00 - 14:00 Lunch ([Tokuju-An](https://goo.gl/maps/3ex8Pt7yfCahaBCN9))\
 14:00 - 15:00 CMB Lab Tour (1F); Organizer: Tomotake Matsumura\
