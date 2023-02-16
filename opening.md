@@ -67,6 +67,6 @@ April 18 (Tue)
 11:00 - 12:00 Research exchange: LSS (Balcony A/4F); Organizer: Elisa Ferreira\
 12:00 - 14:00 Lunch ([Tokuju-An](https://goo.gl/maps/3ex8Pt7yfCahaBCN9))\
 14:00 - 15:00 CMB Lab Tour (1F); Organizer: Tomotake Matsumura\
-15:00 - 17:30 Research exchange: CMB ([Sakura Square in Kashiwanoha Park](https://goo.gl/maps/m4huFHdnDEiLqays7)); Organizer: Toshiya Namikawa\
+15:00 - 17:30 Research exchange: CMB ([Sakura Square in Kashiwanoha Park](https://goo.gl/maps/m4huFHdnDEiLqays7)); Organizer: Toshiya Namikawa
 
 18:00 - 21:00 Dinner (location TBD); Organizer: KG Lee
