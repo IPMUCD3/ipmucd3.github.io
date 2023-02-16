@@ -10,7 +10,7 @@ toc_sticky: true
 \
 Time: April 19-20, 2023\
 Location: Kavli IPMU ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7))\
-Registration: [form] (URL TBD)
+Registration: [Form](https://forms.gle/tjxAJsuzH7KHFRvL9)
 
 ## Intro to Deep Learning
 April 19 (Wed) afternoon, Balcony A Room (4F)\
@@ -21,7 +21,7 @@ Organizers: Jingjing Shi, Joaquin Armijo
 15:00 - 15:30 Tea Time\
 15:30 - 16:30 Parallel computing with CPUs & GPUs at IPMU
 
-18:00 - 21:00 Dinner (location: [Yokocho](https://goo.gl/maps/Kq9mPx5AgmwEpxTt6))
+18:00 - 21:00 Self-organized dinner (location: [Yokocho](https://goo.gl/maps/Kq9mPx5AgmwEpxTt6))
 
 ## CD3 Opening Symposium
 April 20 (Thur) morning, Lecture Hall (1F)\
@@ -36,7 +36,7 @@ Chair: Masahiro Takada
 11:15 - 11:30 IPMU research highlight (Man Wai Cheung)\
 11:30 - 11:45 IPMU research highlight (Hiromi Yokoyama)\
 11:45 - 12:00	Photo\
-12:00 - 13:30	Lunch
+12:00 - 13:30	Lunch (on-campus cafe)
 
 ## In focus: Data-Driven Cosmology
 April 20 (Thur) afternoon, Balcony A Room (4F)
@@ -56,7 +56,9 @@ Reviewers (15 min x 6 topics): \
 15:30 - 17:00 Past and future data-driven discoveries in cosmology\
 Chairs: Elisa Ferreira, KG Lee\
 CMB discussion leaders: Colin Hill, Tomotake Matsumura\
-LSS discussion leaders: Yin Li, Masahiro Takada
+LSS discussion leaders: Francois Lanusse, Masahiro Takada
+
+18:00 - 21:00 Self-organized dinner
 
 ## Unofficial events
 During the week, we will have many visitors in the cosmology group. We arranged some activities for them, but anyone is welcome to join.
@@ -69,4 +71,4 @@ April 18 (Tue)
 14:00 - 15:00 CMB Lab Tour (1F); Organizer: Tomotake Matsumura\
 15:00 - 17:30 Research exchange: CMB ([Sakura Square in Kashiwanoha Park](https://goo.gl/maps/m4huFHdnDEiLqays7)); Organizer: Toshiya Namikawa
 
-18:00 - 21:00 Dinner (location TBD); Organizer: KG Lee
+18:00 - 21:00 Self-organized dinner; Contact: KG Lee
