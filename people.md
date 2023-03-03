@@ -11,9 +11,9 @@ toc_sticky: true
 
 [Jia Liu](https://liuxx479.github.io/){:target="_blank"} (Director)\
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
+[Elisa Ferreira](https://www.elisagmferreira.com){:target="_blank"}\
 [Simeon Hellerman](https://db.ipmu.jp/member/personal/154en.html){:target="_blank"}\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
-[Elisa Ferreira](https://www.elisagmferreira.com){:target="_blank"}\
 [Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
 <!-- [Yukari Ito](https://db.ipmu.jp/member/personal/5393en.html){:target="_blank"}\ -->
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
@@ -55,7 +55,7 @@ toc_sticky: true
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
 [Kiyoto Yabe](https://db.ipmu.jp/member/personal/4354en.html){:target="_blank"}\
 [Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
-Stephane Zsoldos
+[Stephane Zsoldos](https://github.com/P3tru){:target="_blank"}
 
 ## Students
 
@@ -77,7 +77,8 @@ Chenghan Zha
 
 ## Collaborators
 
-Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target="_blank"}, [BAI](https://beyondai.jp/?lang=en){:target="_blank"})
+Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target="_blank"}, [BAI](https://beyondai.jp/?lang=en){:target="_blank"})\
+Ken Osato ([Chiba U](https://matiere-noire.net/){:target="_blank"})
 
 ## Partner Institutes
 
