@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-02-06
+last_modified_at: 2023-03-03
 layout: single
 toc: true
 toc_sticky: true
@@ -15,7 +15,6 @@ toc_sticky: true
 [Simeon Hellerman](https://db.ipmu.jp/member/personal/154en.html){:target="_blank"}\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
 [Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
-<!-- [Yukari Ito](https://db.ipmu.jp/member/personal/5393en.html){:target="_blank"}\ -->
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
 [Tom Melia](https://db.ipmu.jp/member/personal/2727en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
@@ -36,8 +35,6 @@ toc_sticky: true
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
-<!-- [Alessandro Granelli](https://www.unibo.it/sitoweb/alessandro.granelli/en){:target="_blank"}\ -->
-<!-- Shunichi Horigome -->
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
