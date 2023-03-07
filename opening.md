@@ -16,7 +16,7 @@ Registration: [Form](https://forms.gle/tjxAJsuzH7KHFRvL9)
 April 19 (Wed) afternoon, Balcony A Seminar Room (4F)\
 Organizers: Jingjing Shi, Joaquin Armijo
 
-- 13:00 - 14:00 Deep learning 101 (Jingjing Shi, Joaquin Armijo)
+- 13:00 - 14:00 Deep learning 101 (François Lanusse)
 - 14:00 - 15:00 Collaborative coding: git and github (Xuheng Ding, Sunao Sugiyama)
 - 15:00 - 15:30 Tea Time
 - 15:30 - 16:30 Parallel computing with CPUs & GPUs at IPMU (Connor Bottrell, Sam Passaglia)
