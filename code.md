@@ -21,7 +21,7 @@ The latest public release (third release) of HSC-SSP includes over 600 square de
 A Python-based open-source package that performs two-dimensional model fitting of optical and near-infrared images to characterize the light distribution of galaxies with components including a disk, bulge, bar, and quasar. 
 
 **[Yomikata](https://github.com/passaglia/yomikata){:target="_blank"}**\
-Yomikata uses context to resolve ambiguous words in Japanese ([Demo](https://huggingface.co/spaces/passaglia/yomikata-demo){:target="_blank"}).\
+Yomikata uses context to resolve ambiguous words in Japanese ([Demo](https://huggingface.co/spaces/passaglia/yomikata-demo){:target="_blank"}).
 
 **[CosmoMMF](https://github.com/James11222/CosmoMMF){:target="_blank"}**\
 A julia based code that identifies clusters, filaments, walls, and voids using a modified version of the NEXUS algorithm, developed as part of [Sunseri et al. 2022](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107b3514S/abstract){:target="_blank"}. 
