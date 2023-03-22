@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-03-03
+last_modified_at: 2023-03-22
 layout: single
 toc: true
 toc_sticky: true
@@ -35,6 +35,7 @@ toc_sticky: true
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
+[Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
