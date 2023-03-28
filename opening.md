@@ -65,4 +65,4 @@ April 18 (Tue)
 - 12:00 - 14:00 Lunch
 - 14:00 - 15:00 CMB Lab Tour, meet in the IPMU lobby (1F); Organizer: Tomotake Matsumura
 - 15:00 - 17:30 Research exchange: CMB ([Sakura Square in Kashiwanoha Park](https://goo.gl/maps/m4huFHdnDEiLqays7)); Organizer: Toshiya Namikawa
-- 18:00 - 21:00 Self-organized dinner; Contact: KG Lee
+- 18:00 - 21:00 Informal reception in Tokyo; Contact: KG Lee
