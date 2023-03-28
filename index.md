@@ -4,7 +4,7 @@ author_profile: false
 ---
 
 
-![Tea](/_images/tea_time.jpeg)
+![Tea](/_images/hackfriday.jpg)
 
 Our mission is to decode the universe. We are dedicated to advancing our understanding of the universe through the innovative use of data science and machine learning techniques, by fostering a collaborative and interdisciplinary research environment, and by engaging with the broader scientific community and society.
 
