@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-last_modified_at: 2023-01-25
+last_modified_at: 2023-04-03
 layout: single
 toc: true
 toc_sticky: true
@@ -47,9 +47,9 @@ The **[Simons Observatory](https://simonsobservatory.org/){:target="_blank"}** (
 <img src="/_images/logo_belleII.png" style="width: 120px;">\
 **[Belle-II](https://www.belle2.org/){:target="_blank"}**, the first super B-Factory experiment, is designed to make precise measurements of weak interaction parameters and find NP (New Physics) beyond the Standard Model of particle physics. It is at the SuperKEKB accelerator complex at KEK in Tsukuba, Ibaraki prefecture, Japan.
 
-## Quantum Machine Learning
+## Machine Learning Theory
 
-We explore the feasibility of applying quantum technologies to data analysis in experiments and observations. In addition to quantum machine learning algorithms, we broadly study quantum algorithms and quantum simulations, to better understand the powers and limitations of quantum computers.
+We explore the feasibility of applying novel machine-learning techniques to data analysis and simulations in physics and astrophysics.  As an example, we study quantum machine-learning algorithms and quantum simulations, to better understand the powers and limitations of quantum computers.
 
 ## AI Ethics
 
