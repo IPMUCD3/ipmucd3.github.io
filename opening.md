@@ -1,7 +1,7 @@
 ---
 title: "CD3 Opening Symposium"
 permalink: /opening/
-last_modified_at: 2023-02-08
+last_modified_at: 2023-04-06
 layout: single
 toc: true
 toc_sticky: true
@@ -13,7 +13,7 @@ Location: Kavli IPMU ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](
 Registration: [Form](https://forms.gle/tjxAJsuzH7KHFRvL9)
 
 ## Intro to Deep Learning
-April 19 (Wed) afternoon, Balcony A Seminar Room (4F)\
+April 19 (Wed) afternoon, Lecture Hall (1F)\
 Organizers: Jingjing Shi, Joaquin Armijo
 
 - 13:00 - 14:00 Deep learning 101 (François Lanusse)
@@ -37,7 +37,7 @@ Chair: Masahiro Takada
 - 11:45 - 12:00	Ceremony & Photo
 
 ## In focus: Data-Driven Cosmology
-April 20 (Thur) afternoon, Balcony A Seminar Room (4F)
+April 20 (Thur) afternoon, Lecture Hall (1F)
 
 - 13:30 - 15:00 Machine learning in cosmology -- an extremely fast literature review\
 Organizer: Derek Inman\
@@ -61,7 +61,7 @@ During the week, we will have many visitors in the cosmology group. We arranged 
 April 18 (Tue)
 
 - 10:00 - 10:45 IPMU building tour, meet in the IPMU lobby (1F); Organizer: John Silverman
-- 11:00 - 12:00 Research exchange: LSS (Balcony A Room on 4F); Organizer: Elisa Ferreira
+- 11:00 - 12:00 Research exchange: LSS (Seminar room C, 3F); Organizer: Elisa Ferreira
 - 12:00 - 14:00 Lunch
 - 14:00 - 15:00 CMB Lab Tour, meet in the IPMU lobby (1F); Organizer: Tomotake Matsumura
 - 15:00 - 17:30 Research exchange: CMB ([Sakura Square in Kashiwanoha Park](https://goo.gl/maps/m4huFHdnDEiLqays7)); Organizer: Toshiya Namikawa
