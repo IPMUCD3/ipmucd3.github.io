@@ -53,7 +53,7 @@ Reviewers (15 min x 6 topics):\
 Chairs: Elisa Ferreira, KG Lee\
 CMB discussion leaders: Colin Hill, Tomotake Matsumura\
 LSS discussion leaders: Francois Lanusse, Masahiro Takada
-- 18:00 - 21:00 Self-organized dinner
+- 18:00 - 21:00 Dinner ([registration form](https://docs.google.com/forms/d/e/1FAIpQLScNYcqvD_Cf4UbMn_rjvIZEE6R_4ovgflYwo0yInrIEia7fKQ/viewform)); Organizer: KG Lee 
 
 ## Unofficial events
 During the week, we will have many visitors in the cosmology group. We arranged some activities for them, but anyone is welcome to join.
