@@ -1,7 +1,7 @@
 ---
 title: "CD3 Opening Symposium"
 permalink: /opening/
-last_modified_at: 2023-04-06
+last_modified_at: 2023-04-10
 layout: single
 toc: true
 toc_sticky: true
