@@ -34,7 +34,7 @@ Chair: Masahiro Takada
 - 11:00 - 11:15 IPMU research highlight (Saki Fujita)
 - 11:15 - 11:30 IPMU research highlight (Man Wai Cheung)
 - 11:30 - 11:45 IPMU research highlight (Hiromi Yokoyama)
-- 11:45 - 12:00	Ceremony & Photo
+- 11:45 - 12:00	Photo
 
 ## In focus: Data-Driven Cosmology
 April 20 (Thur) afternoon, Lecture Hall (1F)
