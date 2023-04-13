@@ -1,7 +1,7 @@
 ---
 title: "CD3 Opening Symposium"
 permalink: /opening/
-last_modified_at: 2023-04-10
+last_modified_at: 2023-04-14
 layout: single
 toc: true
 toc_sticky: true
@@ -10,7 +10,7 @@ toc_sticky: true
 \
 Time: April 19-20, 2023\
 Location: Kavli IPMU ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7))\
-Registration: [Form](https://forms.gle/tjxAJsuzH7KHFRvL9)
+<!-- Registration: [Form](https://forms.gle/tjxAJsuzH7KHFRvL9) -->
 
 ## Intro to Deep Learning
 April 19 (Wed) afternoon, Lecture Hall (1F)\
