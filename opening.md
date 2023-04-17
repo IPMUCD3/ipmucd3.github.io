@@ -1,7 +1,7 @@
 ---
 title: "CD3 Opening Symposium"
 permalink: /opening/
-last_modified_at: 2023-04-14
+last_modified_at: 2023-04-17
 layout: single
 toc: true
 toc_sticky: true
@@ -16,10 +16,10 @@ Location: Kavli IPMU ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](
 April 19 (Wed) afternoon, Lecture Hall (1F)\
 Organizers: Jingjing Shi, Joaquin Armijo
 
-- 13:00 - 14:00 Deep learning 101 (François Lanusse)
+- 13:00 - 14:00 Parallel computing with CPUs & GPUs at IPMU (Connor Bottrell, Sam Passaglia)
 - 14:00 - 15:00 Collaborative coding: git and github (Xuheng Ding, Sunao Sugiyama)
 - 15:00 - 15:30 Tea Time
-- 15:30 - 16:30 Parallel computing with CPUs & GPUs at IPMU (Connor Bottrell, Sam Passaglia)
+- 15:30 - 16:30 Deep learning 101 (François Lanusse)
 - 18:00 - 21:00 Self-organized dinner (tentative location: [Yokocho](https://goo.gl/maps/Kq9mPx5AgmwEpxTt6))
 
 ## CD3 Opening Symposium
