@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-last_modified_at: 2023-04-03
+last_modified_at: 2023-04-18
 layout: single
 toc: true
 toc_sticky: true
@@ -51,8 +51,7 @@ The **[Simons Observatory](https://simonsobservatory.org/){:target="_blank"}** (
 
 We explore the feasibility of applying novel machine-learning techniques to data analysis and simulations in physics and astrophysics.  As an example, we study quantum machine-learning algorithms and quantum simulations, to better understand the powers and limitations of quantum computers.
 
+
+<img src="/_images/logo_ELSI.jpg" style="width: 120px;">\
 ## AI Ethics
-
 Project [Score ELSI](https://member.ipmu.jp/hiromi.yokoyama/secom.html){:target="_blank"}  aims to develop a simple scale to measure the Ethical, Legal and Social Issues (ELSI) in  science and technology, such as artificial inteligence, genome editing, mental health instruments, and climate engineering.
-
-
