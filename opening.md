@@ -43,8 +43,8 @@ April 20 (Thur) afternoon, Lecture Hall (1F)
 - 13:30 - 15:00 Machine learning in cosmology -- an extremely fast literature review\
 Organizer: Derek Inman\
 Reviewers (15 min x 6 topics):\
-(1) LSS (Joaquin Armijo)\
-(2) CMB (Junjie Xia)\
+(1) Cosmic Microwave Background (Junjie Xia)\
+(2) Large-Scale Structure (Joaquin Armijo)\
 (3) Gravitational Waves (Valeri Vardanyan)\
 (4) Reionization (Sam Passaglia)\
 (5) Lensing (Hideki Tanimura)\
