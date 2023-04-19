@@ -11,11 +11,11 @@ toc_sticky: true
 Time: April 19-20, 2023\
 Location: Kavli IPMU ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7))\
 <!-- Registration: [Form](https://forms.gle/tjxAJsuzH7KHFRvL9) -->
-Link to slides: [Slides](https://docs.google.com/presentation/d/1sMyWATKss9uALZ69v9TIOAa68SHByKGpRpkKa_qqetM/edit#slide=id.p)\
 
 ## Intro to Deep Learning
 April 19 (Wed) afternoon, Lecture Hall (1F)\
 Organizers: Jingjing Shi, Joaquin Armijo
+Link to slides: [Slides](https://docs.google.com/presentation/d/1sMyWATKss9uALZ69v9TIOAa68SHByKGpRpkKa_qqetM/edit#slide=id.p)\
 
 - 13:00 - 14:00 Parallel computing with CPUs & GPUs at IPMU (Connor Bottrell, Sam Passaglia)
 - 14:00 - 15:00 Collaborative coding: git and github (Xuheng Ding, Sunao Sugiyama)
