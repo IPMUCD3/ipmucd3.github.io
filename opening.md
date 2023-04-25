@@ -1,7 +1,7 @@
 ---
 title: "CD3 Opening Symposium"
 permalink: /opening/
-last_modified_at: 2023-04-19
+last_modified_at: 2023-04-25
 layout: single
 toc: true
 toc_sticky: true
@@ -32,9 +32,9 @@ Chair: Masahiro Takada
 - 09:30 - 10:00	Keynote talk (Elena Aprile)
 - 10:00 - 10:30 Break
 - 10:30 - 11:00 Keynote talk (Makoto Gonokami)
-- 11:00 - 11:15 IPMU research highlight (Saki Fujita)
-- 11:15 - 11:30 IPMU research highlight (Man Wai Cheung)
-- 11:30 - 11:45 IPMU research highlight (Hiromi Yokoyama)
+- 11:00 - 11:15 IPMU research highlight (Saki Fujita, [Slides](https://www.dropbox.com/s/7ncldw7vh2dhecs/Saki_PRE_2023_04_20_CD3_Opening_Symposium.pdf?dl=0))
+- 11:15 - 11:30 IPMU research highlight (Man Wai Cheung, [Slides](https://www.dropbox.com/s/fj3wrpwzkotnzem/Clusting%20cluster%20algebras.pptx.pdf?dl=0))
+- 11:30 - 11:45 IPMU research highlight (Hiromi Yokoyama, [Slides](https://www.dropbox.com/s/1fjh0etm16uh5pk/CD3-yokoyama.pdf?dl=0))
 - 11:45 - 12:00	Photo
 
 ## In focus: Data-Driven Cosmology
