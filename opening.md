@@ -15,20 +15,20 @@ Location: Kavli IPMU ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](
 ## Intro to Deep Learning
 April 19 (Wed) afternoon, Lecture Hall (1F)\
 Organizers: Jingjing Shi, Joaquin Armijo\
-Link to slides: [Slides](https://docs.google.com/presentation/d/1sMyWATKss9uALZ69v9TIOAa68SHByKGpRpkKa_qqetM/edit#slide=id.p)
+[Slides](https://docs.google.com/presentation/d/1sMyWATKss9uALZ69v9TIOAa68SHByKGpRpkKa_qqetM/edit#slide=id.p)
 
 - 13:00 - 14:00 Parallel computing with CPUs & GPUs at IPMU (Connor Bottrell, Sam Passaglia)
 - 14:00 - 15:00 Collaborative coding: git and github (Xuheng Ding, Sunao Sugiyama)
 - 15:00 - 15:30 Tea Time
 - 15:30 - 16:30 Deep learning 101 (François Lanusse)
-- 18:00 - 21:00 Self-organized dinner (tentative location: [Yokocho](https://goo.gl/maps/Kq9mPx5AgmwEpxTt6))
+- 18:00 - 21:00 Self-organized dinner at [Yokocho](https://goo.gl/maps/Kq9mPx5AgmwEpxTt6)
 
 ## CD3 Opening Symposium
 April 20 (Thur) morning, Lecture Hall (1F)\
 Chair: Masahiro Takada
 
 - 09:00 - 09:10 Welcome and opening remarks (Hirosi Ooguri)
-- 09:10 - 09:30 Introducing CD3 (Jia Liu)
+- 09:10 - 09:30 Introducing CD3 (Jia Liu, [Slides](https://docs.google.com/presentation/d/1Q1_MYk4aFSo_nESFK-Is9pDlzEwaZsASKF--8fnOL38/edit?usp=sharing))
 - 09:30 - 10:00	Keynote talk (Elena Aprile)
 - 10:00 - 10:30 Break
 - 10:30 - 11:00 Keynote talk (Makoto Gonokami)
@@ -42,7 +42,7 @@ April 20 (Thur) afternoon, Lecture Hall (1F)
 
 - 13:30 - 15:00 Machine learning in cosmology -- an extremely fast literature review\
 Organizer: Derek Inman\
-Reviewers (15 min x 6 topics):\
+Reviewers (15 min x 6 topics, [Slides](https://docs.google.com/presentation/d/1sMyWATKss9uALZ69v9TIOAa68SHByKGpRpkKa_qqetM/edit#slide=id.g20f7aad788d_0_34)):\
 (1) Cosmic Microwave Background (Junjie Xia)\
 (2) Large-Scale Structure (Joaquin Armijo)\
 (3) Gravitational Waves (Valeri Vardanyan)\
@@ -54,7 +54,7 @@ Reviewers (15 min x 6 topics):\
 Chairs: Elisa Ferreira, KG Lee\
 CMB discussion leaders: Colin Hill, Tomotake Matsumura\
 LSS discussion leaders: Francois Lanusse, Masahiro Takada
-- 18:00 - 21:00 Dinner ([registration form](https://docs.google.com/forms/d/e/1FAIpQLScNYcqvD_Cf4UbMn_rjvIZEE6R_4ovgflYwo0yInrIEia7fKQ/viewform)); Organizer: KG Lee 
+- 18:00 - 21:00 Dinner at Farmers Table; Organizers: KG Lee, Hideki Tanimura
 
 ## Unofficial events
 During the week, we will have many visitors in the cosmology group. We arranged some activities for them, but anyone is welcome to join.
@@ -65,5 +65,5 @@ April 18 (Tue)
 - 11:00 - 12:00 Research exchange: LSS (Seminar room C, 3F); Organizer: Elisa Ferreira
 - 12:00 - 14:00 Lunch
 - 14:00 - 15:00 CMB Lab Tour, meet in the IPMU lobby (1F); Organizer: Tomotake Matsumura
-- 15:00 - 17:30 Research exchange: CMB ([Sakura Square in Kashiwanoha Park](https://goo.gl/maps/m4huFHdnDEiLqays7)); Organizer: Toshiya Namikawa
-- 18:00 - 21:00 Informal reception in Tokyo; Contact: KG Lee
+- 15:00 - 17:30 Research exchange: CMB (Seminar room C, 3F); Organizer: Toshiya Namikawa
+- 18:00 - 21:00 Reception in Tokyo; Contact: KG Lee
