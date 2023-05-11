@@ -5,11 +5,7 @@ last_modified_at: 2023-05-11
 layout: single
 ---
 
-
-\
-## Upcoming 
-
-**Hack Friday** 
+## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
 Every Friday 1:30-5pm, Seminar room C (3F)
 * The goal: code, experiment, and connect!
