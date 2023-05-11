@@ -35,7 +35,6 @@ toc_sticky: true
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
-[Cesar Hernandez-Aguayo](https://www.mpa-garching.mpg.de/person/109306/746567){:target="_blank"}\
 [Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
@@ -79,7 +78,9 @@ Chenghan Zha
 ## Collaborators
 
 Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target="_blank"}, [BAI](https://beyondai.jp/?lang=en){:target="_blank"})\
+Cesar Hernandez-Aguayo([Max Planck Institute for Astrophysics](https://www.mpa-garching.mpg.de/person/109306/746567){:target="_blank"})\
 Ken Osato ([Chiba U](https://matiere-noire.net/){:target="_blank"})
+
 
 ## Partner Institutes
 
