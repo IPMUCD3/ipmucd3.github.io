@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-03-22
+last_modified_at: 2023-05-11
 layout: single
 toc: true
 toc_sticky: true
@@ -35,6 +35,7 @@ toc_sticky: true
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
+[Cesar Hernandez-Aguayo](https://www.mpa-garching.mpg.de/person/109306/746567){:target="_blank"}\
 [Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
@@ -57,10 +58,12 @@ toc_sticky: true
 
 ## Students
 
+[Ryosuke Akizawa](https://db.ipmu.jp/member/personal/7180en.html){:target="_blank"}\
 [Saki Fujita](https://www.chiplearning.net/){:target="_blank"}\
 Rhea Gaur\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
+Yona Lapeyre\
 [Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
