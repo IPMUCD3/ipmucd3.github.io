@@ -1,15 +1,25 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2023-03-24
+last_modified_at: 2023-05-11
 layout: single
 ---
 
 
 \
+## Upcoming 
+
 **Hack Friday** 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
-Every Friday 1-5pm, Seminar room C (3F)
+Every Friday 1:30-5pm, Seminar room C (3F)
+* The goal: code, experiment, and connect!
+* The format: 1:30pm describes your goal of the session; 2-4:30pm find a comfy place to code (together or alone); 4:30-5pm reconvene and report back your accomplishments (or failures..) and get feedback from others.
+* What to bring: a laptop, a small challenge that is explorable on a time scale of an afternoon, and an open mind!
+* Who can/should join: anyone who codes. This should be of minimal burden to your work/life, so feel free to join and leave anytime. 
+
+---
+
+## Past
 
 **CD3 Opening Symposium** 
 [Website](/opening/){:target=`_blank`}\
