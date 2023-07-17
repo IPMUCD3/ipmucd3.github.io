@@ -5,7 +5,7 @@ last_modified_at: 2023-07-17
 layout: single
 ---
 
-**AI in astrophysics and cosmology with Fugaku** 
+## AI in astrophysics and cosmology with Fugaku
 [Website](/fugakuAI/){:target=`_blank`}\
 September 11-12th, 2023, University of Tsukuba, Tokyo Campus, Tokyo, Japan
 
