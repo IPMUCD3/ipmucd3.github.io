@@ -22,3 +22,6 @@ Language: \
 Presentations and slides are in English. \
 The Q&A can be in Japanese if needed. \
 We might have some introductory talks in Japanese.
+
+Travel support: \
+The travel support is available from Program for Promoting Researches on the Supercomputer Fugaku” (Structure and Evolution of the Universe Unraveled by Fusion of Simulation and AI; Grant Number JPMXP1020230406).
