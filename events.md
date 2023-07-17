@@ -1,9 +1,13 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2023-05-11
+last_modified_at: 2023-07-17
 layout: single
 ---
+
+**AI in astrophysics and cosmology with Fugaku** 
+[Website](/fugakuAI/){:target=`_blank`}\
+September 11-12th, 2023, University of Tsukuba, Tokyo Campus, Tokyo, Japan
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
