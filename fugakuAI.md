@@ -7,7 +7,7 @@ toc: true
 toc_sticky: true
 ---
 
-\
+
 ## Information
 Time: September 11-12 2023 \
 Location: University of Tsukuba, Tokyo Campus ([access](https://www.tsukuba.ac.jp/en/about/campus-access/tokyo-campus/)) 
