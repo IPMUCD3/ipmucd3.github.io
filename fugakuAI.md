@@ -1,5 +1,5 @@
 ---
-title: "Workshop: AI in astrophysics, earth science, and cosmology with Fugaku"
+title: "Workshop: Astro AI with Fugaku"
 permalink: /fugakuAI/
 last_modified_at: 2023-07-19
 layout: single
@@ -9,7 +9,7 @@ toc_sticky: true
 
 \
 Time: September 11-12 2023 \
-Location: University of Tsukuba, Tokyo Campus ([access](https://www.tsukuba.ac.jp/en/about/campus-access/tokyo-campus/)) \
+Location: University of Tsukuba, Tokyo Campus ([access](https://www.tsukuba.ac.jp/en/about/campus-access/tokyo-campus/)) 
 
 There will be also zoom for the keynote and research talks. \
 Registration: [Form](https://forms.gle/cQyGPbpcSgtWtXcr8) 
