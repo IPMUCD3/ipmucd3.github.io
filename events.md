@@ -1,11 +1,11 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2023-07-17
+last_modified_at: 2023-07-20
 layout: single
 ---
 
-## AI in astrophysics and cosmology with Fugaku
+## Astro AI and Fugaku Workshop
 [Website](/fugakuAI/){:target=`_blank`}\
 September 11-12th, 2023, University of Tsukuba, Tokyo Campus, Tokyo, Japan
 
