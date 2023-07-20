@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Astro AI with Fugaku"
 permalink: /fugakuAI/
-last_modified_at: 2023-07-19
+last_modified_at: 2023-07-20
 layout: single
 toc: true
 toc_sticky: true
@@ -13,7 +13,7 @@ Time: September 11-12 2023 \
 Location: University of Tsukuba, Tokyo Campus ([access](https://www.tsukuba.ac.jp/en/about/campus-access/tokyo-campus/)) 
 
 There will be also zoom for the keynote and research talks. \
-Registration (deadline August 31): [Form](https://forms.gle/cQyGPbpcSgtWtXcr8) 
+Registration (deadline August 20): [Form](https://forms.gle/cQyGPbpcSgtWtXcr8) 
 
 ## Schedule:
 TBD
@@ -33,6 +33,6 @@ Hideyuki Hotta (Nagoya University)\
 Jia Liu (Kavli IPMU)
 
 ## Acknowledgement 
-The travel support is available from Program for Promoting Researches on the Supercomputer Fugaku: Structure and Evolution of the Universe Unraveled by Fusion of Simulation and AI; Grant Number JPMXP1020230406.
+This workshop is supported by Program for Promoting Researches on the Supercomputer Fugaku: Structure and Evolution of the Universe Unraveled by Fusion of Simulation and AI; Grant Number JPMXP1020230406, and JSPS KAKENHI grant No 21H04488.
 
 This page is created by Kateryna Vovk (Kavli IPMU).
