@@ -5,9 +5,11 @@ last_modified_at: 2023-07-20
 layout: single
 ---
 
-## Workshop: Astro AI and Fugaku
+## Upcoming events
+**Workshop: Astro AI and Fugaku**
+
 [Website](/fugakuAI/){:target=`_blank`}\
-September 11-12th, 2023, University of Tsukuba, Tokyo Campus, Tokyo, Japan
+September 11-12th, 2023, University of Tsukuba Tokyo Campus, Tokyo, Japan
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
@@ -19,7 +21,7 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 
 ---
 
-## Past
+## Past events
 
 **CD3 Opening Symposium** 
 [Website](/opening/){:target=`_blank`}\
