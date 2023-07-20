@@ -5,7 +5,7 @@ last_modified_at: 2023-07-20
 layout: single
 ---
 
-## Astro AI and Fugaku Workshop
+## Workshop: Astro AI and Fugaku
 [Website](/fugakuAI/){:target=`_blank`}\
 September 11-12th, 2023, University of Tsukuba, Tokyo Campus, Tokyo, Japan
 
