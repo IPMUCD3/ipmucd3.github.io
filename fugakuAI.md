@@ -29,9 +29,8 @@ Day 1 (11 Sep.) \
   
 12:00 - 13:30 Lunch break \
 13:30 - 13:50 Self Introduction (~1 min per person; please put your self-introduction slides on Google Slide) \
-13:50 - 17:00 Hack (We will divide the participants into 4 groups (evenly distribute people with AI-related experience)
-The organizer will prepare some tutorials just in case your group has no idea where to start.
-3-5 min reports from each group in the end) \
+13:50 - 17:00 Hack (We will divide the participants into 4 groups evenly distributing people with AI-related experience;
+the organizer will prepare some tutorials just in case group has no idea where to start; 3-5 min reports from each group in the end) \
 18:00 ~ Self-organized dinner
 
 Day 2 (12 Sep.) \
