@@ -25,7 +25,8 @@ Day 1 (11 Sep.) \
 (3) Jia Liu
 - 10:50 - 11:20  Keynote talk (Yusuke Iida, Slides in English, talk in Japanese)
 - 11:20 - 11:30  break
-- 11:30 - 12:00  Keynote talk (TBD) \
+- 11:30 - 12:00  Keynote talk (TBD)
+  
 12:00 - 13:30 Lunch break \
 13:30 - 13:50 Self Introduction (~1 min per person; please put your self-introduction slides on Google Slide) \
 13:50 - 17:00 Hack (We will divide the participants into 4 groups (evenly distribute people with AI-related experience)
@@ -43,6 +44,7 @@ Day 2 (12 Sep.) \
 - 11:15 - 11:30 Akira Tokiwa "Spherical Super resolution on HEALPix maps"
 - 11:30 - 11:45 Armijo Joaquin "Weak lensing map modelling using generative methods"
 - 11:45 - 12:00 Hideki Tanimura "DM density reconstruction from galaxy distribution with deep learning" \
+
 12:00 - 16:00 Free Lunch + Hack (3-5 min reports from each group in the end)
 
 Notice
