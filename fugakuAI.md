@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Astro AI with Fugaku"
 permalink: /fugakuAI/
-last_modified_at: 2023-08-24
+last_modified_at: 2023-08-25
 layout: single
 toc: true
 toc_sticky: true
@@ -25,7 +25,7 @@ Registration (deadline August 20): [Form](https://forms.gle/cQyGPbpcSgtWtXcr8)
 (3) Jia Liu
 - 10:50 - 11:20  Keynote talk (Yusuke Iida, Slides in English, talk in Japanese)
 - 11:20 - 11:30  break
-- 11:30 - 12:00  Keynote talk (TBD)
+- 11:30 - 12:00  Keynote talk (Jingjing Shi)
   
 12:00 - 13:30 Lunch break \
 13:30 - 13:50 Self Introduction (~1 min per person; please put your self-introduction slides on Google Slide) \
