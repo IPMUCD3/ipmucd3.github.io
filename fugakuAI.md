@@ -16,7 +16,7 @@ There will be also zoom for the keynote and research talks. \
 Registration (deadline August 20): [Form](https://forms.gle/cQyGPbpcSgtWtXcr8) 
 
 ## Schedule:
-Day 1 (11 Sep.) \
+### Day 1 (11 Sep.) 
 10:30 - 12:00 Keynote talks:
 - 10:30 - 10:35 Opening remarks (Kana Moriwaki)
 - 10:35 - 10:50  Overviews on Fugaku projects \
@@ -33,7 +33,7 @@ Day 1 (11 Sep.) \
 the organizer will prepare some tutorials just in case group has no idea where to start; 3-5 min reports from each group in the end) \
 18:00 ~ Self-organized dinner
 
-Day 2 (12 Sep.) \
+### Day 2 (12 Sep.) 
 10:00 - 12:00 Research talks (10 min talk + 5 min Q & A) 
 - 10:00 - 10:15 Hiroyuki Masaki "Estimation of thermal convective structure in the solar interior by AI using solar simulations as training data"
 - 10:15 - 10:30 Yuta Asahina "Machine learning estimation of the Eddington tensor for the simulation of accretion disks around black holes"
