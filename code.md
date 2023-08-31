@@ -34,7 +34,7 @@ A suite of mock weak lensing maps based on the cosmological hydrodynamic simulat
 **[MassiveNuS](http://astronomy.nmsu.edu/aklypin/SUsimulations/MassiveNuS/){:target="_blank"}** ([arxiv:1711.10524](https://arxiv.org/abs/1711.10524){:target="_blank"})\
 A suite of 100 cosmological massive neutrino simulations (+ 1 massless model), with snapshots, halo catalogues, merger trees, and CMB and weak lensing convergence maps. 
 
-**[IllustrisTNG in the HSC-SSP](https://www.tng-project.org/data/docs/specifications/#sec5_5)){:target="_blank"}** ([arxiv:2308.14793](https://arxiv.org/abs/2308.14793){:target="_blank"})\
+**[IllustrisTNG in the HSC-SSP](https://www.tng-project.org/data/docs/specifications/#sec5_5){:target="_blank"}** ([arxiv:2308.14793](https://arxiv.org/abs/2308.14793){:target="_blank"})\
 Synthetic images of galaxies from the IllustrisTNG simulations made using dust radiative transfer post-processing with SKIRT. The images are designed to match the observational characteristics of the Hyper Suprime-Cam Subaru Strategic Program. Both “HSC-realistic” and noise-free, high-resolution versions of the images are available.
 
 Galleries: [HSC-realistic mocks](https://www.tng-project.org/explore/gallery/bottrell23/), [idealized mocks](https://www.tng-project.org/explore/gallery/bottrell23i/)
