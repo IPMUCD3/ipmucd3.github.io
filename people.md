@@ -29,7 +29,6 @@ toc_sticky: true
 ## Postdocs
 
 [Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
-[Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
 [Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
 [Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
@@ -39,8 +38,6 @@ toc_sticky: true
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
-[Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
-[Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
@@ -48,11 +45,9 @@ toc_sticky: true
 [Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
 [Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
-[Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
 [Kiyoto Yabe](https://db.ipmu.jp/member/personal/4354en.html){:target="_blank"}\
-[Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
 [Stephane Zsoldos](https://github.com/P3tru){:target="_blank"}
 
 ## Students
@@ -62,7 +57,6 @@ toc_sticky: true
 Rhea Gaur\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
-Yona Lapeyre\
 [Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
@@ -87,6 +81,21 @@ Ken Osato ([Chiba U](https://matiere-noire.net/){:target="_blank"})
 [Beyond AI](https://beyondai.jp/?lang=en){:target="_blank"}\
 [Information Technology Center](https://www.itc.u-tokyo.ac.jp/en/){:target="_blank"}\
 [FoPM](https://www.s.u-tokyo.ac.jp/en/FoPM/){:target="_blank"}\
-[ILANCE](https://ilance.cnrs.fr/){:target="_blank"} 
+[ILANCE](https://ilance.cnrs.fr/){:target="_blank"}
 
-If you are interested in partnering with us through programs such as student exchange and visiting scholars, please reach out! 
+If you are interested in partnering with us through programs such as student exchange and visiting scholars, please reach out!
+
+
+## Past Members
+
+## Former Postdocs
+
+[Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
+[Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
+[Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
+[Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
+[Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}
+
+## Former Students
+
+ Yona Lapeyre
