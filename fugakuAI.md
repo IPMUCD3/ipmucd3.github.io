@@ -10,26 +10,24 @@ toc_sticky: true
 
 ## Information
 Time: September 11-12 2023 \
-Location: University of Tsukuba, Tokyo Campus ([access](https://www.tsukuba.ac.jp/en/about/campus-access/tokyo-campus/)) 
+Location: Room 120, University of Tsukuba, Tokyo Campus ([access](https://www.tsukuba.ac.jp/en/about/campus-access/tokyo-campus/)) 
 
-There will be also zoom for the keynote and research talks. \
-Registration (deadline August 20): [Form](https://forms.gle/cQyGPbpcSgtWtXcr8) 
+Zoom: [link](https://u-tokyo-ac-jp.zoom.us/j/81246669006?pwd=MEFiUENIS3ZmeHp6K1h1RjdGQjg1QT09)
 
 ## Schedule:
 ### Day 1 (11 Sep.) 
-10:30 - 12:00 Keynote talks:
-- 10:30 - 10:35 Opening remarks (Kana Moriwaki)
-- 10:35 - 10:50  Overviews on Fugaku projects \
-(1) Ken Ohsuga \
-(2) Hideyuki Hotta \
+10:30 - 10:35 Opening remarks (Kana Moriwaki)\
+10:35 - 11:05 Keynote talk (Yusuke Iida, Slides in English, talk in Japanese)\
+11:05 - 11:15 break\
+11:15 - 11:45 Keynote talk (Jingjing Shi)\
+11:45 - 12:00 Overviews on Fugaku projects\
+(1) Ken Ohsuga\
+(2) Hideyuki Hotta\
 (3) Jia Liu
-- 10:50 - 11:20  Keynote talk (Yusuke Iida, Slides in English, talk in Japanese)
-- 11:20 - 11:30  break
-- 11:30 - 12:00  Keynote talk (Jingjing Shi)
   
 12:00 - 13:30 Lunch break \
 13:30 - 13:50 Self Introduction (~1 min per person; please put your self-introduction slides on Google Slide) \
-13:50 - 17:00 Hack (We will divide the participants into 4 groups evenly distributing people with AI-related experience;
+13:50 - 17:00 Hack (We will divide the participants into 4 groups, evenly distributing people with AI-related experience;
 the organizer will prepare some tutorials just in case group has no idea where to start; 3-5 min reports from each group in the end) \
 18:00 ~ Self-organized dinner
 
@@ -42,7 +40,7 @@ the organizer will prepare some tutorials just in case group has no idea where t
 - 11:00 - 11:15 Kana Moriwaki "Deep learning for line intensity mapping: reconstruction of the large-scale structure of the universe"
 - 11:15 - 11:30 Akira Tokiwa "Spherical Super resolution on HEALPix maps"
 - 11:30 - 11:45 Armijo Joaquin "Weak lensing map modelling using generative methods"
-- 11:45 - 12:00 Hideki Tanimura "DM density reconstruction from galaxy distribution with deep learning" \
+- 11:45 - 12:00 Hideki Tanimura "DM density reconstruction from galaxy distribution with deep learning"
 
 12:00 - 16:00 Free Lunch + Hack (3-5 min reports from each group in the end)
 
