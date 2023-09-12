@@ -3,13 +3,15 @@ title: "Events"
 permalink: /events/
 last_modified_at: 2023-07-20
 layout: single
+toc: true
+toc_sticky: true
 ---
 
 ## Upcoming events
-**Workshop: Astro AI and Fugaku**
 
-[Website](/fugakuAI/){:target=`_blank`}\
-September 11-12th, 2023, University of Tsukuba Tokyo Campus, Tokyo, Japan
+**CD3 x CCA Workshop: AI-driven discovery in cosmology and astrophysics** 
+Website coming soon.\
+January 22-26, 2024, Kavli IPMU, Kashiwa, Japan
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
@@ -22,11 +24,14 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 ---
 
 ## Past events
+**Workshop: Astro AI and Fugaku**
+[Website](/fugakuAI/){:target=`_blank`}\
+September 11-12, 2023, University of Tsukuba Tokyo Campus, Tokyo, Japan
 
 **CD3 Opening Symposium** 
 [Website](/opening/){:target=`_blank`}\
-April 19-20th, 2023, Kavli IPMU, Kashiwa, Japan
+April 19-20, 2023, Kavli IPMU, Kashiwa, Japan
 
 **Workshop: Future Science with CMB x LSS** 
 [Website](https://www2.yukawa.kyoto-u.ac.jp/~cmb-lss/index.php){:target=`_blank`}\
-April 10-14th, 2023, YITP, Kyoto, Japan
+April 10-14, 2023, YITP, Kyoto, Japan
