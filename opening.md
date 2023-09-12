@@ -9,8 +9,11 @@ toc_sticky: true
 
 \
 Time: April 19-20, 2023\
-Location: Kavli IPMU ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7))\
+Location: Kavli IPMU ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7))
 <!-- Registration: [Form](https://forms.gle/tjxAJsuzH7KHFRvL9) -->
+
+## Photo
+![opening_groupphoto](/_images/CD3_opening_groupphoto.jpeg)
 
 ## Intro to Deep Learning
 April 19 (Wed) afternoon, Lecture Hall (1F)\
