@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-09-06
+last_modified_at: 2023-09-15
 layout: single
 toc: true
 toc_sticky: true
@@ -33,6 +33,7 @@ toc_sticky: true
 [Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
+[Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
 [Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
@@ -72,6 +73,7 @@ Chenghan Zha
 ## Collaborators
 
 Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target="_blank"}, [BAI](https://beyondai.jp/?lang=en){:target="_blank"})\
+Michel	Gonin ([ILANCE](https://ilance.cnrs.fr/){:target="_blank"}\
 Cesar Hernandez-Aguayo ([MPA](https://www.mpa-garching.mpg.de/person/109306/746567){:target="_blank"})\
 Ken Osato ([Chiba U](https://matiere-noire.net/){:target="_blank"})
 
