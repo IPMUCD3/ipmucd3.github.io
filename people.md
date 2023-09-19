@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-09-15
+last_modified_at: 2023-09-19
 layout: single
 toc: true
 toc_sticky: true
@@ -44,7 +44,7 @@ toc_sticky: true
 [Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
-[Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
+[Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}
 
 
 
