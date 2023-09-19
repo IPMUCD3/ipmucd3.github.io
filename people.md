@@ -34,22 +34,19 @@ toc_sticky: true
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
-[Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
 [Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
-[Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
-[Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
 [Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
-[Kiyoto Yabe](https://db.ipmu.jp/member/personal/4354en.html){:target="_blank"}\
-[Stephane Zsoldos](https://github.com/P3tru){:target="_blank"}
+
+
 
 ## Students
 
@@ -93,10 +90,16 @@ If you are interested in partnering with us through programs such as student exc
 ## Former Postdocs
 
 [Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
+[Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
+[Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
+[Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
-[Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}
+[Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
+[Kiyoto Yabe](https://db.ipmu.jp/member/personal/4354en.html){:target="_blank"}\
+[Stephane Zsoldos](https://github.com/P3tru){:target="_blank"}
+
 
 ## Former Students
 
