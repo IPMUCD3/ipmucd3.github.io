@@ -15,7 +15,7 @@ toc_sticky: true
 
 ## Information
 Time: January 22-26 2024 \
-Location: Kavli IPMU, University of Tokyo, Kashiwanoha campus ([access](https://www.ipmu.jp/en/place-and-people/contact)) 
+Location: Kavli IPMU, University of Tokyo, Kashiwanoha Campus ([access](https://www.ipmu.jp/en/place-and-people/contact)) 
 Slides: [link](link)
 
 ## Schedule:
@@ -39,8 +39,8 @@ Slides: [link](link)
 
 
 ## Organizers
-CD3
-CCA
+Center for Data-Driven Discoveries [CD3](https://cd3.ipmu.jp/)
+Center for Computational Astrophysics [CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)
 
 ## Photo
 
