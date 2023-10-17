@@ -1,6 +1,6 @@
 ---
-title: "CD3 x CCA Workshop: AI-driven discovery in cosmology and astrophysics"
-permalink: /CD3xCCA/
+title: "AI-driven discovery in physics and astrophysics"
+permalink: /ai4phys
 last_modified_at: 2023-10-13
 layout: single
 toc: true
@@ -8,48 +8,49 @@ toc_sticky: true
 ---
 
 ## Introduction
- With this workshop, we hope to:\
-• Strengthen the collaboration between the 2 centers and other AI/ML experts\
-• Explore new venues for AI/ML to advance physical sciences\
-• Educate junior scientists in Japan on AI/ML
+
+This workshop aims to explore venues to make discovery in physics and astrophysics with AI/ML. 
 
 ## Information
-Time: January 22-26 2024 \
-Location: Kavli IPMU, University of Tokyo, Kashiwanoha Campus ([access](https://www.ipmu.jp/en/place-and-people/contact)) 
-<!--- Slides: [link](link) -->
+Time: January 22-26, 2024 \
+Location: Kavli IPMU, University of Tokyo, Kashiwanoha Campus ([access](https://www.ipmu.jp/en/place-and-people/contact)) \
+Travel Information: [link](https://www.ipmu.jp/en/visitors)
 
 ## Schedule:
 
 TBD
 
-<!--- ### Day 1 (22 Jan.) 
-10:30 - 10:35 first talk \
-10:35 - 11:05 Keynote talk \
-11:05 - 11:15 break\
-... \
-  
-12:00 - 13:30 Lunch break \
-...
-18:00 ~ Self-organized dinner
-
-### Day 2 (23 Jan.) 
-10:00 - 12:00 talks \
-- 10:00 - 10:15 1
-- 10:15 - 10:30 2
-... \
-12:00 - 16:00 Free Lunch + Hack
--->
-
+Mon-Wed: 1-2 introductory talks/day and extended time for discussion/collaboration/hackathon\
+Thur-Fri: Keynote talks, research progress talks, and panel discussions\
 
 ## Organizers
-Center for Data-Driven Discoveries [CD3](https://cd3.ipmu.jp/)
-Center for Computational Astrophysics [CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)
 
-## Photo
+SOC:\
+Jia Liu (Co-chair)\
+Shirley Ho (Co-chair)\
+Kyunghyun Cho\
+Miles Cranmer\
+Siavash Golkar\
+François Lanusse\
+Tomotake Matsumura\
+Jingjing Shi\
+Masahiro Takada\
+Hideki Tanimura
 
+LOC:\
+Khee-Gan (K.G.) Lee (Chair)\
+Joaquin Armijo\
+Xuheng Ding\
+Keiya Hirashima\
+Kateryna Vovk
+
+## Sponsors
+
+Center for Data-Driven Discoveries ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU\
+Center for Computational Astrophysics ([CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)), Flatiron Institute\
+The Kobayashi-Maskawa Institute for the Origin of Particles and the Universe ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/)), Nagoya University
 
 
 ## Acknowledgement 
 
 This page is created by Kateryna Vovk (CD3 research staff).
-
