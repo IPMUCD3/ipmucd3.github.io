@@ -8,9 +8,9 @@ toc_sticky: true
 ---
 
 ## Introduction
- With this workshop, we hope to:
-• Strengthen the collaboration between the 2 centers and other AI/ML experts
-• Explore new venues for AI/ML to advance physical sciences
+ With this workshop, we hope to:\
+• Strengthen the collaboration between the 2 centers and other AI/ML experts\
+• Explore new venues for AI/ML to advance physical sciences\
 • Educate junior scientists in Japan on AI/ML
 
 ## Information
