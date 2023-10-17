@@ -1,6 +1,6 @@
 ---
 title: "AI-driven discovery in physics and astrophysics"
-permalink: ai4phys
+permalink: /ai4phys/
 last_modified_at: 2023-10-13
 layout: single
 toc: true
