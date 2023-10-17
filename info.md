@@ -31,7 +31,7 @@ If you are a member, in your relevant publication please use the institutional a
 
 If you are not a member of Kavli IPMU, but your work was initiated, performed, or performed in part during the Center's events including, but not limited to, tutorials, seminars, and workshops, please add appropriate acknowledgement in your publication:
 
-<span style="color:teal">This work was initiated\* at Center for Data-Driven Discovery, Kavli IPMU (WPI).</span>\
+<span style="color:teal">This work was initiated\* at the Center for Data-Driven Discovery, Kavli IPMU (WPI).</span>\
 \* Please change to "performed" or  "performed in part" accordingly.
 
 ## Code of Conduct
