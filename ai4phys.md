@@ -9,19 +9,26 @@ toc_sticky: true
 
 ## Introduction
 
-This workshop aims to explore venues to make discovery in physics and astrophysics with AI/ML. 
+This workshop aims to explore ways to make discovery in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will have the theme "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with high-level talks by leading experts, research talks by junior researchers, and intensive discussions. 
 
 ## Information
+
 Time: January 22-26, 2024 \
-Location: Kavli IPMU, University of Tokyo, Kashiwanoha Campus ([access](https://www.ipmu.jp/en/place-and-people/contact)) \
-Travel Information: [link](https://www.ipmu.jp/en/visitors)
+Location: Kavli IPMU, University of Tokyo ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8)) \
+Travel Information: [visa, access, hotel](https://www.ipmu.jp/en/visitors)\
+Cosmologists’ [Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
 
-## Schedule:
+## Registration 
 
-TBD
+Deadline: November 30, 2023\
+Registration form: [link](https://forms.gle/xxx)
+
+## Schedule
 
 Mon-Wed: 1-2 introductory talks/day and extended time for discussion/collaboration/hackathon\
-Thur-Fri: Keynote talks, research progress talks, and panel discussions\
+Thur-Fri: Keynote talks, research progress talks, and panel discussions
+
+Detailed schedule TBD
 
 ## Organizers
 
@@ -53,4 +60,6 @@ The Kobayashi-Maskawa Institute for the Origin of Particles and the Universe ([K
 
 ## Acknowledgement 
 
-This page is created by Kateryna Vovk (CD3 research staff).
+If you initiated, performed, or performed in part a project during the workshop, please add the following acknowledgement in your publication:
+
+This work was initiated (or performed, performed in part) at the CD3 x CCA workshop "AI-driven discovery in physics and astrophysics" during January 22-26, 2024, at Kavli IPMU, Kashiwa, Japan.
