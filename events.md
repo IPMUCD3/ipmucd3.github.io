@@ -1,7 +1,7 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2023-07-20
+last_modified_at: 2023-10-17
 layout: single
 toc: true
 toc_sticky: true
@@ -10,7 +10,7 @@ toc_sticky: true
 ## Upcoming events
 
 **CD3 x CCA Workshop: AI-driven discovery in cosmology and astrophysics** 
-Website coming soon.\
+[Website](/ai4phys.md/) \
 January 22-26, 2024, Kavli IPMU, Kashiwa, Japan
 
 ## Hack Friday 
