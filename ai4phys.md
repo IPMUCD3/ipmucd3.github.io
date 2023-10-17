@@ -21,7 +21,7 @@ Cosmologists’ [Guide to Japan](https://sites.google.com/view/ipmucmb/discover-
 ## Registration 
 
 Deadline: November 30, 2023\
-Registration form: [link](https://forms.gle/xxx)
+Registration form: [link](https://forms.gle/fkNNtJaeXKsNkSD58))
 
 ## Schedule
 
