@@ -16,10 +16,13 @@ toc_sticky: true
 ## Information
 Time: January 22-26 2024 \
 Location: Kavli IPMU, University of Tokyo, Kashiwanoha Campus ([access](https://www.ipmu.jp/en/place-and-people/contact)) 
-Slides: [link](link)
+<!--- Slides: [link](link) -->
 
 ## Schedule:
-### Day 1 (22 Jan.) 
+
+TBD
+
+<!--- ### Day 1 (22 Jan.) 
 10:30 - 10:35 first talk \
 10:35 - 11:05 Keynote talk \
 11:05 - 11:15 break\
@@ -35,7 +38,7 @@ Slides: [link](link)
 - 10:15 - 10:30 2
 ... \
 12:00 - 16:00 Free Lunch + Hack
-
+-->
 
 
 ## Organizers
