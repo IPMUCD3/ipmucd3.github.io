@@ -9,12 +9,12 @@ toc_sticky: true
 
 ## Introduction
 
-This workshop aims to explore ways to make discovery in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will have the theme "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with high-level talks by leading experts, research talks by junior researchers, and intensive discussions. 
+This workshop aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with high-level talks by leading experts, research talks by junior researchers, and intensive discussions. 
 
 ## Information
 
-Time: January 22-26, 2024 \
-Location: Kavli IPMU, University of Tokyo ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8)) \
+Time: January 22-26, 2024\
+Location: Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8)) \
 Travel Information: [visa, access, hotel](https://www.ipmu.jp/en/visitors)\
 Cosmologists’ [Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
 
@@ -30,15 +30,25 @@ Thur-Fri: Keynote talks, research progress talks, and panel discussions
 
 Detailed schedule TBD
 
+## Speakers
+Miles Cranmer\
+François Lanusse\
+Mike McCabe\
+Mariel Pettee\
+Ruben Ohana\
+Kyunghyun Cho\
+Siavash Golkar\
+Michael Eickenberg\
+Alberto Bietti\
+Nicoletta	Krachmalnicoff\*
+
+\* To be confirmed
+
 ## Organizers
 
 SOC:\
 Jia Liu (Co-chair)\
 Shirley Ho (Co-chair)\
-Kyunghyun Cho\
-Miles Cranmer\
-Siavash Golkar\
-François Lanusse\
 Tomotake Matsumura\
 Jingjing Shi\
 Masahiro Takada\
@@ -53,9 +63,9 @@ Kateryna Vovk
 
 ## Sponsors
 
-Center for Data-Driven Discoveries ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU\
-Center for Computational Astrophysics ([CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)), Flatiron Institute\
-The Kobayashi-Maskawa Institute for the Origin of Particles and the Universe ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/)), Nagoya University
+* Center for Data-Driven Discoveries ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
+* Center for Computational Astrophysics ([CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)), Flatiron Institute
+* The Kobayashi-Maskawa Institute for the Origin of Particles and the Universe ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/)), Nagoya University
 
 
 ## Acknowledgement 
