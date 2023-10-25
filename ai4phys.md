@@ -42,6 +42,7 @@ Michael Eickenberg\
 Alberto Bietti\
 Nicoletta	Krachmalnicoff
 
+(Accepting contributed talks through registration form)
 
 ## Organizers
 
