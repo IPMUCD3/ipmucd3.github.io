@@ -40,9 +40,8 @@ Kyunghyun Cho\
 Siavash Golkar\
 Michael Eickenberg\
 Alberto Bietti\
-Nicoletta	Krachmalnicoff\*
+Nicoletta	Krachmalnicoff
 
-\* To be confirmed
 
 ## Organizers
 
