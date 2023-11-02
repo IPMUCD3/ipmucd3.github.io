@@ -31,16 +31,16 @@ Thur-Fri: Keynote talks, research progress talks, and panel discussions
 Detailed schedule TBD
 
 ## Speakers
-Shirley Ho (CCA)
-Miles Cranmer (University of Cambridge)\
-François Lanusse (CCA/CNRS)\
-Mariel Pettee (LBNL)\
-Kyunghyun Cho (NYU)\
-Siavash Golkar (CCA)\
-Michael Eickenberg (CCA)\
-Alberto Bietti (CCA)\
-Nicoletta	Krachmalnicoff (SISSA)\
-Michelle Ntampaka (STScI)
+[Alberto Bietti](https://alberto.bietti.me/) (CCA)\
+[Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
+[Miles Cranmer](https://astroautomata.com/) (Cambridge)\
+[Michael Eickenberg](https://www.simonsfoundation.org/people/michael-eickenberg/) (CCA)\
+[Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (CCA)\
+[Shirley Ho](https://www.shirleyho.me/) (CCA)\
+[Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
+[François Lanusse](https://flanusse.net/) (CCA/CNRS)\
+[Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (STScI)
+[Mariel Pettee](https://marielpettee.com/) (LBNL)\
 
 (Accepting abstracts through registration form)
 
