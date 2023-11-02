@@ -1,7 +1,7 @@
 ---
 title: "AI-driven discovery in physics and astrophysics"
 permalink: /ai4phys/
-last_modified_at: 2023-10-13
+last_modified_at: 2023-11-02
 layout: single
 toc: true
 toc_sticky: true
@@ -31,13 +31,13 @@ Thur-Fri: Keynote talks, research progress talks, and panel discussions
 Detailed schedule TBD
 
 ## Speakers
-Miles Cranmer\
-François Lanusse\
-Mike McCabe\
-Mariel Pettee\
-Ruben Ohana\
-Kyunghyun Cho\
-Siavash Golkar\
+Miles Cranmer ([personal page](https://astroautomata.com/), [University of Cambridge](https://www.cam.ac.uk/)\
+François Lanusse ([personal page](https://flanusse.net/), [Faltiron Institute](https://www.simonsfoundation.org/flatiron/)\
+Mike McCabe ([personal page](https://mikemccabe210.github.io/), [University of Colorado](https://www.colorado.edu/)\
+Mariel Pettee ([personal page](https://marielpettee.com/), [Lawrence Berkeley National Lab](https://www.lbl.gov/)\
+Ruben Ohana ([personal page](https://rubenohana.github.io/), [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/))\
+Kyunghyun Cho([personal page](https://kyunghyuncho.me/), [Computational Intelligence, Vision, and Robotics Lab at NYU](https://wp.nyu.edu/cilvr/)\
+Siavash Golkar([Center for Computational Astrophysics](https://www.simonsfoundation.org/people/siavash-golkar/))\
 Michael Eickenberg\
 Alberto Bietti\
 Nicoletta	Krachmalnicoff
