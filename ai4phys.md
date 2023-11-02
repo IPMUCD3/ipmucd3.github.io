@@ -39,8 +39,8 @@ Detailed schedule TBD
 [Shirley Ho](https://www.shirleyho.me/) (CCA)\
 [Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
 [François Lanusse](https://flanusse.net/) (CCA/CNRS)\
-[Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (STScI)
-[Mariel Pettee](https://marielpettee.com/) (LBNL)\
+[Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (STScI)\
+[Mariel Pettee](https://marielpettee.com/) (LBNL)
 
 (Accepting abstracts through registration form)
 
