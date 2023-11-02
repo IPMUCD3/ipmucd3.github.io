@@ -9,9 +9,14 @@ toc_sticky: true
 
 ## Upcoming events
 
-**CD3 x CCA Workshop: AI-driven discovery in physics and astrophysics** 
+**AI-driven discovery in physics and astrophysics** 
 [Website](/ai4phys/){:target=`_blank`}\
 January 22-26, 2024, Kavli IPMU, Kashiwa, Japan
+
+**Baryons in the Universe 2024**
+[Website](https://indico.ipmu.jp/event/429/){:target=`_blank`}\
+April 8-12, 2024, Kavli IPMU, Kashiwa, Japan
+
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
