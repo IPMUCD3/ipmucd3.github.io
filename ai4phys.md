@@ -31,14 +31,14 @@ Thur-Fri: Keynote talks, research progress talks, and panel discussions
 Detailed schedule TBD
 
 ## Speakers
-[Alberto Bietti](https://alberto.bietti.me/) (CCA)\
+[Alberto Bietti](https://alberto.bietti.me/) (Simons Foundation)\
 [Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
 [Miles Cranmer](https://astroautomata.com/) (Cambridge)\
-[Michael Eickenberg](https://www.simonsfoundation.org/people/michael-eickenberg/) (CCA)\
-[Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (CCA)\
-[Shirley Ho](https://www.shirleyho.me/) (CCA)\
+[Michael Eickenberg](https://www.simonsfoundation.org/people/michael-eickenberg/) (Simons Foundation)\
+[Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (Simons Foundation)\
+[Shirley Ho](https://www.shirleyho.me/) (Simons Foundation)\
 [Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
-[François Lanusse](https://flanusse.net/) (CCA/CNRS)\
+[François Lanusse](https://flanusse.net/) (Simons Foundation/CNRS)\
 [Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (STScI)\
 [Mariel Pettee](https://marielpettee.com/) (LBNL)
 
