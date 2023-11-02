@@ -31,8 +31,8 @@ Thur-Fri: Keynote talks, research progress talks, and panel discussions
 Detailed schedule TBD
 
 ## Speakers
-[Miles Cranmer](https://astroautomata.com/), [University of Cambridge](https://www.cam.ac.uk/\
-[François Lanusse](https://flanusse.net/), [Faltiron Institute](https://www.simonsfoundation.org/flatiron/\
+[Miles Cranmer](https://astroautomata.com/), [University of Cambridge](https://www.cam.ac.uk/) \
+[François Lanusse](https://flanusse.net/), [Faltiron Institute](https://www.simonsfoundation.org/flatiron/) \
 Mike McCabe ([personal page](https://mikemccabe210.github.io/), [University of Colorado](https://www.colorado.edu/)\
 Mariel Pettee ([personal page](https://marielpettee.com/), [Lawrence Berkeley National Lab](https://www.lbl.gov/)\
 Ruben Ohana ([personal page](https://rubenohana.github.io/), [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/))\
