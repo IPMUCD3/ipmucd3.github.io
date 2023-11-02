@@ -9,7 +9,7 @@ toc_sticky: true
 ![banner](/_images/ai4phys_banner.png)
 ## Introduction
 
-The CD3 x CCA workshop "AI-driven discovery in physics and astrophysics" aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with high-level talks by leading experts, research talks by junior researchers, and intensive discussions. 
+The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with high-level talks by leading experts, research talks by junior researchers, and intensive discussions. 
 
 ## Information
 
@@ -49,6 +49,7 @@ Detailed schedule TBD
 SOC:\
 Jia Liu (Co-chair)\
 Shirley Ho (Co-chair)\
+Hironao Miyatake\
 Tomotake Matsumura\
 Jingjing Shi\
 Masahiro Takada\
@@ -67,7 +68,7 @@ Kateryna Vovk
 ## Sponsors
 
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
-* Center for Computational Astrophysics ([CCA](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/)), Flatiron Institute
+* [Simons Foundation](https://www.simonsfoundation.org/)
 * The Kobayashi-Maskawa Institute for the Origin of Particles and the Universe ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/)), Nagoya University
 
 
