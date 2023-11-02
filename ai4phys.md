@@ -31,13 +31,13 @@ Thur-Fri: Keynote talks, research progress talks, and panel discussions
 Detailed schedule TBD
 
 ## Speakers
-[Miles Cranmer](https://astroautomata.com/), [University of Cambridge](https://www.cam.ac.uk/) \
-[François Lanusse](https://flanusse.net/), [Faltiron Institute](https://www.simonsfoundation.org/flatiron/) \
-Mike McCabe ([personal page](https://mikemccabe210.github.io/), [University of Colorado](https://www.colorado.edu/)\
-Mariel Pettee ([personal page](https://marielpettee.com/), [Lawrence Berkeley National Lab](https://www.lbl.gov/)\
-Ruben Ohana ([personal page](https://rubenohana.github.io/), [Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/))\
-Kyunghyun Cho([personal page](https://kyunghyuncho.me/), [Computational Intelligence, Vision, and Robotics Lab at NYU](https://wp.nyu.edu/cilvr/)\
-Siavash Golkar([Center for Computational Astrophysics](https://www.simonsfoundation.org/people/siavash-golkar/))\
+[Miles Cranmer](https://astroautomata.com/) ([University of Cambridge](https://www.cam.ac.uk/)) \
+[François Lanusse](https://flanusse.net/) ([Faltiron Institute](https://www.simonsfoundation.org/flatiron/)) \
+[Mike McCabe](https://mikemccabe210.github.io/) ([University of Colorado](https://www.colorado.edu/))\
+[Mariel Pettee](https://marielpettee.com/) ([Lawrence Berkeley National Lab](https://www.lbl.gov/))\
+[Ruben Ohana](https://rubenohana.github.io/) ([Center for Computational Mathematics](https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/))\
+[Kyunghyun Cho](https://kyunghyuncho.me/) ([Computational Intelligence, Vision, and Robotics Lab at NYU](https://wp.nyu.edu/cilvr/))\
+[Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) ([Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/))\
 Michael Eickenberg\
 Alberto Bietti\
 Nicoletta	Krachmalnicoff
