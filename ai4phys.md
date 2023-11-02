@@ -1,11 +1,13 @@
 ---
-title: "AI-driven discovery in physics and astrophysics"
+title: AI-driven discovery in physics and astrophysics workshop
 permalink: /ai4phys/
 last_modified_at: 2023-11-02
 layout: single
 toc: true
 toc_sticky: true
 ---
+
+![banner](/_images/ai4phys_banner.png)
 
 ## Introduction
 
