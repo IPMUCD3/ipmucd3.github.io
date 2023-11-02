@@ -1,5 +1,4 @@
 ---
-title: AI-driven discovery in physics and astrophysics workshop
 permalink: /ai4phys/
 last_modified_at: 2023-11-02
 layout: single
@@ -8,10 +7,9 @@ toc_sticky: true
 ---
 
 ![banner](/_images/ai4phys_banner.png)
-
 ## Introduction
 
-This CD3 x CCA workshop aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with high-level talks by leading experts, research talks by junior researchers, and intensive discussions. 
+The CD3 x CCA workshop "AI-driven discovery in physics and astrophysics" aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with high-level talks by leading experts, research talks by junior researchers, and intensive discussions. 
 
 ## Information
 
