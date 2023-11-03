@@ -20,8 +20,8 @@ For information about access, accommodation, and life in Japan, please visit [th
 If you are interested in becoming a member and/or receiving announcements of future activities, please fill out this [form](https://forms.gle/n6JYTyrJPvW2enjr9){:target="_blank}.
 
 ## Jobs 
-Tenure-track assistant or associate professor position ([AJO](https://academicjobsonline.org/ajo/jobs/23386/apply){:target=`_blank`})\
-The search is open until filled.
+
+[Current Openings](https://www.ipmu.jp/en/job-opportunities){:target=`_blank`})\
 
 ## Affiliation & Acknowledgement
 
@@ -36,9 +36,9 @@ If you are not a member of Kavli IPMU, but your work was initiated, performed, o
 
 ## Code of Conduct
 
-CD3 is committed to creating a safe, inclusive, and respectful environment for all members of our community. In order to achieve this goal, we have established the following code of conduct:
+CD3 is committed to creating a safe, inclusive, and respectful environment for all members of our community. To achieve this goal, we have established the following code of conduct:
 - Treat each other with respect and professionalism. Discrimination, harassment, and retaliation of any kind will not be tolerated. 
 - Follow the highest standards of academic integrity and honesty. This includes, but is not limited to, avoiding plagiarism, fabrication, and falsification of data. All members are required to comply with Kavli IPMU's [Research Ethics](https://www.ipmu.jp/node/1801){:target="_blank}. 
-- Researchers using AI tools such as ChatGPT should document this use in the methods, acknowledgements, or other appropriate sections in paper. Do not use AI tools as a credited author on a research paper, as it can not carry accountability. (Guidance provided by [Nature](https://doi.org/10.1038/d41586-023-00191-1){:target="_blank}).
+- Researchers using AI tools such as ChatGPT should document this use in the methods, acknowledgements, or other appropriate sections in the paper. Do not use AI tools as a credited author on a research paper, as it can not carry accountability. (Guidance provided by [Nature](https://doi.org/10.1038/d41586-023-00191-1){:target="_blank}).
 
-We are dedicated to providing a positive and productive environment for all members of this community. Any behavior that is deemed to be in violation of this code of conduct will result in disciplinary action, up to and including expulsion from CD3. If you feel that you or others have been subjected to behavior that is in violation of this code of conduct, please contact the Center's Director (Jia Liu) or the Director of Kavli IPMU (Hirosi Ooguri).
+We are dedicated to providing a positive and productive environment for all members of this community. Any behavior that is deemed to violate this code of conduct will result in disciplinary action, up to and including expulsion from CD3. If you feel that you or others have been subjected to behavior that violates this code of conduct, please contact the Center's Director (Jia Liu) or the Director of Kavli IPMU (Jun'ichi Yokoyama).
