@@ -63,7 +63,6 @@ LOC:\
 Khee-Gan (K.G.) Lee (Chair)\
 Hironao Miyatake\
 Joaquin Armijo\
-Xuheng Ding\
 Keiya Hirashima\
 Kateryna Vovk
 
