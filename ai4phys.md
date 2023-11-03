@@ -72,8 +72,8 @@ Kateryna Vovk
 * The Kobayashi-Maskawa Institute for the Origin of Particles and the Universe ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/)), Nagoya University
 
 
-## Acknowledgement 
+## Acknowledgement
 
 If you initiated, performed, or performed in part a project during the workshop, please add the following acknowledgement in your publication:
 
-This work was initiated (or performed, performed in part) at the CD3 x CCA workshop "AI-driven discovery in physics and astrophysics" during January 22-26, 2024, at Kavli IPMU, Kashiwa, Japan.
+This work was initiated (or performed in part) at the CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" from January 22-26, 2024, at Kavli IPMU, Kashiwa, Japan.
