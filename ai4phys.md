@@ -13,15 +13,17 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 
 ## Information
 
-Time: January 22-26, 2024\
-Location: Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8)) \
-Travel Information: [visa, access, hotel](https://www.ipmu.jp/en/visitors)\
-Cosmologists’ [Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
+* Time: January 22-26, 2024
+* Location: Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8)) 
+* Travel Information: [visa, access, hotel](https://www.ipmu.jp/en/visitors)
+* Cosmologists’ [Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
 
 ## Registration 
 
-Deadline: November 30, 2023\
-Registration form: [link](https://forms.gle/fkNNtJaeXKsNkSD58)
+* Registration deadline: November 30, 2023
+* Registration form: [link](https://forms.gle/fkNNtJaeXKsNkSD58)
+* Registration fee: 10,000 Japanese Yen (JPY). Please be prepared to pay this amount in cash upon your arrival at the workshop. We regret to inform you that we are unable to accommodate other forms of payment. Thank you for your understanding.
+* Workshop dinner: a workshop dinner will be held in Tokyo on January 25, 2024. The fee is 14,000 JPY for the meal and a 2.5-hour cruise trip. Payment must be made in cash upon arrival at the workshop. Due to the limited number, registration for the workshop dinner may be on a first-come, first-served basis. The deadline for cancellation is January 10, 2023. 
 
 ## Schedule
 
@@ -49,7 +51,6 @@ Detailed schedule TBD
 SOC:\
 Jia Liu (Co-chair)\
 Shirley Ho (Co-chair)\
-Hironao Miyatake\
 Tomotake Matsumura\
 Jingjing Shi\
 Masahiro Takada\
@@ -60,6 +61,7 @@ Ruben Ohana
 
 LOC:\
 Khee-Gan (K.G.) Lee (Chair)\
+Hironao Miyatake\
 Joaquin Armijo\
 Xuheng Ding\
 Keiya Hirashima\
