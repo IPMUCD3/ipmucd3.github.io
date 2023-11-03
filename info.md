@@ -21,7 +21,7 @@ If you are interested in becoming a member and/or receiving announcements of fut
 
 ## Jobs 
 
-[Current Openings](https://www.ipmu.jp/en/job-opportunities){:target=`_blank`})\
+[Current Openings](https://www.ipmu.jp/en/job-opportunities){:target=`_blank`}
 
 ## Affiliation & Acknowledgement
 
