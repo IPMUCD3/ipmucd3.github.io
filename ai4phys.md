@@ -39,6 +39,7 @@ Detailed schedule TBD
 [Tuan Do](https://astro.ucla.edu/~tdo/) (UCLA)\
 [Michael Eickenberg](https://www.simonsfoundation.org/people/michael-eickenberg/) (Simons Foundation)\
 [Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (Simons Foundation)\
+[Shirley Ho](https://www.shirleyho.me/) (Simons Foundation)\
 [Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
 [François Lanusse](https://flanusse.net/) (Simons Foundation/CNRS)\
 [Kana Moriwaki](http://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (U Tokyo)\
