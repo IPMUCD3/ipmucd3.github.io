@@ -36,6 +36,7 @@ Detailed schedule TBD
 [Alberto Bietti](https://alberto.bietti.me/) (Simons Foundation)\
 [Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
 [Miles Cranmer](https://astroautomata.com/) (Cambridge)\
+[Tuan Do](https://astro.ucla.edu/~tdo/)(UCLA)\
 [Michael Eickenberg](https://www.simonsfoundation.org/people/michael-eickenberg/) (Simons Foundation)\
 [Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (Simons Foundation)\
 [Shirley Ho](https://www.shirleyho.me/) (Simons Foundation)\
