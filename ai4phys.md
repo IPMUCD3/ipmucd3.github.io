@@ -44,7 +44,9 @@ Detailed schedule TBD
 [François Lanusse](https://flanusse.net/) (Simons Foundation/CNRS)\
 [Kana Moriwaki](http://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (U Tokyo)\
 [Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (STScI)\
+[Sam Passaglia](https://www.passaglia.jp/) (Kavli IPMU)\
 [Mariel Pettee](https://marielpettee.com/) (LBNL)\
+[Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm) (Kavli IPMU)\
 [Francisco Villaescusa Navarro](https://franciscovillaescusa.github.io/) (Simons Foundation)
 
 (Accepting abstracts through registration form)
