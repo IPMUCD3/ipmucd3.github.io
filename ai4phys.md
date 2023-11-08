@@ -22,8 +22,6 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 
 * Registration deadline: November 30, 2023
 * Registration form: [link](https://forms.gle/fkNNtJaeXKsNkSD58)
-* Registration fee: 10,000 Japanese Yen (JPY). Please be prepared to pay this amount in cash upon your arrival at the workshop. We regret to inform you that we are unable to accommodate other forms of payment. Thank you for your understanding.
-* Workshop dinner: a workshop dinner will be held in Tokyo on January 25, 2024. The fee is 14,000 JPY for the meal and a 2.5-hour cruise trip. Payment must be made in cash upon arrival at the workshop. Due to the limited number, registration for the workshop dinner may be on a first-come, first-served basis. The deadline for cancellation is January 10, 2023. 
 
 ## Schedule
 
