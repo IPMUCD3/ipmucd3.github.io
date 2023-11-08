@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-11-02
+last_modified_at: 2023-11-08
 layout: single
 toc: true
 toc_sticky: true
