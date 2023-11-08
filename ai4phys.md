@@ -35,7 +35,7 @@ Detailed schedule TBD
 ## Speakers
 [Alberto Bietti](https://alberto.bietti.me/) (Simons Foundation)\
 [Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
-[Miles Cranmer](https://astroautomata.com/) (Cambridge)\
+[Miles Cranmer](https://astroautomata.com/) (Cambridge University)\
 [Tuan Do](https://astro.ucla.edu/~tdo/) (UCLA)\
 [Michael Eickenberg](https://www.simonsfoundation.org/people/michael-eickenberg/) (Simons Foundation)\
 [Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (Simons Foundation)\
@@ -54,26 +54,25 @@ Detailed schedule TBD
 ## Organizers
 
 SOC:\
-Jia Liu (Co-chair)\
-Shirley Ho (Co-chair)\
-Tomotake Matsumura\
-Jingjing Shi\
-Masahiro Takada\
-Hideki Tanimura\
-Miles Cranmer
+Jia Liu (Co-chair, Kavli IPMU)\
+Shirley Ho (Co-chair, Simons Foundation)\
+Tomotake Matsumura (Kavli IPMU)\
+Jingjing Shi (Kavli IPMU)\
+Masahiro Takada (Kavli IPMU)\
+Hideki Tanimura (Kavli IPMU)\
+Miles Cranmer (Cambridge University)
 
 LOC:\
-Khee-Gan (K.G.) Lee (Chair)\
-Hironao Miyatake\
-Joaquin Armijo\
-Keiya Hirashima\
-Kateryna Vovk
+Khee-Gan (K.G.) Lee (Chair, Kavli IPMU)\
+Hironao Miyatake ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/), Nagoya University)\
+Joaquin Armijo (Kavli IPMU)\
+Keiya Hirashima (Department of Astronomy, University of Tokyo)\
+Kateryna Vovk (Kavli IPMU)
 
 ## Sponsors
 
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 * [Simons Foundation](https://www.simonsfoundation.org/)
-* The Kobayashi-Maskawa Institute for the Origin of Particles and the Universe ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/)), Nagoya University
 
 
 ## Acknowledgement
