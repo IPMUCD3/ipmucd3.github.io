@@ -54,6 +54,7 @@ Detailed schedule TBD
 SOC:\
 Jia Liu (Co-chair, Kavli IPMU)\
 Shirley Ho (Co-chair, Simons Foundation)\
+Leander Thiele (Princeton University)\
 Tomotake Matsumura (Kavli IPMU)\
 Jingjing Shi (Kavli IPMU)\
 Masahiro Takada (Kavli IPMU)\
