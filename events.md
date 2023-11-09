@@ -11,7 +11,7 @@ toc_sticky: true
 
 **Time-domain astronomy/Cosmology in LSST era** 
 [Website](/lsstCosmo/){:target=`_blank`}\
-Dec 8, 2023, Kavli IPMU, Kashiwa, Japan \
+Dec 8, 2023, Kavli IPMU, Kashiwa, Japan 
 
 **AI-driven discovery in physics and astrophysics** 
 [Website](/ai4phys/){:target=`_blank`}\
