@@ -38,14 +38,6 @@ Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp
 16:25-17:00 Discussion 
 
 
-09:50-10:10 [Masao Sako](https://www.sas.upenn.edu/~masao/Web/Home.html) (U Penn): DES supernova cosmology and prospects for LSST \
-10:10-10:30 [Nozomu Tominaga](https://nozomu-tominaga.jp/) (NAOJ): Transient science with HSC and PFS \
-10:30-11:00 Break\
-11:00-11:20 [Takashi Moriya](https://sci.nao.ac.jp/MEMBER/takashi.moriya/) (NAOJ): A grid model of supernova light curves \
-11:20-11:40 [Helen Qu](https://helenqu.com/) (U Penn): ML application to supernova classification, photo-z’s, domain shift, and more \
-11:20-12:00 Discussion 
-
-
 ## Organizers
 Takashi Moriya (NAOJ)\
 Masao Sako (UPenn)\
