@@ -9,23 +9,9 @@ toc_sticky: true
 
 ## Upcoming events
 
-**Time-domain astronomy/Cosmology in LSST era** \
-Mini-workshop \
-Dec 8 (Fri), 2023 \
-Venue: Lecture Hall, Kavli IPMU
-
-Speakers: \
-Jia Liu \
-[Masao Sako](https://www.sas.upenn.edu/~masao/Web/Home.html) (UPenn): DES supernova cosmology and prospects for LSST \
-[Nozomu Tominaga](https://nozomu-tominaga.jp/) (NAOJ): Transient science with HSC and PFS \
-[Takashi Moriya](https://sci.nao.ac.jp/MEMBER/takashi.moriya/) (NAOJ): A grid model of supernova light curves \
-[Helen Qu](https://helenqu.com/) (UPenn): ML application to supernova classification, photo-z’s, domain shift, and more \
-Naoki Yasuda: HSC supernova cosmology \
-Hedeki Tanimura \
-Joaquin Armijo \
-Jason Lee (UPenn) \
-Aditya Inada (UPenn) \
-Masahiro Takada
+**Time-domain astronomy/Cosmology in LSST era** 
+[Website](/lsstCosmo/){:target=`_blank`}\
+Dec 8, 2023, Kavli IPMU, Kashiwa, Japan \
 
 **AI-driven discovery in physics and astrophysics** 
 [Website](/ai4phys/){:target=`_blank`}\
