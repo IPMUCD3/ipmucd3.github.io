@@ -19,6 +19,7 @@ toc_sticky: true
 [Tom Melia](https://db.ipmu.jp/member/personal/2727en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
 [Toshiya Namikawa](https://db.ipmu.jp/member/personal/1857en.html){:target="_blank"}\
+[Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
 [John Silverman](https://db.ipmu.jp/member/personal/594en.html){:target="_blank"}\
 [Masahiro Takada](https://db.ipmu.jp/member/personal/698en.html){:target="_blank"}\
 [Mark Vagins](https://db.ipmu.jp/member/personal/27en.html){:target="_blank"}\
@@ -40,12 +41,10 @@ toc_sticky: true
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
-[Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
 [Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}
-
 
 
 ## Students
@@ -82,12 +81,12 @@ Ken Osato ([Chiba U](https://matiere-noire.net/){:target="_blank"})
 [FoPM](https://www.s.u-tokyo.ac.jp/en/FoPM/){:target="_blank"}\
 [ILANCE](https://ilance.cnrs.fr/){:target="_blank"}
 
-If you are interested in partnering with us through programs such as student exchange and visiting scholars, please reach out!
+If you are interested in partnering with us, please reach out!
 
 
 ## Past Members
 
-## Former Postdocs
+**Former Postdocs**
 
 [Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
@@ -101,6 +100,6 @@ If you are interested in partnering with us through programs such as student exc
 [Stephane Zsoldos](https://github.com/P3tru){:target="_blank"}
 
 
-## Former Students
+**Former Students**
 
  Yona Lapeyre
