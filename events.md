@@ -9,7 +9,7 @@ toc_sticky: true
 
 ## Upcoming events
 
-**Time-domain astronomy/Cosmology in LSST** \
+**Time-domain astronomy/Cosmology in LSST era** \
 Mini-workshop \
 Dec 8 (Fri), 2023 \
 Venue: Lecture Hall, Kavli IPMU
