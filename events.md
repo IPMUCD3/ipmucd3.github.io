@@ -9,11 +9,11 @@ toc_sticky: true
 
 ## Upcoming events
 
-**CD3 mini-workshop, “Time-domain astronomy/Cosmology in LSST”**
+**CD3 mini-workshop, “Time-domain astronomy/Cosmology in LSST”** \
 Dec 8 (Fri), 2023 \
 Venue: Lecture Hall, Kavli IPMU
 
-Speakers:
+Speakers: \
 Jia Liu \
 [Masao Sako](https://www.sas.upenn.edu/~masao/Web/Home.html) (UPenn): DES supernova cosmology and prospects for LSST \
 [Nozomu Tominaga](https://nozomu-tominaga.jp/) (NAOJ): Transient science with HSC and PFS \
