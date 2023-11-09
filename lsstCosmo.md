@@ -1,5 +1,5 @@
 ---
-title: "Mini-Workshop: Time-Domain Astronomy/Cosmology in the LSST Era"
+title: "Time-Domain Astronomy/Cosmology in the LSST Era"
 permalink: /lsstCosmo/
 last_modified_at: 2023-11-09
 layout: single
