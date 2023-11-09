@@ -7,11 +7,11 @@ toc: true
 toc_sticky: true
 ---
 
-## Introduction
-Inofficial and discussion-oriented full one-day workshop starting from ~9:30 AM.  
+<!---## Introduction
+Inofficial and discussion-oriented full one-day workshop starting from ~9:30 AM.--->
 
 ## Information
-Time: December 8 (Fri) 2023 \
+Time: December 8 (Fri) 2023, 9:30AM~ \
 Location: Lecture Hall, Kavli IPMU, Kashiwa Campus \
 Slides: [link](slides)
 
