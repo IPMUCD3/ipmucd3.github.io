@@ -1,13 +1,30 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2023-10-17
+last_modified_at: 2023-11-09
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
+
+**CD3 mini-workshop, “Time-domain astronomy/Cosmology in LSST”**
+Dec 8 (Fri), 2023\
+Venue: Lecture Hall, Kavli IPMU
+
+Speakers:
+Jia Liu \
+[Masao Sako](https://www.sas.upenn.edu/~masao/Web/Home.html) (UPenn): DES supernova cosmology and prospects for LSST \
+[Nozomu Tominaga](https://nozomu-tominaga.jp/) (NAOJ): Transient science with HSC and PFS \
+[Takashi Moriya](https://sci.nao.ac.jp/MEMBER/takashi.moriya/) (NAOJ): A grid model of supernova light curves
+[Helen Qu](https://helenqu.com/) (UPenn): ML application to supernova classification, photo-z’s, domain shift, and more
+Naoki Yasuda: HSC supernova cosmology
+Hedeki Tanimura
+Joaquin Armijo
+Jason Lee (UPenn)
+Aditya Inada (UPenn)
+Masahiro Takada
 
 **AI-driven discovery in physics and astrophysics** 
 [Website](/ai4phys/){:target=`_blank`}\
