@@ -3,8 +3,8 @@ title: "Time-Domain Astronomy and Cosmology in the LSST Era"
 permalink: /timedomainLSST/
 last_modified_at: 2023-11-09
 layout: single
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 ![banner](/_images/timd-dom-mj.png)
@@ -13,7 +13,7 @@ toc_sticky: true
 Time: December 8 (Fri) 2023, 9:30-17:00 \
 Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7)) 
 
-## Speakers:
+## Speakers
 
 All talks are 15 min + 5 min Q&A
 
