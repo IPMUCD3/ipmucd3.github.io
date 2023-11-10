@@ -52,8 +52,10 @@ toc_sticky: true
 [Ryosuke Akizawa](https://db.ipmu.jp/member/personal/7180en.html){:target="_blank"}\
 [Saki Fujita](https://www.chiplearning.net/){:target="_blank"}\
 Rhea Gaur\
+[Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
+Yuting	Liu\
 [Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
