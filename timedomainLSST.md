@@ -26,10 +26,10 @@ Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp
 
 12:00-13:15 Lunch
 
-13:15-13:40 Naoki Yasuda (Kavli IPMU): HSC supernova cosmology
+13:15-13:40 Naoki Yasuda (Kavli IPMU): HSC supernova cosmology\
 13:40-14:05 [Helen Qu](https://helenqu.com/) (UPenn):\
 14:05-14:30 Hideki Tanimura (Kavli IPMU): Velocity reconstruction with CNN and GNN\
-14:30-14:55 Joaquin Armijo (Kavli IPMU): Generate weak lensing maps with normalizing flow\
+14:30-14:55 Joaquin Armijo (Kavli IPMU): Generate weak lensing maps with normalizing flow
 
 14:55-15:45 Tea time @ 3F Fujiwara Hall
 
@@ -43,5 +43,5 @@ Takashi Moriya (NAOJ)\
 Masao Sako (UPenn)\
 Masahiro Takada (Kavli IPMU)\
 Nozomu Tominaga (NAOJ)\
-Kateryna Vovk (Kavli IPMU) 
-Naoki Yasuda (Kavli IPMU)\
+Kateryna Vovk (Kavli IPMU) \
+Naoki Yasuda (Kavli IPMU)
