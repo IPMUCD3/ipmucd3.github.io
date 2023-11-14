@@ -12,7 +12,7 @@ toc_sticky: false
 
 
 ## Information
-December 7 (Thu) 2023
+December 7 (Thu) 2023 \
 13:30-15:00 APEC Seminar \
 15:00-15:30 Tea time \
 15:30-17:30 Informal discussion on HSC, DES, PFS and LSST: Discussion lead, Sako, Yasuda, Takada
