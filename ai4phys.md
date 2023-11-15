@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-11-08
+last_modified_at: 2023-11-13
 layout: single
 toc: true
 toc_sticky: true
@@ -67,6 +67,8 @@ Hironao Miyatake ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/), Nagoya University)
 Joaquin Armijo (Kavli IPMU)\
 Keiya Hirashima (Department of Astronomy, University of Tokyo)\
 Kateryna Vovk (Kavli IPMU)
+
+Contact email: ai4phys.cd3@gmail.com
 
 ## Sponsors
 
