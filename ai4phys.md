@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-11-13
+last_modified_at: 2023-11-16
 layout: single
 toc: true
 toc_sticky: true
@@ -22,6 +22,7 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 
 * Registration deadline: November 30, 2023
 * Registration form: [link](https://forms.gle/fkNNtJaeXKsNkSD58)
+* Contact email: ai4phys.cd3@gmail.com
 
 ## Schedule
 
@@ -68,7 +69,6 @@ Joaquin Armijo (Kavli IPMU)\
 Keiya Hirashima (Department of Astronomy, University of Tokyo)\
 Kateryna Vovk (Kavli IPMU)
 
-Contact email: ai4phys.cd3@gmail.com
 
 ## Sponsors
 
