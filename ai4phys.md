@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-11-16
+last_modified_at: 2023-11-17
 layout: single
 toc: true
 toc_sticky: true
@@ -41,6 +41,7 @@ Detailed schedule TBD
 [Shirley Ho](https://www.shirleyho.me/) (Simons Foundation)\
 [Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
 [François Lanusse](https://flanusse.net/) (Simons Foundation/CNRS)\
+[Yin Li](https://scholar.google.com/citations?user=EAUmw6UAAAAJ) (Peng Cheng Laboratory)\
 [Kana Moriwaki](http://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (U Tokyo)\
 [Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (STScI)\
 [Sam Passaglia](https://www.passaglia.jp/) (Kavli IPMU)\
