@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-11-21
+last_modified_at: 2023-11-22
 layout: single
 toc: true
 toc_sticky: true
@@ -61,15 +61,16 @@ Tomotake Matsumura (Kavli IPMU)\
 Jingjing Shi (Kavli IPMU)\
 Masahiro Takada (Kavli IPMU)\
 Hideki Tanimura (Kavli IPMU)\
-Miles Cranmer (Cambridge University)
+Miles Cranmer (Cambridge University)\
+Mike McCabe (Simons Foundation)\
+Ruben Ohana Simons Foundation)
 
 LOC:\
 Khee-Gan (K.G.) Lee (Chair, Kavli IPMU)\
 Hironao Miyatake ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/), Nagoya University)\
 Joaquin Armijo (Kavli IPMU)\
-Keiya Hirashima (Department of Astronomy, University of Tokyo)\
-Kateryna Vovk (Kavli IPMU)
-
+Kateryna Vovk (Kavli IPMU)\
+Keiya Hirashima (Department of Astronomy, University of Tokyo)
 
 ## Sponsors
 
