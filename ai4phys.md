@@ -63,7 +63,7 @@ Masahiro Takada (Kavli IPMU)\
 Hideki Tanimura (Kavli IPMU)\
 Miles Cranmer (Cambridge University)\
 Mike McCabe (Simons Foundation)\
-Ruben Ohana Simons Foundation)
+Ruben Ohana (Simons Foundation)
 
 LOC:\
 Khee-Gan (K.G.) Lee (Chair, Kavli IPMU)\
