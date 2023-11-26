@@ -28,7 +28,7 @@ Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp
 09:30-09:45 Jia Liu (Kavli IPMU): Simulating the multi-wavelength sky \
 09:45-10:00 Masahiro Takada (Kavli IPMU): Subaru Prime Focus Spectrograph \
 10:00-10:25 Nozomu Tominaga (NAOJ): \
-10:25-10:40 Jason Lee (UPenn): \
+10:25-10:40 Jason Lee (UPenn): Astrometric Redshifts of Supernovae \
 10:40-11:00 Break\
 11:00-12:00 [Masao Sako](https://www.sas.upenn.edu/~masao/Web/Home.html) (UPenn): special seminar
 
