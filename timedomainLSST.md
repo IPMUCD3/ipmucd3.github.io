@@ -35,14 +35,14 @@ Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp
 12:00-13:15 Lunch
 
 13:15-13:40 Naoki Yasuda (Kavli IPMU): HSC supernova cosmology\
-13:40-14:05 [Helen Qu](https://helenqu.com/) (UPenn):\
+13:40-14:05 [Helen Qu](https://helenqu.com/) (UPenn):Enabling precision photometric SN Ia cosmology with machine learning \
 14:05-14:30 Hideki Tanimura (Kavli IPMU): Velocity reconstruction with CNN and GNN\
 14:30-14:55 Joaquin Armijo (Kavli IPMU): Generate weak lensing maps with normalizing flow
 
 14:55-15:45 Tea time @ 3F Fujiwara Hall
 
 15:45-16:10 [Takashi Moriya](https://sci.nao.ac.jp/MEMBER/takashi.moriya/) (NAOJ): A grid model of supernova light curves\
-16:10-16:25 Aditya Inada (U Penn):\
+16:10-16:25 Aditya Inada (U Penn): Discovering Supernova with Attention Network \
 16:25-17:00 Discussion 
 
 
