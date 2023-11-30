@@ -72,7 +72,7 @@ Chenghan Zha
 ## Collaborators
 
 Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target="_blank"}, [BAI](https://beyondai.jp/?lang=en){:target="_blank"})\
-Michel	Gonin ([ILANCE](https://ilance.cnrs.fr/){:target="_blank"}\
+Michel	Gonin ([ILANCE](https://ilance.cnrs.fr/){:target="_blank"})\
 Cesar Hernandez-Aguayo ([MPA](https://www.mpa-garching.mpg.de/person/109306/746567){:target="_blank"})\
 Ken Osato ([Chiba U](https://matiere-noire.net/){:target="_blank"})
 
