@@ -14,6 +14,7 @@ toc_sticky: true
 [Elisa Ferreira](https://www.elisagmferreira.com){:target="_blank"}\
 [Simeon Hellerman](https://db.ipmu.jp/member/personal/154en.html){:target="_blank"}\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
+[Alexander	Kusenko](https://kusenko.physics.ucla.edu/){:target="_blank"}\
 [Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
 [Tom Melia](https://db.ipmu.jp/member/personal/2727en.html){:target="_blank"}\
@@ -31,7 +32,6 @@ toc_sticky: true
 
 [Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
 [Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
-[Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
@@ -92,6 +92,7 @@ If you are interested in partnering with us, please reach out!
 **Former Postdocs**
 
 [Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
+[Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
