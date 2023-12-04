@@ -49,8 +49,6 @@ Detailed schedule TBD
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm) (Kavli IPMU)\
 [Francisco Villaescusa Navarro](https://franciscovillaescusa.github.io/) (Simons Foundation)
 
-(Accepting abstracts through registration form)
-
 ## Organizers
 
 SOC:\
