@@ -16,7 +16,7 @@ December 7 (Thu) 2023 \
 13:30-15:00 APEC Seminar \
 15:00-15:30 Tea time \
 15:30-15:40 Introduction of each participant \
-15:40-16:30 Nozomu Tominaga (NAOJ): Follow-ups with Subaru Telescope\
+15:40-16:30 Nozomu Tominaga (NAOJ): Follow-ups with Subaru Telescope \
 16:30-17:00 Informal discussion on HSC, DES, PFS and LSST: Discussion lead, Sako, Yasuda, Takada \
 
 
@@ -31,10 +31,9 @@ Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp
 09:45-10:00 Masahiro Takada (Kavli IPMU): Subaru Prime Focus Spectrograph \
 10:00-10:15 Jason Lee (UPenn): Astrometric Redshifts of Supernovae \
 10:15-10:45 Disucssion \
-10:45-11:00 Break\
+10:45-11:00 Break \
 11:00-12:00 [Masao Sako](https://www.sas.upenn.edu/~masao/Web/Home.html) (UPenn): special seminar \
-
-12:00 Group photo \
+12:00 Group photo 
 
 12:00-13:15 Lunch
 
