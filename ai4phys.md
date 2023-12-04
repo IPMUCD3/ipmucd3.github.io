@@ -22,7 +22,6 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 
 * Registration deadline: November 30, 2023
 * Registration form: closed
-* <!---[link](https://forms.gle/fkNNtJaeXKsNkSD58)--->
 * Contact email: ai4phys.cd3@gmail.com
 
 ## Schedule
