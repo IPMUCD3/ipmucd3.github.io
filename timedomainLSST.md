@@ -19,14 +19,11 @@ December 7 (Thu) 2023 \
 15:40-16:30 Nozomu Tominaga (NAOJ): Follow-ups with Subaru Telescope \
 16:30-17:00 Informal discussion on HSC, DES, PFS and LSST: Discussion lead, Sako, Yasuda, Takada \
 
-
-December 8 (Fri) 2023, 9:30-17:00 \
+## Speakers
+20min talk + 5min Q&A for 25min slot; 12min talk + 3min talk for 15min slot
 Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7)) 
 
-## Speakers
-
-20min talk + 5min Q&A for 25min slot; 12min talk + 3min talk for 15min slot
-
+December 8 (Fri) 2023, 9:30-17:00 \
 09:30-09:45 Jia Liu (Kavli IPMU): Simulating the multi-wavelength sky \
 09:45-10:00 Masahiro Takada (Kavli IPMU): Subaru Prime Focus Spectrograph \
 10:00-10:15 Jason Lee (UPenn): Astrometric Redshifts of Supernovae \
