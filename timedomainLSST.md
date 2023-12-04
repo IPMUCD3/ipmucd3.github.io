@@ -11,7 +11,7 @@ toc_sticky: false
 
 
 
-## December 7 (Thu) 2023 \
+## December 7 (Thu) 2023 
 13:30-15:00 APEC Seminar \
 15:00-15:30 Tea time \
 15:30-15:40 Introduction of each participant \
