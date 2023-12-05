@@ -21,7 +21,7 @@ toc_sticky: false
 
 ## December 8 (Fri)
 20min talk + 5min Q&A for 25min slot \
-12min talk + 3min talk for 15min slot \
+12min talk + 3min Q&A for 15min slot \
 Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7)) 
 
 09:30-09:45 Jia Liu (Kavli IPMU): Simulating the multi-wavelength sky \
