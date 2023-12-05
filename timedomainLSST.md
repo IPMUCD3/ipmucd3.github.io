@@ -1,7 +1,7 @@
 ---
 title: "Time-Domain Astronomy and Cosmology in the LSST Era"
 permalink: /timedomainLSST/
-last_modified_at: 2023-11-09
+last_modified_at: 2023-12-05
 layout: single
 toc: false
 toc_sticky: false
@@ -16,11 +16,12 @@ toc_sticky: false
 15:00-15:30 Tea time \
 15:30-15:40 Introduction of each participant \
 15:40-16:30 Nozomu Tominaga (NAOJ): Follow-ups with Subaru Telescope \
-16:30-17:00 Informal discussion on HSC, DES, PFS and LSST: Discussion lead, Sako, Yasuda, Takada \
+16:30-17:00 Informal discussion on HSC, DES, PFS and LSST: Discussion lead, Sako, Yasuda, Takada 
 
 
 ## December 8 (Fri)
-20min talk + 5min Q&A for 25min slot; 12min talk + 3min talk for 15min slot
+20min talk + 5min Q&A for 25min slot \
+12min talk + 3min talk for 15min slot \
 Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp/visitors/access-ipmu), [map](https://goo.gl/maps/hJHkry4p9yiNJfSV7)) 
 
 09:30-09:45 Jia Liu (Kavli IPMU): Simulating the multi-wavelength sky \
