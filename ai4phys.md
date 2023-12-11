@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-12-08
+last_modified_at: 2023-12-11
 layout: single
 toc: true
 toc_sticky: true
@@ -44,7 +44,7 @@ Detailed schedule TBD
 [Yin Li](https://scholar.google.com/citations?user=EAUmw6UAAAAJ) (Peng Cheng Laboratory)\
 [Kana Moriwaki](http://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (U Tokyo)\
 [Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (STScI)\
-[Sam Passaglia](https://www.passaglia.jp/) (Kavli IPMU)\
+[Sam Passaglia](https://www.passaglia.jp/) (Elyza)\
 [Mariel Pettee](https://marielpettee.com/) (LBNL)\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm) (Kavli IPMU)\
 [Francisco Villaescusa Navarro](https://franciscovillaescusa.github.io/) (Simons Foundation)
