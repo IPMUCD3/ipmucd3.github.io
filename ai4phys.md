@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-12-11
+last_modified_at: 2023-12-14
 layout: single
 toc: true
 toc_sticky: true
@@ -32,7 +32,7 @@ Thur-Fri: Keynote talks, research progress talks, and panel discussions
 Detailed schedule TBD
 
 ## Speakers
-[Alberto Bietti](https://alberto.bietti.me/) (Simons Foundation)\
+[Bert Chan](https://chakazul.github.io/) (Google DeepMind)\
 [Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
 [Miles Cranmer](https://astroautomata.com/) (Cambridge University)\
 [Tuan Do](https://astro.ucla.edu/~tdo/) (UCLA)\
@@ -43,7 +43,6 @@ Detailed schedule TBD
 [François Lanusse](https://flanusse.net/) (Simons Foundation/CNRS)\
 [Yin Li](https://scholar.google.com/citations?user=EAUmw6UAAAAJ) (Peng Cheng Laboratory)\
 [Kana Moriwaki](http://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (U Tokyo)\
-[Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (STScI)\
 [Sam Passaglia](https://www.passaglia.jp/) (Elyza)\
 [Mariel Pettee](https://marielpettee.com/) (LBNL)\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm) (Kavli IPMU)\
