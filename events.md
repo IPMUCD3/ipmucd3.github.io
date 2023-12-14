@@ -1,17 +1,13 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2023-11-09
+last_modified_at: 2023-12-14
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
-
-**Time-Domain Astronomy and Cosmology in the LSST Era** 
-[Website](/timedomainLSST/){:target=`_blank`}\
-December 8, 2023, Kavli IPMU, Kashiwa, Japan 
 
 **AI-driven discovery in physics and astrophysics** 
 [Website](/ai4phys/){:target=`_blank`}\
@@ -33,6 +29,10 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 ---
 
 ## Past events
+**Time-Domain Astronomy and Cosmology in the LSST Era** 
+[Website](/timedomainLSST/){:target=`_blank`}\
+December 8, 2023, Kavli IPMU, Kashiwa, Japan 
+
 **Workshop: Astro AI and Fugaku**
 [Website](/fugakuAI/){:target=`_blank`}\
 September 11-12, 2023, University of Tsukuba Tokyo Campus, Tokyo, Japan
