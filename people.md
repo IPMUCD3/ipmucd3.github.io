@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-11-30
+last_modified_at: 2023-12-19
 layout: single
 toc: true
 toc_sticky: true
@@ -10,6 +10,7 @@ toc_sticky: true
 ## Faculty
 
 [Jia Liu](https://liuxx479.github.io/){:target="_blank"} (Director)\
+[Linda Blot](https://db.ipmu.jp/member/personal/7166en.html){:target="_blank"} \
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
 [Elisa Ferreira](https://www.elisagmferreira.com){:target="_blank"}\
 [Simeon Hellerman](https://db.ipmu.jp/member/personal/154en.html){:target="_blank"}\
@@ -33,7 +34,6 @@ toc_sticky: true
 [Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
 [Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
-[Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
@@ -41,7 +41,6 @@ toc_sticky: true
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Masafusa	Onoue](https://www.masafusaonoue.com){:target="_blank"}\
-[Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
@@ -60,7 +59,6 @@ Yuting	Liu\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 Wenke	Ren\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
-[Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
@@ -93,10 +91,12 @@ If you are interested in partnering with us, please reach out!
 
 [Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
 [Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
+[Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
+[Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
 [Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
@@ -107,4 +107,5 @@ If you are interested in partnering with us, please reach out!
 **Former Students**
 
  Yona Lapeyre\
- Rhea Gaur
+ Rhea Gaur \
+ [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
