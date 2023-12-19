@@ -73,6 +73,7 @@ Keiya Hirashima (Department of Astronomy, University of Tokyo)
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 * [Simons Foundation](https://www.simonsfoundation.org/)
 * Program for Fugaku: [JPMXP1020230406](https://www2.ccs.tsukuba.ac.jp/aiuniverse/index.html), Tsukuba University
+* [DLX Design Lab](https://www.designlab.ac/), University of Tokyo
 
 
 ## Acknowledgement
