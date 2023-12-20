@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-12-15
+last_modified_at: 2023-12-20
 layout: single
 toc: true
 toc_sticky: true
@@ -9,27 +9,29 @@ toc_sticky: true
 ![banner](/_images/ai4phys_banner.png)
 ## Introduction
 
-The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with high-level talks by leading experts, research talks by junior researchers, and intensive discussions. 
+The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" aims to explore ways to make discoveries in physics and astrophysics that can be uniquely achieved with AI/ML. The first three days will follow the theme of "new ideas with old data", where small groups are formed to explore new physics by mining existing (most likely public) data. The last two days of the week will be devoted to exploring future directions, with talks and discussions. 
 
 ## Information
 
 * Time: January 22-26, 2024
 * Location: Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8)) 
-* Cosmologists’ [Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
-<!---* Travel Information: [visa, access, hotel](https://www.ipmu.jp/en/visitors)--->
+* [Cosmologists’ Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
+* Travel Information: [access, hotel](https://www.ipmu.jp/en/visitors)
+* Slack channel: please find the invitation link in the upcoming announcement email 
+* Contact email: ai4phys.cd3@gmail.com
+  
+## Participants 
 
-## Registration 
-
+* [List of participants](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1689797346&single=true)
 * Registration deadline: November 30, 2023
 * Registration form: closed
-* Contact email: ai4phys.cd3@gmail.com
+
 
 ## Schedule
 
-Mon-Wed: 1-2 introductory talks/day and extended time for discussion/collaboration/hackathon\
-Thur-Fri: Keynote talks, research progress talks, and panel discussions
-
-Detailed schedule TBD
+* [Full schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=1995226109&single=true)
+* [Fireslides](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSrzz3KVijHet4UbIL9uaa4MYSRCxV2tTMdqzviCOb0jJtmaXJtzJvrWF5bdtEEenrQXzmra2YQ401/pubhtml?gid=680479747&single=true): 1 minute presentation
+* Hack teams (TBD)
 
 ## Speakers
 [Bert Chan](https://chakazul.github.io/) (Google DeepMind)\
@@ -78,6 +80,6 @@ Keiya Hirashima (Department of Astronomy, University of Tokyo)
 
 ## Acknowledgement
 
-If you initiated, performed, or performed in part a project during the workshop, please add the following acknowledgement in your publication:
+If you initiated, performed, or performed in part a project during the workshop, please add the following acknowledgment in your publication:
 
 This work was initiated (or performed in part) at the CD3 x Simons Foundation workshop "AI-driven discovery in physics and astrophysics" from January 22-26, 2024, at Kavli IPMU, Kashiwa, Japan.
