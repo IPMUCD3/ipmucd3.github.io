@@ -15,8 +15,9 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 
 * Time: January 22-26, 2024
 * Location: Kavli IPMU, The University of Tokyo (Kashiwa, Japan) ([map](https://maps.app.goo.gl/YzgzK9UrQ55sL89x8)) 
+* [Access](https://www.ipmu.jp/visitors/access-ipmu)
+* [Hotels](https://www.ipmu.jp/visitors/accommodation)
 * [Cosmologists’ Guide to Japan](https://sites.google.com/view/ipmucmb/discover-japan) (kindly compiled by the Kavli IPMU CMB group)
-* Travel Information: [access, hotel](https://www.ipmu.jp/en/visitors)
 * Slack channel: please find the invitation link in the upcoming announcement email 
 * Contact email: ai4phys.cd3@gmail.com
   
