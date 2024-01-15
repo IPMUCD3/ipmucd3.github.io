@@ -38,7 +38,6 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 [Bert Chan](https://chakazul.github.io/) (Google DeepMind)\
 [Kyunghyun Cho](https://kyunghyuncho.me/) (NYU)\
 [Miles Cranmer](https://astroautomata.com/) (Cambridge University)\
-[Michael Eickenberg](https://www.simonsfoundation.org/people/michael-eickenberg/) (Simons Foundation)\
 [Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (Simons Foundation)\
 [Shirley Ho](https://www.shirleyho.me/) (Simons Foundation)\
 [Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
