@@ -1,6 +1,6 @@
 ---
 permalink: /ai4phys/
-last_modified_at: 2023-12-20
+last_modified_at: 2024-01-16
 layout: single
 toc: true
 toc_sticky: true
@@ -40,6 +40,7 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 [Miles Cranmer](https://astroautomata.com/) (Cambridge University)\
 [Siavash Golkar](https://www.simonsfoundation.org/people/siavash-golkar/) (Simons Foundation)\
 [Shirley Ho](https://www.shirleyho.me/) (Simons Foundation)\
+[Mark Huertas-Company](https://mhuertascompany.weebly.com/) (IAC)\
 [Nicoletta Krachmalnicoff](https://www.sissa.it/ap/members.php?ID=174) (SISSA)\
 [François Lanusse](https://flanusse.net/) (Simons Foundation/CNRS)\
 [Yin Li](https://scholar.google.com/citations?user=EAUmw6UAAAAJ) (Peng Cheng Laboratory)\
@@ -48,6 +49,8 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 [Mariel Pettee](https://marielpettee.com/) (LBNL)\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm) (Kavli IPMU)\
 [Francisco Villaescusa Navarro](https://franciscovillaescusa.github.io/) (Simons Foundation)
+[Denny Wu](https://www.cs.toronto.edu/~dennywu/) (NYU CDS & Flatiron CCM)\
+[Makoto Yamada](https://www.oist.jp/research/makoto-yamada) (OIST)
 
 ## Organizers
 
