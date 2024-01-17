@@ -48,7 +48,7 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 [Sam Passaglia](https://www.passaglia.jp/) (Elyza)\
 [Mariel Pettee](https://marielpettee.com/) (LBNL)\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm) (Kavli IPMU)\
-[Francisco Villaescusa Navarro](https://franciscovillaescusa.github.io/) (Simons Foundation)
+[Francisco Villaescusa Navarro](https://franciscovillaescusa.github.io/) (Simons Foundation)\
 [Denny Wu](https://www.cs.toronto.edu/~dennywu/) (NYU CDS & Flatiron CCM)\
 [Makoto Yamada](https://www.oist.jp/research/makoto-yamada) (OIST)
 
