@@ -70,9 +70,10 @@ Ruben Ohana (Simons Foundation)
 
 LOC:\
 Khee-Gan (K.G.) Lee (Chair, Kavli IPMU)\
-Hironao Miyatake ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/), Nagoya University)\
-Joaquin Armijo (Kavli IPMU)\
 Kateryna Vovk (Kavli IPMU)\
+Joaquin Armijo (Kavli IPMU)\
+Linda Blot (Kavli IPMU)\
+Hironao Miyatake ([KMI](https://www.kmi.nagoya-u.ac.jp/eng/), Nagoya University)\
 Keiya Hirashima (Department of Astronomy, University of Tokyo)
 
 ## Sponsors
