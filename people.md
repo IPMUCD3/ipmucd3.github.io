@@ -108,4 +108,4 @@ If you are interested in partnering with us, please reach out!
 
  Yona Lapeyre\
  Rhea Gaur \
- [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
+ [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}
