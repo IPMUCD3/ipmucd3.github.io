@@ -1,17 +1,13 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2023-12-14
+last_modified_at: 2024-01-30
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
-
-**AI-driven discovery in physics and astrophysics** 
-[Website](/ai4phys/){:target=`_blank`}\
-January 22-26, 2024, Kavli IPMU, Kashiwa, Japan
 
 **Baryons in the Universe 2024**
 [Website](https://indico.ipmu.jp/event/429/){:target=`_blank`}\
@@ -29,6 +25,10 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 ---
 
 ## Past events
+**AI-driven discovery in physics and astrophysics** 
+[Website](/ai4phys/){:target=`_blank`}\
+January 22-26, 2024, Kavli IPMU, Kashiwa, Japan
+
 **Time-Domain Astronomy and Cosmology in the LSST Era** 
 [Website](/timedomainLSST/){:target=`_blank`}\
 December 8, 2023, Kavli IPMU, Kashiwa, Japan 
