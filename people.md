@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2023-12-19
+last_modified_at: 2024-02-27
 layout: single
 toc: true
 toc_sticky: true
@@ -24,6 +24,7 @@ toc_sticky: true
 [Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
 [John Silverman](https://db.ipmu.jp/member/personal/594en.html){:target="_blank"}\
 [Masahiro Takada](https://db.ipmu.jp/member/personal/698en.html){:target="_blank"}\
+[Leander	Thiele](http://leanderthiele.github.io){:target="_blank"}\
 [Mark Vagins](https://db.ipmu.jp/member/personal/27en.html){:target="_blank"}\
 [Masaki Yamashita](https://db.ipmu.jp/member/personal/55en.html){:target="_blank"}\
 [Masahito Yamazaki](https://member.ipmu.jp/masahito.yamazaki/index.shtml){:target="_blank"}\
@@ -35,7 +36,9 @@ toc_sticky: true
 [Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
+[Anamaria	Hell](https://anamariahell.com/){:target="_blank"}\
 [Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
+[Benjamin	Horowitz](https://bhorowitz.github.io/){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
@@ -50,6 +53,7 @@ toc_sticky: true
 ## Students
 
 [Ryosuke Akizawa](https://db.ipmu.jp/member/personal/7180en.html){:target="_blank"}\
+[Jessica	Cowell](https://db.ipmu.jp/member/personal/7398en.html){:target="_blank"}\
 [Saki Fujita](https://www.chiplearning.net/){:target="_blank"}\
 [Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
