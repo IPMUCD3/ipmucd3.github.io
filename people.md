@@ -79,7 +79,7 @@ Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target=
 Michel	Gonin ([ILANCE](https://ilance.cnrs.fr/){:target="_blank"})\
 Cesar Hernandez-Aguayo ([MPA](https://www.mpa-garching.mpg.de/person/109306/746567){:target="_blank"})\
 Ken Osato ([Chiba U](https://matiere-noire.net/){:target="_blank"})\
-Takuya	Tashiro	([ICRR, U-Tokyo](https://www.icrr.u-tokyo.ac.jp/en/){:target="_blank"})
+Takuya	Tashiro	([ICRR U-Tokyo](https://www.icrr.u-tokyo.ac.jp/en/){:target="_blank"})
 
 
 ## Partner Institutes
