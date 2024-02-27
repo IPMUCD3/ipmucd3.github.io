@@ -60,6 +60,7 @@ toc_sticky: true
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 Yuting	Liu\
 [Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
+Andrés	Muñoz\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 Wenke	Ren\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
@@ -68,6 +69,7 @@ Wenke	Ren\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 Yu Watanabe\
+Omar	Yehia\
 Chenghan Zha
 
 
@@ -77,6 +79,7 @@ Sanmay Ganguly ([ICEPP](http://www.icepp.s.u-tokyo.ac.jp/en/index.html){:target=
 Michel	Gonin ([ILANCE](https://ilance.cnrs.fr/){:target="_blank"})\
 Cesar Hernandez-Aguayo ([MPA](https://www.mpa-garching.mpg.de/person/109306/746567){:target="_blank"})\
 Ken Osato ([Chiba U](https://matiere-noire.net/){:target="_blank"})
+Takuya	Tashiro	(ICRR, The University of Tokyo)
 
 
 ## Partner Institutes
