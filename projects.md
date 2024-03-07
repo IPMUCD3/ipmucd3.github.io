@@ -19,7 +19,7 @@ toc_sticky: true
 For the first ten years of operation, Vera Rubin Observatory will perform the **[Legacy Survey of Space and Time](https://www.lsst.org/){:target="_blank"}** (LSST) , using the 3.2 Gigapixel Rubin Observatory LSST Camera and the 8.4-m Simonyi Survey Telescope. Work toward understanding the nature of dark energy with the survey is being carried out by the LSST **[Dark Energy Science Collaboration](https://lsstdesc.org/){:target="_blank"}** (DESC). 
 
 <img src="/_images/logo_cosi.png" style="width: 120px;">\
-**[Compton Spectrometer and Imager](https://cosi.ssl.berkeley.edu/)** (COSI) is a soft gamma-ray survey telescope (0.2-5 MeV) designed to probe the origins of Galactic positrons, uncover the sites of nucleosynthesis in the Galaxy, perform pioneering studies of gamma-ray polarization, and find counterparts to multi-messenger sources. 
+**[Compton Spectrometer and Imager](https://cosi.ssl.berkeley.edu/){:target="_blank"}** (COSI) is a soft gamma-ray survey telescope (0.2-5 MeV) designed to probe the origins of Galactic positrons, uncover the sites of nucleosynthesis in the Galaxy, perform pioneering studies of gamma-ray polarization, and find counterparts to multi-messenger sources. 
 
 ## CMB Experiments
 
