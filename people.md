@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2024-03-05
+last_modified_at: 2024-03-07
 layout: single
 toc: true
 toc_sticky: true
@@ -24,6 +24,7 @@ toc_sticky: true
 [Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
 [John Silverman](https://db.ipmu.jp/member/personal/594en.html){:target="_blank"}\
 [Masahiro Takada](https://db.ipmu.jp/member/personal/698en.html){:target="_blank"}\
+[Tadayuki	Takahashi](https://db.ipmu.jp/member/personal/5672en.html){:target="_blank"}\
 [Leander	Thiele](http://leanderthiele.github.io){:target="_blank"}\
 [Mark Vagins](https://db.ipmu.jp/member/personal/27en.html){:target="_blank"}\
 [Masaki Yamashita](https://db.ipmu.jp/member/personal/55en.html){:target="_blank"}\
