@@ -8,6 +8,8 @@ toc_sticky: true
 
 ![banner](/_images/banner.png)
 ## Introduction
+AstroAI Asian Network (A3 Network) 
+First summer school (Sept 2–6, 2024) 
 
 We're having an ML school in Osaka...
 
