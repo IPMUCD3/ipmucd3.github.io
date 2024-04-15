@@ -42,7 +42,6 @@ SOC:\
 Jia Liu (Co-chair, Kavli IPMU)\
 Kentaro Nagamine(Osaka University)\
 Leander Thiele (Princeton University)\
-Linda Blot (Kavli IPMU)\
 ...
 
 LOC:\
