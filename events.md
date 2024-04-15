@@ -8,7 +8,7 @@ toc_sticky: true
 ---
 
 ## Upcoming events
-**Special Hack**
+**Special Hack**\
 When: May 10, 2024, 1:30pm - 5:00pm\
 Where: Kavli IPMU, Lecture hall
 <!---**AstroAI Asia Network**
