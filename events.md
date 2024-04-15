@@ -8,11 +8,11 @@ toc_sticky: true
 ---
 
 ## Upcoming events
-
-**Baryons in the Universe 2024**
-[Website](https://indico.ipmu.jp/event/429/){:target=`_blank`}\
-April 8-12, 2024, Kavli IPMU, Kashiwa, Japan
-
+**Special Hack**
+May 10, 2024, Kavli IPMU, Lecture hall
+<!---**AstroAI Asia Network**
+[Website](/a3n/){:target=`_blank`}\
+September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan--->
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
@@ -25,6 +25,10 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 ---
 
 ## Past events
+**Baryons in the Universe 2024**
+[Website](https://indico.ipmu.jp/event/429/){:target=`_blank`}\
+April 8-12, 2024, Kavli IPMU, Kashiwa, Japan
+
 **AI-driven discovery in physics and astrophysics** 
 [Website](/ai4phys/){:target=`_blank`}\
 January 22-26, 2024, Kavli IPMU, Kashiwa, Japan
