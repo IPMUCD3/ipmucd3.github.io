@@ -9,7 +9,8 @@ toc_sticky: true
 
 ## Upcoming events
 **Special Hack**
-May 10, 2024, Kavli IPMU, Lecture hall
+When: May 10, 2024, 1:30pm - 5:00pm\
+Where: Kavli IPMU, Lecture hall
 <!---**AstroAI Asia Network**
 [Website](/a3n/){:target=`_blank`}\
 September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan--->
