@@ -18,7 +18,7 @@ We're having an ML school in Osaka...
 * Time: September 2-6, 2024
 * Location [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/)
 * Slack and Zoom: please find the info in the announcement email 
-* Contact email: contact_email@gmail.com
+* Contact email: kateryna_vovk@ipmu.jp
   
 ## Participants 
 
