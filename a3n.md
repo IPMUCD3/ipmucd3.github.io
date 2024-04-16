@@ -24,7 +24,7 @@ We're having an ML school in Osaka...
 
 * List of participants
 * Registration deadline: June 30, 2024
-* Registration form: not opened yet
+* Registration form: [link](https://forms.gle/q4cDHbmq1tfeUw7a9)
 
 
 ## Schedule
