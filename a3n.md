@@ -1,6 +1,6 @@
 ---
 permalink: /a3n/
-last_modified_at: 2024-04-11
+last_modified_at: 2024-04-16
 layout: single
 toc: true
 toc_sticky: true
@@ -24,7 +24,8 @@ We're having an ML school in Osaka...
 
 * List of participants
 * Registration deadline: June 30, 2024
-* Registration form: [link](https://forms.gle/q4cDHbmq1tfeUw7a9)
+* Registration form:
+  <!---[link](https://forms.gle/q4cDHbmq1tfeUw7a9)--->
 
 
 ## Schedule
