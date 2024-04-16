@@ -12,9 +12,9 @@ toc_sticky: true
 When: May 10, 2024, 1:30pm - 5:00pm\
 Where: Kavli IPMU, Lecture hall
 
-<!---**AstroAI Asia Network**
+**AstroAI Asia Network**
 [Website](/a3n/){:target=`_blank`}\
-September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan--->
+September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
