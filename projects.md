@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-last_modified_at: 2024-03-07
+last_modified_at: 2024-04-17
 layout: single
 toc: true
 toc_sticky: true
@@ -20,6 +20,9 @@ For the first ten years of operation, Vera Rubin Observatory will perform the **
 
 <img src="/_images/logo_cosi.png" style="width: 120px;">\
 **[Compton Spectrometer and Imager](https://cosi.ssl.berkeley.edu/){:target="_blank"}** (COSI) is a soft gamma-ray survey telescope (0.2-5 MeV) designed to probe the origins of Galactic positrons, uncover the sites of nucleosynthesis in the Galaxy, perform pioneering studies of gamma-ray polarization, and find counterparts to multi-messenger sources. 
+
+<img src="/_images/logo_euclid_pillars.png" style="width: 120px;">\
+**[Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid){:target="_blank"}** is a space telescope designed to survey most of the extragalactic sky with imaging in optical and slitless spectroscopy in the infrared. Its main goal is to understand the dark components of the Universe (dark matter and dark energy) by measuring the distortion of galaxy shapes and the 3D position of Hα galaxies. The scientific analysis is carried out by the [Euclid Consortium](https://www.euclid-ec.org/). Japan is part of the Consortium with a limited number of members. Contact the Euclid PIs in IPMU if you want to get involved.
 
 ## CMB Experiments
 
