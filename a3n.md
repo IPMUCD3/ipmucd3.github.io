@@ -19,7 +19,7 @@ The AstroAI Asian Network (A3 Network) aims to educate students and researchers 
 
 ## Lecturers
 
-* Makoto Uemura (Hiroshima Universit)
+* Makoto Uemura (Hiroshima University)
 * Kana Moriwaki (University of Tokyo)
 * Leander Thiele (CD3, Kavli IPMU)
 * TBC: Zarija Lukic (Lawrence Berkeley National Laboratory)
@@ -40,7 +40,7 @@ The AstroAI Asian Network (A3 Network) aims to educate students and researchers 
 Jia Liu (CD3, Kavli IPMU)\
 Kentaro Nagamine (Osaka University)\
 Linda Blot (CD3, Kavli IPMU)\
-Kateryna Vovk (CD3, Kavli IPMU)\
+Kateryna Vovk (CD3, Kavli IPMU)
 
 ## Sponsors
 
