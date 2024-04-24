@@ -6,10 +6,8 @@ toc: true
 toc_sticky: true
 ---
 
-# AstroAI Asian Network (A<sup>3</sup> Network)
-
 <!--- ![banner](/images/banner.png) --->
-## Introduction
+## AstroAI Asian (A<sup>3</sup>) Network
 The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and researchers on the fundamentals and applications of AstroAI, with a focus on building a network in Asia. We will have our first summer school on Sept 2–6, 2024, in Osaka, Japan. 
 
 ## Information
