@@ -8,11 +8,11 @@ toc_sticky: true
 ---
 
 ## Upcoming events
-**CD3 Project Expo**[Website](/expo2024/){:target=`_blank`}\
+**CD3 Project Expo** [Website](/expo2024/){:target=`_blank`}\
 When: May 10, 2024, 1:30pm - 5:00pm\
 Where: Kavli IPMU, Lecture hall
 
-**AstroAI Asia Network**
+**AstroAI Asian (A<sup>3</sup>) Network**
 [Website](/a3n/){:target=`_blank`}\
 September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan
 
