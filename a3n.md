@@ -14,7 +14,7 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 
 * Time: September 2-6, 2024
 * Location: [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/)
-* Contact email: kateryna_vovk@ipmu.jp
+* Contact email: kateryna.vovk@ipmu.jp
 <!--- * Slack and Zoom: please find the info in the announcement email --->
 
 ## Lecturers
@@ -22,7 +22,7 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 * Makoto Uemura (Hiroshima University)
 * Kana Moriwaki (University of Tokyo)
 * Leander Thiele (CD3, Kavli IPMU)
-* TBC: Zarija Lukic (Lawrence Berkeley National Laboratory)
+* TBC 
 
 ## Schedule
 
@@ -39,17 +39,24 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 
 Jia Liu (CD3, Kavli IPMU)\
 Kentaro Nagamine (Osaka University)\
-Linda Blot (CD3, Kavli IPMU)\
-Kateryna Vovk (CD3, Kavli IPMU)
+Kateryna Vovk (CD3, Kavli IPMU)\
+Leander Thiele (CD3, Kavli IPMU)\
+Linda Blot (CD3, Kavli IPMU)
 
 ## Sponsors
 
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 * Osaka University
-* University of Hongkong
+* Nagoya University
+* Kyoto University (TBC)
 * Program for Fugaku: JPMXP1020230406, University of Tsukuba
-* LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University
-* ...
+* University of Hongkong
+* LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University (TBC)
+* ASIAA (TBC)
+* Tsinghua University (TBC)
+* ANU (TBC)
+* Zhejiang University (TBC)
+* USTC (TBC)
 
 ## Acknowledgement
 
