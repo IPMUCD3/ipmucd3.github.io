@@ -53,6 +53,7 @@ Linda Blot (CD3, Kavli IPMU)
 * University of Hongkong
 * LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University (TBC)
 * ASIAA (TBC)
+* KIAA (TBC)
 * Tsinghua University (TBC)
 * ANU (TBC)
 * Zhejiang University (TBC)
