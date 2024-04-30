@@ -1,6 +1,6 @@
 ---
 permalink: /a3n/
-last_modified_at: 2024-04-16
+last_modified_at: 2024-04-30
 layout: single
 toc: true
 toc_sticky: true
@@ -8,7 +8,7 @@ toc_sticky: true
 
 <!--- ![banner](/images/banner.png) --->
 ## AstroAI Asian (A<sup>3</sup>) Network
-The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and researchers on the fundamentals and applications of AstroAI, with a focus on building a network in Asia. We will have our first summer school on Sept 2–6, 2024, in Osaka, Japan. 
+The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and researchers on the fundamentals and applications of AstroAI, with a focus on building a network in Asia. We will have our first summer school from Sept 2–6, 2024, in Osaka, Japan. 
 
 ## Information
 
@@ -22,7 +22,7 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 * Makoto Uemura (Hiroshima University)
 * Kana Moriwaki (University of Tokyo)
 * Leander Thiele (CD3, Kavli IPMU)
-* TBC 
+* Luisa Lucie-Smith (MPA) - TBC
 
 ## Schedule
 
@@ -31,7 +31,7 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 ## Registration
 
 * Registration deadline: June 30, 2024
-* Registration form: coming soon
+* Registration form: coming soon in mid-May
   <!---[link](https://forms.gle/q4cDHbmq1tfeUw7a9)--->
 * List of participants
 
@@ -55,9 +55,11 @@ Linda Blot (CD3, Kavli IPMU)
 * ASIAA (TBC)
 * KIAA (TBC)
 * Tsinghua University (TBC)
-* ANU (TBC)
+* Shanghai Jiaotong University (TBC)
 * Zhejiang University (TBC)
 * USTC (TBC)
+* University of Hawaii (TBC)
+* ANU (TBC)
 
 ## Acknowledgement
 
