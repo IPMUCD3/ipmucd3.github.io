@@ -22,7 +22,7 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 * Makoto Uemura (Hiroshima University)
 * Kana Moriwaki (University of Tokyo)
 * Leander Thiele (CD3, Kavli IPMU)
-* Luisa Lucie-Smith (MPA) - TBC
+* TBC
 
 ## Schedule
 
@@ -43,19 +43,19 @@ Kateryna Vovk (CD3, Kavli IPMU)\
 Leander Thiele (CD3, Kavli IPMU)\
 Linda Blot (CD3, Kavli IPMU)
 
-## Sponsors
+## Co-sponsors
 
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 * Osaka University
-* Nagoya University
-* Kyoto University (TBC)
+* KMI, Nagoya University
 * Program for Fugaku: JPMXP1020230406, University of Tsukuba
 * University of Hongkong
+* Shanghai Jiaotong University 
+* Kyoto University (TBC)
 * LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University (TBC)
 * ASIAA (TBC)
 * KIAA (TBC)
 * Tsinghua University (TBC)
-* Shanghai Jiaotong University (TBC)
 * Zhejiang University (TBC)
 * USTC (TBC)
 * University of Hawaii (TBC)
