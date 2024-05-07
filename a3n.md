@@ -19,10 +19,10 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 
 ## Lecturers
 
-* Makoto Uemura (Hiroshima University)
-* Kana Moriwaki (University of Tokyo)
-* Leander Thiele (CD3, Kavli IPMU)
-* TBC
+* [Makoto Uemura](https://home.hiroshima-u.ac.jp/uemuram/) (Hiroshima University)
+* [Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (Space Telescope Science Institute)
+* [Kana Moriwaki](https://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (University of Tokyo)
+* [Leander Thiele](https://leanderthiele.github.io/) (CD3, Kavli IPMU)
 
 ## Schedule
 
@@ -41,7 +41,8 @@ Jia Liu (CD3, Kavli IPMU)\
 Kentaro Nagamine (Osaka University)\
 Kateryna Vovk (CD3, Kavli IPMU)\
 Leander Thiele (CD3, Kavli IPMU)\
-Linda Blot (CD3, Kavli IPMU)
+Linda Blot (CD3, Kavli IPMU)\
+César Jesús-Valls (CD3, Kavli IPMU)
 
 ## Co-sponsors
 
@@ -52,8 +53,9 @@ Linda Blot (CD3, Kavli IPMU)
 * University of Hongkong
 * Shanghai Jiaotong University 
 * Kyoto University (TBC)
-* LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University (TBC)
-* ASIAA (TBC)
+* LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University
+* ASIAA
+* Fudan University
 * KIAA (TBC)
 * Tsinghua University (TBC)
 * Zhejiang University (TBC)
