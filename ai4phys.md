@@ -54,6 +54,9 @@ The CD3 x Simons Foundation workshop "AI-driven discovery in physics and astroph
 [Denny Wu](https://www.cs.toronto.edu/~dennywu/) (NYU CDS & Flatiron CCM)\
 [Makoto Yamada](https://www.oist.jp/research/makoto-yamada) (OIST)
 
+## Photo
+![ai4phys](_images/ai4phys_group.jpeg)
+
 ## Organizers
 
 SOC:\
