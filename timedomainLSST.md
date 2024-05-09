@@ -47,7 +47,7 @@ Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp
 
 ## Photo
 
-![time_domain_lsst](/_images/time_domain_group.jpg)
+![time_domain_lsst](_images/time_domain_group.JPG)
 
 
 ## Organizers
