@@ -45,6 +45,10 @@ Location: Lecture Hall, Kavli IPMU, Kashiwa Campus ([access](https://www.ipmu.jp
 16:10-16:25 Aditya Inada (U Penn): Discovering Supernova with Attention Network \
 16:25-17:00 Discussion 
 
+## Photo
+
+![time_domain_lsst](/_images/time_domain_group.jpg)
+
 
 ## Organizers
 Takashi Moriya (NAOJ)\
