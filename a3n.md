@@ -55,14 +55,15 @@ César Jesús-Valls (CD3, Kavli IPMU)
 * Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
 * Kyoto Sangyo University
 * Kyoto University
-* LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University
+* Leung Center for Cosmology and Particle Astrophysics (LeCosPA), National Taiwan University
 * Shanghai Jiaotong University 
 * Tsinghua University
 * Program for Fugaku: JPMXP1020230406, University of Tsukuba
+
 (TBC)\
 * Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), Nagoya University
 * Zhejiang University
-* ANU (TBC)
+* ANU
 
 ## Acknowledgement
 
