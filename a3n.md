@@ -1,6 +1,6 @@
 ---
 permalink: /a3n/
-last_modified_at: 2024-04-30
+last_modified_at: 2024-05-11
 layout: single
 toc: true
 toc_sticky: true
@@ -48,19 +48,20 @@ César Jesús-Valls (CD3, Kavli IPMU)
 
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 * Osaka University
-* KMI, Nagoya University
-* Program for Fugaku: JPMXP1020230406, University of Tsukuba
-* University of Hongkong
-* Shanghai Jiaotong University 
-* Kyoto University (TBC)
-* LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University
-* ASIAA
+* Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), National Taiwan University
 * Fudan University
-* KIAA (TBC)
-* Tsinghua University (TBC)
-* Zhejiang University (TBC)
-* USTC (TBC)
-* University of Hawaii (TBC)
+* University of Hawaii
+* University of Hongkong
+* Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
+* Kyoto Sangyo University
+* Kyoto University
+* LeCosPA -- the Leung Center for Cosmology and Particle Astrophysics, National Taiwan University
+* Shanghai Jiaotong University 
+* Tsinghua University
+* Program for Fugaku: JPMXP1020230406, University of Tsukuba
+(TBC)\
+* Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), Nagoya University
+* Zhejiang University
 * ANU (TBC)
 
 ## Acknowledgement
