@@ -60,7 +60,7 @@ César Jesús-Valls (CD3, Kavli IPMU)
 * Tsinghua University
 * Program for Fugaku: JPMXP1020230406, University of Tsukuba
 
-(TBC)\
+TBC
 * Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), Nagoya University
 * Zhejiang University
 * ANU
