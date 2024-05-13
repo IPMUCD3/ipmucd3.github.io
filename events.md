@@ -1,16 +1,13 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2024-04-16
+last_modified_at: 2024-05-13
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
-**CD3 Project Expo** [Website](/expo2024/){:target=`_blank`}\
-When: May 10, 2024, 1:30pm - 5:00pm\
-Where: Kavli IPMU, Lecture hall
 
 **AstroAI Asian (A<sup>3</sup>) Network**
 [Website](/a3n/){:target=`_blank`}\
@@ -27,6 +24,9 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 ---
 
 ## Past events
+**CD3 Project Expo** [Website](/expo2024/){:target=`_blank`}\
+May 10, 2024, Kavli IPMU, Kashiwa, Japan
+
 **Baryons in the Universe 2024**
 [Website](https://indico.ipmu.jp/event/429/){:target=`_blank`}\
 April 8-12, 2024, Kavli IPMU, Kashiwa, Japan
