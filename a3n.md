@@ -54,7 +54,6 @@ César Jesús-Valls (CD3, Kavli IPMU)
 * University of Hongkong
 * Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
 * Kyoto Sangyo University
-* Kyoto University
 * Leung Center for Cosmology and Particle Astrophysics (LeCosPA), National Taiwan University
 * Shanghai Jiaotong University 
 * Tsinghua University
