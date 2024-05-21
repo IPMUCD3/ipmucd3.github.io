@@ -6,9 +6,10 @@ toc: true
 toc_sticky: true
 ---
 
-<!--- ![banner](/images/banner.png) --->
-## AstroAI Asian (A<sup>3</sup>) Network
-The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and researchers on the fundamentals and applications of AstroAI, with a focus on building a network in Asia. We will have our first summer school from Sept 2–6, 2024, in Osaka, Japan. 
+![banner](/_images/a3n_summerschool2024.png)
+
+## AstroAI Asian Network (A<sup>3</sup> Net)
+The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and researchers on the fundamentals and applications of AstroAI, with a focus on building a network in Asia. We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. 
 
 ## Information
 
@@ -31,9 +32,8 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 ## Registration
 
 * Registration deadline: June 30, 2024
-* Registration form: coming soon in mid-May
-  <!---[link](https://forms.gle/q4cDHbmq1tfeUw7a9)--->
-* List of participants
+* Registration form: [link](https://forms.gle/VtDG6R1oWzVV9ckY6)
+<!--- List of participants --->
 
 ## Organizers
 
@@ -48,22 +48,18 @@ César Jesús-Valls (CD3, Kavli IPMU)
 
 * Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
 * Osaka University
-* Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), National Taiwan University
 * Fudan University
 * University of Hawaii
 * University of Hongkong
 * Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
-* Kyoto Sangyo University
 * Leung Center for Cosmology and Particle Astrophysics (LeCosPA), National Taiwan University
-* Shanghai Jiaotong University 
+* Shanghai Jiaotong University
+* Shanghai Astronomical Observatory, Chinese Academic of Sciences
 * Tsinghua University
 * Program for Fugaku: JPMXP1020230406, University of Tsukuba
 
-TBC
-* Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), Nagoya University
-* Zhejiang University
-* ANU
+Please reach out (kateryna.vovk@ipmu.jp) if your institute is interested in joining A<sup>3</sup> Net.
 
 ## Acknowledgement
 
-If you initiated, performed, or performed in part a project during the summer school, please add the following acknowledgment in your publication: This work was initiated (or performed in part) at the AstroAI Asian Network 2024 summer school.
+If you initiated, performed, or performed in part a project during the summer school, please add the following acknowledgment in your publication: "This work was initiated (or performed in part) at the AstroAI Asian Network 2024 summer school."
