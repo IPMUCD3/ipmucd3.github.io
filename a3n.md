@@ -1,6 +1,6 @@
 ---
 permalink: /a3n/
-last_modified_at: 2024-05-11
+last_modified_at: 2024-05-22
 layout: single
 toc: true
 toc_sticky: true
@@ -17,10 +17,10 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 
 * Time: September 2-6, 2024
 * Location: [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/)
-* Contact email: kateryna.vovk@ipmu.jp
 * Registration deadline: June 30, 2024
 * Registration form: [link](https://forms.gle/VtDG6R1oWzVV9ckY6)
-* Financial support: limited financial support is available, with priority given to junior researchers from Asian institutes. 
+* Financial support: limited financial support is available, with priority given to junior researchers from Asian institutes.
+* Contact email: kateryna.vovk@ipmu.jp
 <!--- * Slack and Zoom: please find the info in the announcement email --->
 <!--- List of participants --->
 
@@ -58,7 +58,7 @@ César Jesús-Valls (CD3, Kavli IPMU)
 * Tsinghua University
 * Program for Fugaku: JPMXP1020230406, University of Tsukuba
 
-Please reach out (kateryna.vovk@ipmu.jp) if your institute is interested in joining A<sup>3</sup> Net.
+Please reach out (kateryna.vovk@ipmu.jp) if you are interested in joining A<sup>3</sup> Net.
 
 ## Acknowledgement
 
