@@ -9,7 +9,9 @@ toc_sticky: true
 ![banner](/_images/a3n_summerschool2024.png)
 
 ## AstroAI Asian Network (A<sup>3</sup> Net)
-The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and researchers on the fundamentals and applications of AstroAI, with a focus on building a network in Asia. We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. 
+The AstroAI Asian Network (A<sup>3</sup> Net) aims to educate students and researchers on artificial intelligence and machine learning (AI/ML) methods for astrophysics, with a focus on building a network in Asia. 
+
+We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targeting students and early-career researchers, this one-week program includes theoretical lectures, hands-on exercises, and collaborative projects. Participants will explore the latest advancements in AI/ML techniques and their applications in solving complex astrophysical problems. 
 
 ## Information and Registration
 
@@ -18,6 +20,7 @@ The AstroAI Asian Network (A<sup>3</sup> Network) aims to educate students and r
 * Contact email: kateryna.vovk@ipmu.jp
 * Registration deadline: June 30, 2024
 * Registration form: [link](https://forms.gle/VtDG6R1oWzVV9ckY6)
+* Financial support: limited financial support is available, with priority given to junior researchers from Asian institutes. 
 <!--- * Slack and Zoom: please find the info in the announcement email --->
 <!--- List of participants --->
 
