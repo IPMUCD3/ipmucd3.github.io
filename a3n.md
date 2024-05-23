@@ -39,6 +39,7 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 
 Jia Liu (CD3, Kavli IPMU)\
 Kentaro Nagamine (Osaka University)\
+Hironao Miyatake (KMI, Nagoya University)\
 Kateryna Vovk (CD3, Kavli IPMU)\
 Leander Thiele (CD3, Kavli IPMU)\
 Linda Blot (CD3, Kavli IPMU)\
