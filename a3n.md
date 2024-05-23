@@ -1,6 +1,6 @@
 ---
 permalink: /a3n/
-last_modified_at: 2024-05-22
+last_modified_at: 2024-05-23
 layout: single
 toc: true
 toc_sticky: true
@@ -51,6 +51,7 @@ César Jesús-Valls (CD3, Kavli IPMU)
 * Fudan University
 * University of Hawaii
 * University of Hongkong
+* Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), University of Nagoya
 * Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
 * Leung Center for Cosmology and Particle Astrophysics (LeCosPA), National Taiwan University
 * Shanghai Jiaotong University
