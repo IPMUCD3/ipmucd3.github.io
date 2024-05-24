@@ -54,7 +54,7 @@ César Jesús-Valls (CD3, Kavli IPMU)
 * University of Hawaii
 * University of Hongkong
 * Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
-* Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), University of Nagoya
+* Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), Nagoya University
 * Leung Center for Cosmology and Particle Astrophysics (LeCosPA), National Taiwan University
 * Shanghai Jiaotong University
 * Shanghai Astronomical Observatory, Chinese Academic of Sciences
