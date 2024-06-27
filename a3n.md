@@ -48,17 +48,18 @@ César Jesús-Valls (CD3, Kavli IPMU)
 
 ## Co-sponsors
 
-* Center for Data-Driven Discovery ([CD3](https://cd3.ipmu.jp/)), Kavli IPMU
-* Osaka University
-* Fudan University
-* University of Hawaii
-* University of Hongkong
-* Kavli Institute for Astronomy and Astrophysics (KIAA), Peking University
-* Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI), Nagoya University
-* Leung Center for Cosmology and Particle Astrophysics (LeCosPA), National Taiwan University
-* Shanghai Jiaotong University
-* Shanghai Astronomical Observatory, Chinese Academic of Sciences
-* Tsinghua University
+* [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), Kavli IPMU
+* [Osaka University](https://astro-osaka.jp/OUTAP/index_english.html)
+* [Fudan University](https://phys.fudan.edu.cn/)
+* [University of Hawaii](https://www.ifa.hawaii.edu/)
+* [University of Hongkong](https://www.physics.hku.hk/research/research_groups/astronomy/)
+* [Kavli Institute for Astronomy and Astrophysics (KIAA)](https://kiaa.pku.edu.cn/), Peking University
+* [Korea Institute for Advanced Study (KIAS)](https://www.kias.re.kr/)
+* [Kobayashi-Maskawa Institute for the Origin of Particles and the Universe (KMI)](https://www.kmi.nagoya-u.ac.jp/eng/), Nagoya University
+* [Leung Center for Cosmology and Particle Astrophysics (LeCosPA)](https://www.lecospa.ntu.edu.tw/), National Taiwan University
+* [Shanghai Jiaotong University](https://www.physics.sjtu.edu.cn/en/)
+* [Shanghai Astronomical Observatory](http://english.shao.cas.cn/), Chinese Academic of Sciences
+* [Tsinghua University](https://astro.tsinghua.edu.cn/)
 * Program for Fugaku: JPMXP1020230406, University of Tsukuba
 
 Please reach out (kateryna.vovk@ipmu.jp) if you are interested in joining A<sup>3</sup> Net.
