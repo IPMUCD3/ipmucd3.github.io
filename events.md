@@ -25,7 +25,7 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 
 ## Past events
 **LSS Quest 2024**
-[Website](https://sites.google.com/view/lss-workshop-2024)
+[Website](https://sites.google.com/view/lss-workshop-2024){:target=`_blank`}\
 June 24−25, 2024, Osaka University Nakanoshima Center, Osaka, Japan
 
 **Workshop on Galaxy and Black-hole evolution**
