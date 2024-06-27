@@ -1,7 +1,7 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2024-05-13
+last_modified_at: 2024-06-27
 layout: single
 toc: true
 toc_sticky: true
@@ -24,6 +24,14 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 ---
 
 ## Past events
+**LSS Quest 2024**
+[Website](https://sites.google.com/view/lss-workshop-2024)
+June 24−25, 2024, Osaka University Nakanoshima Center, Osaka, Japan
+
+**Workshop on Galaxy and Black-hole evolution**
+[Website](https://galaxy-bh-evolution.ipmu.jp/){:target=`_blank`}\
+June 3-7, 2024, Kavli IPMU, Kashiwa, Japan
+
 **CD3 Project Expo** [Website](/expo2024/){:target=`_blank`}\
 May 10, 2024, Kavli IPMU, Kashiwa, Japan
 
