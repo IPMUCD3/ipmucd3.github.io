@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2024-03-07
+last_modified_at: 2024-06-27
 layout: single
 toc: true
 toc_sticky: true
@@ -87,6 +87,7 @@ Takuya	Tashiro	([ICRR U-Tokyo](https://www.icrr.u-tokyo.ac.jp/en/){:target="_bla
 ## Partner Institutes
 
 [Beyond AI](https://beyondai.jp/?lang=en){:target="_blank"}\
+[DLX Design Lab](https://www.designlab.ac/){:target="_blank"}\
 [Information Technology Center](https://www.itc.u-tokyo.ac.jp/en/){:target="_blank"}\
 [FoPM](https://www.s.u-tokyo.ac.jp/en/FoPM/){:target="_blank"}\
 [ILANCE](https://ilance.cnrs.fr/){:target="_blank"}
