@@ -19,7 +19,7 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 * Location: [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/)
 * In-person only
 * Registration deadline: July 10, 2024
-* Registration form: [link](https://forms.gle/VtDG6R1oWzVV9ckY6) 
+<!---* Registration form: [link](https://forms.gle/VtDG6R1oWzVV9ckY6)--->
 * Financial support: limited financial support is available, with priority given to junior researchers from Asian institutes.
 * Contact email: kateryna.vovk@ipmu.jp
 <!--- * Slack and Zoom: please find the info in the announcement email --->
