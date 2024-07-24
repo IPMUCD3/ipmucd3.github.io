@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2024-06-27
+last_modified_at: 2024-07-24
 layout: single
 toc: true
 toc_sticky: true
@@ -46,7 +46,6 @@ toc_sticky: true
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Masafusa	Onoue](https://www.masafusaonoue.com){:target="_blank"}\
 [Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
-[Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
 [Si-Yue	Yu](https://db.ipmu.jp/member/personal/7528en.html){:target="_blank"}
@@ -70,6 +69,7 @@ Wenke	Ren\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
+[Bonny Y.	Wang](https://bonnywang.github.io){:target="_blank"}\
 Yu Watanabe\
 Omar	Yehia\
 Chenghan Zha
@@ -108,6 +108,7 @@ If you are interested in partnering with us, please reach out!
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
+[Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
 [Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
 [Kiyoto Yabe](https://db.ipmu.jp/member/personal/4354en.html){:target="_blank"}\
