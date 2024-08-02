@@ -33,8 +33,29 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 * [Leander Thiele](https://leanderthiele.github.io/) (CD3, Kavli IPMU)
 
 ## Schedule
+* Monday (Sep 2) \
+10 - 13 Lecture + Hands on \
+Lecture: Makoto Uemura "Statistical modeling" + "Shallow ML" \
+14 - 15 Fireslides (each participant 1min to present themselves) \
+15 - 16 Hack introduction & group forming
 
-* Full schedule (TBD)
+* Tuesday (Sep 3) \
+9 - 12 Lecture + Hands on \
+Lecture: Leander Thiele "Basic deep learning" \
+13 ~ Hack
+
+* Wednesday (Sep 4) \
+9 - 12 Lecture + Hands on \
+Lecture: Michelle Ntampaka "Symmetries & specialized architectures" \
+12 ~ Excursion & Dinner! (Please register via the [form](https://docs.google.com/forms/d/e/1FAIpQLSdYBAThGN1k4WH9r2pmO7jrM9I9YlV6y7x3B4ew8FlhCBqJgg/viewform))
+
+* Thursday (Sep 5) \
+9 - 12 Lecture + Hands on \
+Lecture: Kana Moriwaki "Generative models" \
+13 ~ Hack
+
+* Friday (Sep 6) \
+9 - 12 Hack presentation
 
 ## Organizers
 
