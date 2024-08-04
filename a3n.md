@@ -70,7 +70,7 @@ César Jesús-Valls (CD3, Kavli IPMU)
 ## Co-sponsors
 
 * [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), Kavli IPMU
-* [Osaka University](https://astro-osaka.jp/OUTAP/index_english.html)
+* [Theoretical Joint Research (TJR) Project, Osaka University](https://www.phys.sci.osaka-u.ac.jp/nambu/tjr/)
 * [Fudan University](https://phys.fudan.edu.cn/)
 * [University of Hawaii](https://www.ifa.hawaii.edu/)
 * [University of Hongkong](https://www.physics.hku.hk/research/research_groups/astronomy/)
