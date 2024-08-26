@@ -70,6 +70,7 @@ Wenke	Ren\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 [Bonny Y.	Wang](https://bonnywang.github.io){:target="_blank"}\
+[Shuo Wang](https://shuowangsts.github.io/){:target="_blank"}\
 Yu Watanabe\
 Omar	Yehia\
 Chenghan Zha
