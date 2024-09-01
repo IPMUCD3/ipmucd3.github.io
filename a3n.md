@@ -40,7 +40,7 @@ Lecture: Makoto Uemura "Statistical modeling" + "Shallow ML" \
 
 
 * Tuesday (Sep 3) \
-9 - 10 Hack introduction & group forming
+9 - 10 Hack introduction & group forming \
 10 - 13 Lecture + Hands on \
 Lecture: Leander Thiele "Basic deep learning" \
 14 ~ Hack
