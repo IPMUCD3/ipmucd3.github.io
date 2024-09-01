@@ -34,15 +34,16 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 
 ## Schedule
 * Monday (Sep 2) \
-10 - 13 Lecture + Hands on \
+13 - 16 Lecture + Hands on \
 Lecture: Makoto Uemura "Statistical modeling" + "Shallow ML" \
-14 - 15 Fireslides (each participant, 1min to present themselves) \
-15 - 16 Hack introduction & group forming
+16 - 17 Fireslides (each participant, 1min to present themselves) \
+
 
 * Tuesday (Sep 3) \
-9 - 12 Lecture + Hands on \
+9 - 10 Hack introduction & group forming
+10 - 13 Lecture + Hands on \
 Lecture: Leander Thiele "Basic deep learning" \
-13 ~ Hack
+14 ~ Hack
 
 * Wednesday (Sep 4) \
 9 - 12 Lecture + Hands on \
