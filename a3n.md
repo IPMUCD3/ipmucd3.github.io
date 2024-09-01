@@ -36,7 +36,7 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 * Monday (Sep 2) \
 13 - 16 Lecture + Hands on \
 Lecture: Makoto Uemura "Statistical modeling" + "Shallow ML" \
-16 - 17 Fireslides (each participant, 1min to present themselves) \
+16 - 17 Fireslides (each participant, 1min to present themselves)
 
 
 * Tuesday (Sep 3) \
