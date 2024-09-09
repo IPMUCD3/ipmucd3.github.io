@@ -4,7 +4,7 @@ author_profile: false
 ---
 
 
-![Tea](/_images/hackfriday.jpg)
+![Tea](/_images/ai4phys_group_photo.jpeg)
 
 Our mission is to decode the universe. We are a team of physicists, astronomers, and mathematicians dedicated to advancing our understanding of the universe through the innovative use of data science and machine learning techniques, by fostering a collaborative and interdisciplinary research environment, and by engaging with the broader scientific community and society.
 
