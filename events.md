@@ -9,10 +9,6 @@ toc_sticky: true
 
 ## Upcoming events
 
-**AstroAI Asian (A<sup>3</sup>) Network**
-[Website](/a3n/){:target=`_blank`}\
-September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan
-
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
 Every Friday 1:30-5pm, Seminar room C (3F)
@@ -24,6 +20,11 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 ---
 
 ## Past events
+
+**AstroAI Asian (A<sup>3</sup>) Network**
+[Website](/a3n/){:target=`_blank`}\
+September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan
+
 **LSS Quest 2024**
 [Website](https://sites.google.com/view/lss-workshop-2024){:target=`_blank`}\
 June 24−25, 2024, Osaka University Nakanoshima Center, Osaka, Japan
