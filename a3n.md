@@ -34,7 +34,7 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 
 ## Photo
 ![a3n_11](_images/a3n_group.jpg)
-![a3n_12](_images/a3n_collage_white_bg.png)
+![a3n_12](_images/a3n_collage_white_bg.jpg)
 
 ## Schedule
 * Monday (Sep 2) \
