@@ -32,6 +32,9 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 * [Kana Moriwaki](https://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (University of Tokyo)
 * [Leander Thiele](https://leanderthiele.github.io/) (CD3, Kavli IPMU)
 
+## Photo
+![a3n_1](_images/a3n_group.jpg)
+
 ## Schedule
 * Monday (Sep 2) \
 13 - 16 Lecture + Hands on \
