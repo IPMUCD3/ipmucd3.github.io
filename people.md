@@ -45,7 +45,7 @@ toc_sticky: true
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Masafusa	Onoue](https://www.masafusaonoue.com){:target="_blank"}\
-[Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
+[Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
 [Si-Yue	Yu](https://db.ipmu.jp/member/personal/7528en.html){:target="_blank"}
@@ -110,6 +110,7 @@ If you are interested in partnering with us, please reach out!
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
+[Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
 [Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
