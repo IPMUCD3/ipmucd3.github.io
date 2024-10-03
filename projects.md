@@ -59,4 +59,4 @@ We explore the feasibility of applying novel machine-learning techniques to data
 
 ## AI Ethics
 <img src="/_images/logo_ELSI.jpg" style="width: 140px;">\
-**[Score ELSI](https://member.ipmu.jp/hiromi.yokoyama/secom.html){:target="_blank"}** aims to develop a simple scale to measure the Ethical, Legal and Social Issues (ELSI) in  science and technology, such as artificial inteligence, genome editing, mental health instruments, and climate engineering.
+**[Score ELSI](https://member.ipmu.jp/hiromi.yokoyama/elsi.html){:target="_blank"}** aims to develop a simple scale to measure the Ethical, Legal and Social Issues (ELSI) in  science and technology, such as artificial inteligence, genome editing, mental health instruments, and climate engineering.
