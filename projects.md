@@ -1,12 +1,12 @@
 ---
-title: "Projects"
+title: "Projects & Publications"
 permalink: /projects/
 last_modified_at: 2024-04-17
 layout: single
 toc: true
 toc_sticky: true
 ---
-Publications: [ADS](https://ui.adsabs.harvard.edu/user/libraries/Ud0Gd-jfQh6WoF0mqlCxXw){:target="_blank"}
+[ADS](https://ui.adsabs.harvard.edu/user/libraries/Ud0Gd-jfQh6WoF0mqlCxXw){:target="_blank"}
 
 ## Galaxy Surveys
 
