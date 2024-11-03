@@ -1,13 +1,16 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2024-06-27
+last_modified_at: 2024-11-3
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
+**Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
+[Website](https://indico.kmi.nagoya-u.ac.jp/event/9/){:target=`_blank`}\
+December 3-5, 2024, Kobayashi Masakawa Institute (KMI) at Nagoya University, Nagoya, Japan
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
