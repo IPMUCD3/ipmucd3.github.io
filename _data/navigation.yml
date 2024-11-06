@@ -4,13 +4,11 @@ main:
   #  url: https://ipmucd3.github.io/
   - title: "People"
     url: /people/
-  - title: "Projects & Publications"
+  - title: "Projects"
     url: /projects/
   - title: "Data & Code"
     url: /code/
   - title: "Events"
     url: /events/
-  #- title: "Jobs"
-  #  url: /jobs/
   - title: "Info"
     url: /info/
