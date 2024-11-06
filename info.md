@@ -1,7 +1,7 @@
 ---
 title: "Information"
 permalink: /info/
-last_modified_at: 2023-01-23
+last_modified_at: 2024-11-06
 layout: single
 toc: true
 toc_sticky: true
@@ -22,6 +22,11 @@ If you are interested in becoming a member and/or receiving announcements of fut
 ## Jobs 
 
 [Current Openings](https://www.ipmu.jp/en/job-opportunities){:target=`_blank`}
+
+## Publications
+
+[ADS](https://ui.adsabs.harvard.edu/user/libraries/Ud0Gd-jfQh6WoF0mqlCxXw){:target="_blank"}
+(Please contact Katya Vovk if your publication is missing)
 
 ## Affiliation & Acknowledgement
 
