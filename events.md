@@ -8,6 +8,16 @@ toc_sticky: true
 ---
 
 ## Upcoming events
+
+**Focus week on primordial blackholes 2024 
+[Website](https://indico.ipmu.jp/event/439/overview){:target=`_blank`}\
+November 13-15, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
+
+**Probing the Genesis of Super Massive Black Holes: Emerging Perspectives from JWST 
+and Expectation toward New Wide-Field Survey Observations
+[Website](https://indico.ipmu.jp/event/440/overview){:target=`_blank`}\
+November 18-21, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
+
 **Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
 [Website](https://indico.kmi.nagoya-u.ac.jp/event/9/){:target=`_blank`}\
 December 3-5, 2024, Kobayashi Masakawa Institute (KMI) at Nagoya University, Nagoya, Japan
