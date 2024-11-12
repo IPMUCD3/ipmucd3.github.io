@@ -9,7 +9,7 @@ toc_sticky: true
 
 ## Upcoming events
 
-**Focus week on primordial blackholes 2024**
+**Focus Week on Primordial Black Holes 2024**
 [Website](https://indico.ipmu.jp/event/439/overview){:target=`_blank`}\
 November 13-15, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
 
