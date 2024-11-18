@@ -47,6 +47,7 @@ toc_sticky: true
 [Nhat-Minh	Nguyen](https://minhmpa.github.io/){:target="_blank"}\
 [Masafusa	Onoue](https://www.masafusaonoue.com){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
+[Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
 [Si-Yue	Yu](https://db.ipmu.jp/member/personal/7528en.html){:target="_blank"}
 
@@ -55,22 +56,18 @@ toc_sticky: true
 
 [Ryosuke Akizawa](https://db.ipmu.jp/member/personal/7180en.html){:target="_blank"}\
 [Jessica	Cowell](https://db.ipmu.jp/member/personal/7398en.html){:target="_blank"}\
-[Saki Fujita](https://www.chiplearning.net/){:target="_blank"}\
 [Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 Yuting	Liu\
 [Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 [Deven	Misra](http://devenmisra.github.io){:target="_blank"}\
-Andrés	Muñoz\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 Wenke	Ren\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
-[Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
-[Bonny Y.	Wang](https://bonnywang.github.io){:target="_blank"}\
 [Shuo Wang](https://shuowangsts.github.io/){:target="_blank"}\
 Yu Watanabe\
 Omar	Yehia\
@@ -124,6 +121,9 @@ If you are interested in partnering with us, please reach out!
 
 **Former Students**
 
- Yona Lapeyre\
- Rhea Gaur \
- [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}
+[Saki Fujita](https://www.chiplearning.net/){:target="_blank"}\
+Yona Lapeyre\
+Andrés	Muñoz\
+Rhea Gaur \
+[Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}
+[Bonny Y.	Wang](https://bonnywang.github.io){:target="_blank"}\
