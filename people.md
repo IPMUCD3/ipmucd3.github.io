@@ -43,6 +43,7 @@ toc_sticky: true
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
+[Kevin	McCarthy](https://kevinmacastro.github.io/){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Masafusa	Onoue](https://www.masafusaonoue.com){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
