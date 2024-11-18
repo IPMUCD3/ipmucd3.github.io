@@ -48,7 +48,6 @@ toc_sticky: true
 [Masafusa	Onoue](https://www.masafusaonoue.com){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
-[Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
 [Si-Yue	Yu](https://db.ipmu.jp/member/personal/7528en.html){:target="_blank"}
 
 
@@ -117,6 +116,7 @@ If you are interested in partnering with us, please reach out!
 [Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
+[Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
 [Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
 [Kiyoto Yabe](https://db.ipmu.jp/member/personal/4354en.html){:target="_blank"}\
 [Stephane Zsoldos](https://github.com/P3tru){:target="_blank"}
