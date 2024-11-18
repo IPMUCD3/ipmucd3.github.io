@@ -34,7 +34,6 @@ toc_sticky: true
 ## Postdocs
 
 [Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
-[Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Anamaria	Hell](https://anamariahell.com/){:target="_blank"}\
@@ -103,6 +102,7 @@ If you are interested in partnering with us, please reach out!
 **Former Postdocs**
 
 [Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
+[Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
 [Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
