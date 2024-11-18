@@ -38,7 +38,6 @@ toc_sticky: true
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Anamaria	Hell](https://anamariahell.com/){:target="_blank"}\
-[Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
 [Benjamin	Horowitz](https://bhorowitz.github.io/){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
@@ -109,6 +108,7 @@ If you are interested in partnering with us, please reach out!
 [Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
+[Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
