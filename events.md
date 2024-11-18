@@ -1,17 +1,13 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2024-11-3
+last_modified_at: 2024-11-18
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
-
-**Focus Week on Primordial Black Holes 2024**
-[Website](https://indico.ipmu.jp/event/439/overview){:target=`_blank`}\
-November 13-15, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
 
 **Probing the Genesis of Super Massive Black Holes: Emerging Perspectives from JWST 
 and Expectation toward New Wide-Field Survey Observations**
@@ -33,6 +29,10 @@ Every Friday 1:30-5pm, Seminar room C (3F)
 ---
 
 ## Past events
+
+**Focus Week on Primordial Black Holes 2024**
+[Website](https://indico.ipmu.jp/event/439/overview){:target=`_blank`}\
+November 13-15, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
 
 **AstroAI Asian (A<sup>3</sup>) Network**
 [Website](/a3n/){:target=`_blank`}\
