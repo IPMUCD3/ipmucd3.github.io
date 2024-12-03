@@ -34,7 +34,7 @@ Every Monday, 2pm, Balcony A (4F) \
 Organizers: Patrick de Perio, César Jesús Valls, Ka Ming Tsui
 
 ## Galaxy Evolution Group Meeting
-Every Tuesday, 2pm, Kashiwa Research Complex 2 (3F) \ 
+Every Tuesday, 2pm, Kashiwa Research Complex 2 (3F) \
 Organizer: Boris Kalita
 
 ## Astro Journal Club
