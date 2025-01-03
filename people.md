@@ -88,12 +88,11 @@ Takuya	Tashiro	([ICRR U-Tokyo](https://www.icrr.u-tokyo.ac.jp/en/){:target="_bla
 
 [Beyond AI](https://beyondai.jp/?lang=en){:target="_blank"}\
 [DLX Design Lab](https://www.designlab.ac/){:target="_blank"}\
-[Information Technology Center](https://www.itc.u-tokyo.ac.jp/en/){:target="_blank"}\
 [FoPM](https://www.s.u-tokyo.ac.jp/en/FoPM/){:target="_blank"}\
-[ILANCE](https://ilance.cnrs.fr/){:target="_blank"}
+[ILANCE](https://ilance.cnrs.fr/){:target="_blank"}\
+[Information Technology Center](https://www.itc.u-tokyo.ac.jp/en/){:target="_blank"}
 
 If you are interested in partnering with us, please reach out!
-
 
 ## Past Members
 
@@ -125,5 +124,5 @@ If you are interested in partnering with us, please reach out!
 Yona Lapeyre\
 Andrés	Muñoz\
 Rhea Gaur \
-[Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}
-[Bonny Y.	Wang](https://bonnywang.github.io){:target="_blank"}\
+[Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
+[Bonny Y.	Wang](https://bonnywang.github.io){:target="_blank"}
