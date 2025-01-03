@@ -1,7 +1,7 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2024-12-02
+last_modified_at: 2025-01-03
 layout: single
 toc: true
 toc_sticky: true
@@ -9,42 +9,51 @@ toc_sticky: true
 
 ## Upcoming events
 
-**Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
-[Website](https://indico.kmi.nagoya-u.ac.jp/event/9/){:target=`_blank`}\
-December 3-5, 2024, Kobayashi Masakawa Institute (KMI) at Nagoya University, Nagoya, Japan
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
-Every Friday 1:30-5pm, Seminar room C (3F)
+Every Friday 1:30-5pm, Balcony A (4F, note we changed to Balcony A in 2025)
 * The goal: code, experiment, and connect!
 * The format: 1:30pm describes your goal of the session; 2-4:30pm find a comfy place to code (together or alone); 4:30-5pm reconvene and report back your accomplishments (or failures..) and get feedback from others.
-* What to bring: a laptop, a small challenge that is explorable on a time scale of an afternoon, and an open mind!
+* Current program: [Human-AI Collaboration](https://cd3.ipmu.jp/hac)
+* What to bring: a laptop, a small challenge that is explorable on an afternoon's time scale, and an open mind!
 * Who can/should join: anyone who codes. This should be of minimal burden to your work/life, so feel free to join and leave anytime.
 
-## Cosmology x Machine Learning group meeting
-Every Wednesday, 11am, Seminar room C (3F) \
-Organizer: Linda Blot
+## Group Meetings
 
-## PFS lunch
-Every 1st and 3rd Thursday, 12-1pm, Balcony A (4F) \
-Organizer: Kevin McCarthy
-
-## Kashiwa Local Neutrino Group Meeting
-Every Monday, 2pm, Balcony A (4F) \
-Organizers: Patrick de Perio, César Jesús Valls, Ka Ming Tsui
-
-## Galaxy Evolution Group Meeting
-Every Tuesday, 2pm, Kashiwa Research Complex 2 (3F) \
-Organizer: Boris Kalita
-
-## Astro Journal Club
+**Astro Journal Club**\
 Every Friday, 11am, Seminar room A (1F) \
 Organizers: Andrew Eberhardt, Masafusa Onoue
 
+**CMB Group Meeting**\
+Every Thursday, 10am, Seminar room A (1F) \
+Organizer: Elisa Ferreira
 
----
+**Cosmology x Machine Learning Group Meeting**\
+Every Wednesday, 11am, Seminar room C (3F) \
+Organizer: Linda Blot
 
-## Past events
+**Galaxy Evolution Group Meeting**\
+Every Tuesday, 2pm, Kashiwa Research Complex 2 (3F) \
+Organizer: Boris Kalita
+
+**Kashiwa Local Neutrino Group Meeting**\
+Every Monday, 2pm, Balcony A (4F) \
+Organizers: Patrick de Perio, César Jesús Valls, Ka Ming Tsui
+
+**PFS Lunch**\
+Every 1st and 3rd Thursday, 12-1pm, Balcony A (4F) \
+Organizer: Kevin McCarthy
+
+## Talks
+
+[Calendar](https://research.ipmu.jp/seminar/?mode=seminar_coming)
+
+## Past Events
+
+**Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
+[Website](https://indico.kmi.nagoya-u.ac.jp/event/9/){:target=`_blank`}\
+December 3-5, 2024, Kobayashi Masakawa Institute (KMI) at Nagoya University, Nagoya, Japan
 
 **Probing the Genesis of Super Massive Black Holes: Emerging Perspectives from JWST 
 and Expectation toward New Wide-Field Survey Observations**
@@ -55,7 +64,7 @@ November 18-21, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
 [Website](https://indico.ipmu.jp/event/439/overview){:target=`_blank`}\
 November 13-15, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
 
-**AstroAI Asian (A<sup>3</sup>) Network**
+**AstroAI Asian (A<sup>3</sup>) Network Summer School**
 [Website](/a3n/){:target=`_blank`}\
 September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan
 
@@ -74,7 +83,7 @@ May 10, 2024, Kavli IPMU, Kashiwa, Japan
 [Website](https://indico.ipmu.jp/event/429/){:target=`_blank`}\
 April 8-12, 2024, Kavli IPMU, Kashiwa, Japan
 
-**AI-driven discovery in physics and astrophysics** 
+**AI-Driven Discovery in Physics and Astrophysics** 
 [Website](/ai4phys/){:target=`_blank`}\
 January 22-26, 2024, Kavli IPMU, Kashiwa, Japan
 
