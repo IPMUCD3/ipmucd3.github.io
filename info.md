@@ -26,7 +26,7 @@ If you are interested in becoming a member and/or receiving announcements of fut
 ## Publications
 
 [ADS](https://ui.adsabs.harvard.edu/user/libraries/Ud0Gd-jfQh6WoF0mqlCxXw){:target="_blank"}
-(Please contact Katya Vovk if your publication is missing)
+(Please contact Katya Vovk (kateryna.vovk@ipmu.jp) if your publication is missing)
 
 ## CD3 official logo
 You can generate the official logo using Google font "Chango" and color #3ec70b.
