@@ -10,18 +10,18 @@ toc: false
 ## Overview
 
 While Deep Learning's potential in industry and the sciences is without question,
-a fundamental theoretical understanding of large artificial networks is thus far elusive.
+a fundamental theoretical understanding of large artificial networks is thus far elusive. \
 There is growing evidence that tools from theoretical physics, in particular quantum field theory
-and statistical mechanics, will be crucial to bridge the gap between theory and practice.
+and statistical mechanics, will be crucial to bridge the gap between theory and practice. 
 
 As recognized by the 2024 Nobel Prize in Physics, the early stages of artificial intelligence development
-were heavily influenced by theoretical physics.
+were heavily influenced by theoretical physics. \
 This mini-workshop aims to retrace the physical ideas behind early models and connect them
-with the statistical description of modern deep networks.
-This event brings together researchers from the entire spectrum between machine learning practice and high-energy theory.
+with the statistical description of modern deep networks. \
+This event brings together researchers from the entire spectrum between machine learning practice and high-energy theory. \
 We hope to initiate fruitful collaboration between the different communities.
 
-The talks up to tea time will be designed for a general physics audience.
+The talks up to tea time will be designed for a general physics audience. \
 During the subsequent discussion, we will deepen the discussed topics and find points of contact.
 
 ## Information
@@ -42,5 +42,5 @@ Registration: [form](https://forms.gle/c814QqppNeNAacUM9)
 15:00 - 15:30 Tea time \
 15:30 - 17:00 Discussion
 
-Co-organized by [MLPhys](https://mlphys.scphys.kyoto-u.ac.jp/en/) 
+Co-organized by [MLPhys](https://mlphys.scphys.kyoto-u.ac.jp/en/) \
 Supported by MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (A) "Foundation of Machine Learning Physics"
