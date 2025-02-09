@@ -1,13 +1,16 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2025-01-03
+last_modified_at: 2025-02-09
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
+**The Quantum Frontier of Machine Learning** 
+[Website](/QFTxML/){:target=`_blank`}\
+March 11, 2025, Kavli IPMU, Kashiwa, Japan 
 
 
 ## Hack Friday 
