@@ -8,7 +8,7 @@ toc_sticky: true
 ---
 
 ## Upcoming events
-**The Quantum Frontier of Machine Learning** 
+**The Quantum Frontier of Machine Learning** \
 [Website](/QFTxML/){:target=`_blank`}\
 March 11, 2025, Kavli IPMU, Kashiwa, Japan 
 
