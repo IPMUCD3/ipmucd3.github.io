@@ -1,24 +1,24 @@
 ---
 permalink: /a3n/
-last_modified_at: 2024-05-23
+last_modified_at: 2025-02-21
 layout: single
 toc: true
 toc_sticky: true
 ---
 
-![banner](/_images/a3n_summerschool2024.png)
+<!--![banner](/_images/a3n_summerschool2024.png)-->
 
 ## AstroAI Asian Network (A<sup>3</sup> Net)
 The AstroAI Asian Network (A<sup>3</sup> Net) aims to educate students and researchers on artificial intelligence and machine learning (AI/ML) methods for astrophysics, with a focus on building a network in Asia. 
 
-We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targeting students and early-career researchers, this one-week program includes theoretical lectures, hands-on exercises, and collaborative projects. Participants will explore the latest advancements in AI/ML techniques and their applications in solving complex astrophysical problems. 
+We will have our next summer school from August 18-22, 2025 in Seoul, Korea. Targeting students and early-career researchers, this one-week program includes theoretical lectures, hands-on exercises, and collaborative projects. Participants will explore the latest advancements in AI/ML techniques and their applications in solving complex astrophysical problems. 
 
 ## Information and Registration
 
-* Time: September 2-6, 2024
-* Location: [Osaka University Nakanoshima Center](https://www.onc.osaka-u.ac.jp/)
+* Time: August 18-22, 2025
+* Location:  [KIAS](https://www.kias.re.kr/kias/main/main.do), Building 1 (1F), International conference room
 * In-person only
-* Registration deadline: July 10, 2024
+* Registration deadline: June 15 2025
 <!---* Registration form: [link](https://forms.gle/VtDG6R1oWzVV9ckY6)--->
 * Financial support: limited financial support is available, with priority given to junior researchers from Asian institutes.
 * Contact email: kateryna.vovk@ipmu.jp
@@ -27,50 +27,37 @@ We will have our first summer school from Sept 2–6, 2024 in Osaka, Japan. Targ
 
 ## Lecturers
 
-* [Makoto Uemura](https://home.hiroshima-u.ac.jp/uemuram/) (Hiroshima University)
-* [Michelle Ntampaka](https://www.stsci.edu/~mntampaka/) (Space Telescope Science Institute)
-* [Kana Moriwaki](https://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (University of Tokyo)
-* [Leander Thiele](https://leanderthiele.github.io/) (CD3, Kavli IPMU)
+TBD
 
-## Photo
+<!--## Photo
 ![a3n_11](_images/a3n_group.jpg)
-![a3n_12](_images/a3n_collage_white_bg.jpg)
+![a3n_12](_images/a3n_collage_white_bg.jpg)-->
 
 ## Schedule
-* Monday (Sep 2) \
-13 - 16 Lecture + Hands on \
-Lecture: Makoto Uemura "Statistical modeling" + "Shallow ML" \
-16 - 17 Fireslides (each participant, 1min to present themselves)
+* Monday (Aug 18) \
+TBD
 
+* Tuesday (Aug 19) \
+TBD
 
-* Tuesday (Sep 3) \
-9 - 10 Hack introduction & group forming \
-10 - 13 Lecture + Hands on \
-Lecture: Leander Thiele "Basic deep learning" \
-14 ~ Hack
+* Wednesday (Aug 20) \
+TBD
 
-* Wednesday (Sep 4) \
-9 - 12 Lecture + Hands on \
-Lecture: Michelle Ntampaka "Symmetries & specialized architectures" \
-12 ~ Excursion & Dinner! (Please register via the [form](https://docs.google.com/forms/d/e/1FAIpQLSdYBAThGN1k4WH9r2pmO7jrM9I9YlV6y7x3B4ew8FlhCBqJgg/viewform))
+* Thursday (Aug 21) \
+TBD
 
-* Thursday (Sep 5) \
-9 - 12 Lecture + Hands on \
-Lecture: Kana Moriwaki "Generative models" \
-13 ~ Hack
-
-* Friday (Sep 6) \
-9 - 12 Hack presentation
+* Friday (22) \
+TBD
 
 ## Organizers
 
 Jia Liu (CD3, Kavli IPMU)\
+Changbom Park (KIAS)\
 Kentaro Nagamine (Osaka University)\
 Hironao Miyatake (KMI, Nagoya University)\
 Kateryna Vovk (CD3, Kavli IPMU)\
 Leander Thiele (CD3, Kavli IPMU)\
-Linda Blot (CD3, Kavli IPMU)\
-César Jesús-Valls (CD3, Kavli IPMU)
+Linda Blot (CD3, Kavli IPMU)
 
 ## Co-sponsors
 
