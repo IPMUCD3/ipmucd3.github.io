@@ -79,4 +79,4 @@ Please reach out (kateryna.vovk@ipmu.jp) if you are interested in joining A<sup>
 
 ## Acknowledgement
 
-If you initiated, performed, or performed in part a project during the summer school, please add the following acknowledgment in your publication: "This work was initiated (or performed in part) at the AstroAI Asian Network 2024 summer school."
+If you initiated, performed, or performed in part a project during the summer school, please add the following acknowledgment in your publication: "This work was initiated (or performed in part) at the AstroAI Asian Network 2025 summer school."
