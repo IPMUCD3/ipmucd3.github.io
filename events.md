@@ -8,14 +8,18 @@ toc_sticky: true
 ---
 
 ## Upcoming events
-**The Quantum Frontier of Machine Learning** \
+**The Quantum Frontier of Machine Learning** 
 [Website](/QFTxML/){:target=`_blank`}\
 March 11, 2025, Kavli IPMU, Kashiwa, Japan 
 
-**AstroAI Asian (A<sup>3</sup>) Network Summer School** \
+**AstroAI Asian (A<sup>3</sup>) Network Summer School** 
 [Website](/a3n/){:target=`_blank`}\
 August 18-22, 2025, KIAS, Seoul, Korea\
 Registration deadline: June 15 2025
+
+**Beyond-2pt Statistics Meet Survey Systematics Workshop** 
+[Website](https://indico.ipmu.jp/event/460/){:target=`_blank`}\
+September 16-19, 2025, Kavli IPMU, Japan
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
