@@ -72,7 +72,7 @@ November 18-21, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
 November 13-15, 2024, Lecture Hall, Kavli IPMU, Kashiwa, Japan
 
 **AstroAI Asian (A<sup>3</sup>) Network Summer School**
-[Website](/a3n/){:target=`_blank`}\
+[Website](/a3n_Sep2024/){:target=`_blank`}\
 September 2-6, 2024, Osaka University Nakanoshima Center, Osaka, Japan
 
 **LSS Quest 2024**
