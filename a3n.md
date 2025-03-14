@@ -27,7 +27,10 @@ We will have our next summer school from August 18-22, 2025 in Seoul, Korea. Tar
 
 ## Lecturers
 
-TBD
+* [Kana Moriwaki](https://www-utap.phys.s.u-tokyo.ac.jp/~moriwaki/) (University of Tokyo)
+* [Leander Thiele](https://leanderthiele.github.io/) (CD3, Kavli IPMU)
+* [Adrian Bayer](https://adrianbayer.github.io/)
+* [Carol Cuesta-Lazaro](https://florpi.github.io/index.html)
 
 <!--## Photo
 ![a3n_11](_images/a3n_group.jpg)
