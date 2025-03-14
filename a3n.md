@@ -19,7 +19,7 @@ We will have our next summer school from August 18-22, 2025 in Seoul, Korea. Tar
 * Location:  [KIAS](https://www.kias.re.kr/kias/main/main.do), Building 1 (1F), International conference room
 * In-person only
 * Registration deadline: June 15 2025
-<!---* Registration form: [link](https://forms.gle/VtDG6R1oWzVV9ckY6)--->
+* Registration form: [link](https://forms.gle/4Z1K3Wt5ioQHf2wD9)
 * Financial support: limited financial support is available, with priority given to junior researchers from Asian institutes.
 * Contact email: kateryna.vovk@ipmu.jp
 <!--- * Slack and Zoom: please find the info in the announcement email --->
