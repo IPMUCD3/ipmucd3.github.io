@@ -73,6 +73,7 @@ Kateryna Vovk (CD3, Kavli IPMU)
 * [Shanghai Jiaotong University](https://www.physics.sjtu.edu.cn/en/)
 * [Shanghai Astronomical Observatory](http://english.shao.cas.cn/), Chinese Academic of Sciences
 * [Tsinghua University](https://astro.tsinghua.edu.cn/)
+* [University of New South Wales](https://www.unsw.edu.au/)
 * Program for Fugaku: JPMXP1020230406, University of Tsukuba
 
 Please reach out (kateryna.vovk@ipmu.jp) if you are interested in joining A<sup>3</sup> Net.
