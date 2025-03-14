@@ -55,9 +55,9 @@ Jia Liu (CD3, Kavli IPMU)\
 Changbom Park (KIAS)\
 Kentaro Nagamine (Osaka University)\
 Hironao Miyatake (KMI, Nagoya University)\
-Kateryna Vovk (CD3, Kavli IPMU)\
 Leander Thiele (CD3, Kavli IPMU)\
-Linda Blot (CD3, Kavli IPMU)
+Linda Blot (CD3, Kavli IPMU)\
+Kateryna Vovk (CD3, Kavli IPMU)
 
 ## Co-sponsors
 
