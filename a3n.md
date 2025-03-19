@@ -11,7 +11,7 @@ toc_sticky: true
 ## AstroAI Asian Network (A<sup>3</sup> Net)
 The AstroAI Asian Network (A<sup>3</sup> Net) aims to educate students and researchers on artificial intelligence and machine learning (AI/ML) methods for astrophysics, with a focus on building a network in Asia. 
 
-We will have our second summer school from August 18-22, 2025 in Seoul, Korea. Targeting students and early-career researchers, this one-week program includes theoretical lectures, hands-on exercises, and collaborative projects. Participants will explore the latest advancements in AI/ML techniques and their applications in solving complex astrophysical problems. 
+We will have our second summer school from August 18-22, 2025 in Seoul, Republic of Korea. Targeting students and early-career researchers, this one-week program includes theoretical lectures, hands-on exercises, and collaborative projects. Participants will explore the latest advancements in AI/ML techniques and their applications in solving complex astrophysical problems. 
 
 Past school: [A<sup>3</sup> Net summer school 2024](https://cd3.ipmu.jp/a3n_Sep2024)
 
@@ -32,7 +32,7 @@ Past school: [A<sup>3</sup> Net summer school 2024](https://cd3.ipmu.jp/a3n_Sep2
 * [Adrian Bayer](https://adrianbayer.github.io/) (Princeton University/Simons Foundation)
 * [Carol Cuesta-Lazaro](https://florpi.github.io/index.html) (NSF Institute for Artificial Intelligence and Fundamental Interactions/MIT/Harvard University)
 * [Leander Thiele](https://leanderthiele.github.io/) (CD3, Kavli IPMU)
-* [Jia Liu](https://liuxx479.github.io/) (CD3, Kavli IPMU)
+* [Sungwook E. Hong](https://cosmology.kasi.re.kr/members.php?member=swhong) (Korea Astronomy and Space Science Institute)
 * More TBC
 
 <!--## Photo
