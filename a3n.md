@@ -31,7 +31,7 @@ Past school: [A<sup>3</sup> Net summer school 2024](https://cd3.ipmu.jp/a3n_Sep2
 
 * [Adrian Bayer](https://adrianbayer.github.io/) (Princeton University/Simons Foundation)
 * [Carol Cuesta-Lazaro](https://florpi.github.io/index.html) (NSF Institute for Artificial Intelligence and Fundamental Interactions/MIT/Harvard University)
-* [Leander Thiele](https://leanderthiele.github.io/) (CD3, Kavli IPMU)
+* Vera Maiboroda (ATLAS, CERN)
 * [Sungwook E. Hong](https://cosmology.kasi.re.kr/members.php?member=swhong) (Korea Astronomy and Space Science Institute)
 * More TBC
 
