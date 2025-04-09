@@ -1,6 +1,6 @@
 ---
 permalink: /a3n/
-last_modified_at: 2025-02-21
+last_modified_at: 2025-04-09
 layout: single
 toc: true
 toc_sticky: true
@@ -18,7 +18,7 @@ Past school: [A<sup>3</sup> Net summer school 2024](https://cd3.ipmu.jp/a3n_Sep2
 ## Information and Registration
 
 * Time: August 18-22, 2025
-* Location:  Building 1 (1F), International conference room [KIAS](https://www.kias.re.kr/kias/main/main.do), [85 Hoegi-ro, Dongdaemun District, Seoul, South Korea](https://maps.app.goo.gl/equzfxgdsnF9tzyHA)
+* Location:  Building 1 (1F), International conference room [KIAS](https://www.kias.re.kr/kias/main/main.do), [85 Hoegi-ro, Dongdaemun District, Seoul, South Korea](https://maps.app.goo.gl/equzfxgdsnF9tzyHA), [Directions](/_images/Directions_to_KIAS.pdf)
 * In-person only
 * Registration deadline: June 15, 2025
 * Registration form: [link](https://forms.gle/4Z1K3Wt5ioQHf2wD9)
