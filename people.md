@@ -49,6 +49,7 @@ toc_sticky: true
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
+Jiaxi	Yu
 [Si-Yue	Yu](https://db.ipmu.jp/member/personal/7528en.html){:target="_blank"}
 
 
@@ -58,9 +59,12 @@ toc_sticky: true
 [Jessica	Cowell](https://db.ipmu.jp/member/personal/7398en.html){:target="_blank"}\
 [Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
+Masaya Ichikawa\
+Caio Takanori	Oba Ishikawa\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 Yuting	Liu\
 [Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
+Jahanvi	M\
 [Deven	Misra](http://devenmisra.github.io){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 Wenke	Ren\
