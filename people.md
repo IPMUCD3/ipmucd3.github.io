@@ -43,7 +43,6 @@ toc_sticky: true
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Kevin	McCarthy](https://kevinmacastro.github.io/){:target="_blank"}\
-[Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Nhat-Minh	Nguyen](https://minhmpa.github.io/){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
@@ -110,6 +109,7 @@ If you are interested in partnering with us, please reach out!
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
 [Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
+[Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
 [Masafusa	Onoue](https://www.masafusaonoue.com){:target="_blank"}\
 [Sam Passaglia](passaglia.jp){:target="_blank"}\
 [Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
