@@ -8,9 +8,6 @@ toc_sticky: true
 ---
 
 ## Upcoming events
-**The Quantum Frontier of Machine Learning** 
-[Website](/QFTxML/){:target=`_blank`}\
-March 11, 2025, Kavli IPMU, Kashiwa, Japan 
 
 **AstroAI Asian (A<sup>3</sup>) Network Summer School** 
 [Website](/a3n/){:target=`_blank`}\
@@ -61,6 +58,10 @@ Organizer: Kevin McCarthy
 [Calendar](https://research.ipmu.jp/seminar/?mode=seminar_coming)
 
 ## Past Events
+
+**The Quantum Frontier of Machine Learning** 
+[Website](/QFTxML/){:target=`_blank`}\
+March 11, 2025, Kavli IPMU, Kashiwa, Japan 
 
 **Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
 [Website](https://indico.kmi.nagoya-u.ac.jp/event/9/){:target=`_blank`}\
