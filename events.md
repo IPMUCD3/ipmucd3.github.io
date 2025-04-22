@@ -63,9 +63,12 @@ Organizer: Kevin McCarthy
 [Website](/QFTxML/){:target=`_blank`}\
 March 11, 2025, Kavli IPMU, Kashiwa, Japan
 
+**LiteBIRD collaboration meeting** 
+January 7-9, 2025, Kavli IPMU, Kashiwa, Japan
+
 **PFS collaboration meeting**
 [Website](https://indico.ipmu.jp/event/456/){:target=`_blank`}\
-January 7-9, 2025, Kavli IPMU, Kashiwa, Japan
+January 20-24, 2025, Kavli IPMU, Kashiwa, Japan
 
 **Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
 [Website](https://indico.kmi.nagoya-u.ac.jp/event/9/){:target=`_blank`}\
