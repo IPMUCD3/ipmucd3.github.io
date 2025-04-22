@@ -61,7 +61,11 @@ Organizer: Kevin McCarthy
 
 **The Quantum Frontier of Machine Learning** 
 [Website](/QFTxML/){:target=`_blank`}\
-March 11, 2025, Kavli IPMU, Kashiwa, Japan 
+March 11, 2025, Kavli IPMU, Kashiwa, Japan
+
+**PFS collaboration meeting**
+[Website](https://indico.ipmu.jp/event/456/){:target=`_blank`}\
+January 7-9, 2025, Kavli IPMU, Kashiwa, Japan
 
 **Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
 [Website](https://indico.kmi.nagoya-u.ac.jp/event/9/){:target=`_blank`}\
