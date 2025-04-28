@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2024-07-24
+last_modified_at: 2025-04-28
 layout: single
 toc: true
 toc_sticky: true
@@ -21,6 +21,7 @@ toc_sticky: true
 [Tom Melia](https://db.ipmu.jp/member/personal/2727en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
 [Toshiya Namikawa](https://db.ipmu.jp/member/personal/1857en.html){:target="_blank"}\
+[Misao Sasaki](https://db.ipmu.jp/member/personal/566en.html){:target="_blank"}\
 [Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
 [John Silverman](https://db.ipmu.jp/member/personal/594en.html){:target="_blank"}\
 [Masahiro Takada](https://db.ipmu.jp/member/personal/698en.html){:target="_blank"}\
@@ -39,6 +40,7 @@ toc_sticky: true
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Anamaria	Hell](https://anamariahell.com/){:target="_blank"}\
 [Benjamin	Horowitz](https://bhorowitz.github.io/){:target="_blank"}\
+[Daniela	Galárraga-Espinosa](https://db.ipmu.jp/member/personal/7819en.html){:target="_blank"}\
 [César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
@@ -56,11 +58,14 @@ toc_sticky: true
 [Ryosuke Akizawa](https://db.ipmu.jp/member/personal/7180en.html){:target="_blank"}\
 [Jessica	Cowell](https://db.ipmu.jp/member/personal/7398en.html){:target="_blank"}\
 [Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
+Jonathan Grée\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
 Masaya Ichikawa\
 Caio Takanori	Oba Ishikawa\
+[Tanto	Irikura](https://db.ipmu.jp/member/personal/7895en.html){:target="_blank"}\
+Keigo	Kondo\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
-Yuting	Liu\
+Yuting Liu\
 [Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 Jahanvi	M\
 [Deven	Misra](http://devenmisra.github.io){:target="_blank"}\
@@ -72,7 +77,7 @@ Wenke	Ren\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 [Shuo Wang](https://shuowangsts.github.io/){:target="_blank"}\
 Yu Watanabe\
-Omar	Yehia\
+Omar Yehia\
 Chenghan Zha
 
 
