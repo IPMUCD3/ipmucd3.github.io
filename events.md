@@ -9,6 +9,9 @@ toc_sticky: true
 
 ## Upcoming events
 
+**CD3 Project Expo 2025** [Website](/expo2025/){:target=`_blank`}\
+May 30, 2025, Kavli IPMU, Kashiwa, Japan
+
 **AstroAI Asian (A<sup>3</sup>) Network Summer School** 
 [Website](/a3n/){:target=`_blank`}\
 August 18-22, 2025, KIAS, Seoul, Korea\
@@ -63,7 +66,7 @@ Organizer: Kevin McCarthy
 [Website](/QFTxML/){:target=`_blank`}\
 March 11, 2025, Kavli IPMU, Kashiwa, Japan
 
-**LiteBIRD collaboration meeting** 
+**LiteBIRD collaboration meeting** \
 January 7-9, 2025, Kavli IPMU, Kashiwa, Japan
 
 **PFS collaboration meeting**
@@ -95,7 +98,7 @@ June 24−25, 2024, Osaka University Nakanoshima Center, Osaka, Japan
 [Website](https://galaxy-bh-evolution.ipmu.jp/){:target=`_blank`}\
 June 3-7, 2024, Kavli IPMU, Kashiwa, Japan
 
-**CD3 Project Expo** [Website](/expo2024/){:target=`_blank`}\
+**CD3 Project Expo 2024** [Website](/expo2024/){:target=`_blank`}\
 May 10, 2024, Kavli IPMU, Kashiwa, Japan
 
 **Baryons in the Universe 2024**
