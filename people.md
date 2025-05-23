@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2025-04-28
+last_modified_at: 2025-05-23
 layout: single
 toc: true
 toc_sticky: true
@@ -30,7 +30,8 @@ toc_sticky: true
 [Mark Vagins](https://db.ipmu.jp/member/personal/27en.html){:target="_blank"}\
 [Masaki Yamashita](https://db.ipmu.jp/member/personal/55en.html){:target="_blank"}\
 [Masahito Yamazaki](https://member.ipmu.jp/masahito.yamazaki/index.shtml){:target="_blank"}\
-[Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"}
+[Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"}\
+[Naoki Yoshida](https://www-utap.phys.s.u-tokyo.ac.jp/naoki.yoshida/)
 
 ## Postdocs
 
@@ -56,6 +57,7 @@ toc_sticky: true
 ## Students
 
 [Ryosuke Akizawa](https://db.ipmu.jp/member/personal/7180en.html){:target="_blank"}\
+[Kosuke Aizawa](https://db.ipmu.jp/member/personal/7178en.html)\
 [Jessica	Cowell](https://db.ipmu.jp/member/personal/7398en.html){:target="_blank"}\
 [Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
@@ -76,6 +78,7 @@ Wenke	Ren\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 [Shuo Wang](https://shuowangsts.github.io/){:target="_blank"}\
 Yu Watanabe\
+[Xinpeng Wang](https://xinpengw.site/)\
 Omar Yehia\
 Chenghan Zha
 
