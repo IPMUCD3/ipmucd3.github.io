@@ -23,9 +23,9 @@ Past school: [A<sup>3</sup> Net summer school 2024](https://cd3.ipmu.jp/a3n_Sep2
 * Registration deadline: June 15, 2025
 * Registration form: [link](https://forms.gle/4Z1K3Wt5ioQHf2wD9)
 * Financial support: limited financial support is available (please indicate in the registration form), with priority given to junior researchers from Asian institutes.
-* Contacts:
-  IPMU: Kateryna Vovk (kateryna.vovk@ipmu.jp)
-  KIAS: Juhye Park (pjh999@kias.re.kr)
+* Contacts: 
+  - IPMU: Kateryna Vovk (kateryna.vovk@ipmu.jp) 
+  - KIAS: Juhye Park (pjh999@kias.re.kr)
 <!--- * Slack and Zoom: please find the info in the announcement email --->
 <!--- List of participants --->
 
