@@ -1,6 +1,6 @@
 ---
 permalink: /a3n/
-last_modified_at: 2025-04-09
+last_modified_at: 2025-05-31
 layout: single
 toc: true
 toc_sticky: true
@@ -23,7 +23,9 @@ Past school: [A<sup>3</sup> Net summer school 2024](https://cd3.ipmu.jp/a3n_Sep2
 * Registration deadline: June 15, 2025
 * Registration form: [link](https://forms.gle/4Z1K3Wt5ioQHf2wD9)
 * Financial support: limited financial support is available (please indicate in the registration form), with priority given to junior researchers from Asian institutes.
-* Contact email: kateryna.vovk@ipmu.jp
+* Contacts:
+  IPMU: Kateryna Vovk (kateryna.vovk@ipmu.jp)
+  KIAS: Juhye Park (pjh999@kias.re.kr)
 <!--- * Slack and Zoom: please find the info in the announcement email --->
 <!--- List of participants --->
 
@@ -55,6 +57,7 @@ Kateryna Vovk (CD3, Kavli IPMU)
 
 * [Center for Data-Driven Discovery (CD3)](https://cd3.ipmu.jp/), Kavli IPMU
 * [Korea Institute for Advanced Study (KIAS)](https://www.kias.re.kr/)
+* [Korea Astronomy and Space Science Institute](https://www.kasi.re.kr/eng/index) 
 * [Theoretical Joint Research (TJR) Project](https://www.phys.sci.osaka-u.ac.jp/nambu/tjr/), Osaka University
 * [Fudan University](https://phys.fudan.edu.cn/)
 * [University of Hawaii](https://www.ifa.hawaii.edu/)
