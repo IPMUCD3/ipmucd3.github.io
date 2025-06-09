@@ -1,16 +1,13 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2025-02-09
+last_modified_at: 2025-06-09
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
-
-**CD3 Project Expo 2025** [Website](/expo2025/){:target=`_blank`}\
-May 30, 2025, Kavli IPMU, Kashiwa, Japan
 
 **AstroAI Asian (A<sup>3</sup>) Network Summer School** 
 [Website](/a3n/){:target=`_blank`}\
@@ -20,6 +17,11 @@ Registration deadline: June 15 2025
 **Beyond-2pt Statistics Meet Survey Systematics Workshop** 
 [Website](https://indico.ipmu.jp/event/460/){:target=`_blank`}\
 September 16-19, 2025, Kavli IPMU, Japan
+
+**Neutrino Physics and Machine Learning (NPML 2025)** 
+[Website](https://indico.ipmu.jp/event/462){:target=`_blank`}\
+October 27-31, 2025, Koshiba Hall, Hongo campus, University of Tokyo, Japan\
+Registration deadline: June 30 2025 (early), August 31 (abstract submission)
 
 ## Hack Friday 
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
@@ -61,6 +63,9 @@ Organizer: Kevin McCarthy
 [Calendar](https://research.ipmu.jp/seminar/?mode=seminar_coming)
 
 ## Past Events
+
+**CD3 Project Expo 2025** [Website](/expo2025/){:target=`_blank`}\
+May 30, 2025, Kavli IPMU, Kashiwa, Japan
 
 **The Quantum Frontier of Machine Learning** 
 [Website](/QFTxML/){:target=`_blank`}\
