@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2025-05-23
+last_modified_at: 2025-06-24
 layout: single
 toc: true
 toc_sticky: true
@@ -13,6 +13,7 @@ toc_sticky: true
 [Linda Blot](https://db.ipmu.jp/member/personal/7166en.html){:target="_blank"} \
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
 [Elisa Ferreira](https://www.elisagmferreira.com){:target="_blank"}\
+[Enrico Garaldi](http://egaraldi.github.io){:target="_blank"}\
 [Simeon Hellerman](https://db.ipmu.jp/member/personal/154en.html){:target="_blank"}\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
 [Alexander	Kusenko](https://kusenko.physics.ucla.edu/){:target="_blank"}\
@@ -64,6 +65,7 @@ toc_sticky: true
 Masaya Ichikawa\
 Caio Takanori	Oba Ishikawa\
 [Tanto	Irikura](https://db.ipmu.jp/member/personal/7895en.html){:target="_blank"}\
+Takumi	Izawa\
 Keigo	Kondo\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 Yuting Liu\
@@ -71,6 +73,7 @@ Yuting Liu\
 Jahanvi	M\
 [Deven	Misra](http://devenmisra.github.io){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
+Miguel Ruiz-Granda\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
@@ -78,6 +81,7 @@ Jahanvi	M\
 [Shuo Wang](https://shuowangsts.github.io/){:target="_blank"}\
 Yu Watanabe\
 [Xinpeng Wang](https://xinpengw.site/){:target="_blank"}\
+Ruixiang	Xu\
 Omar Yehia\
 Chenghan Zha
 
