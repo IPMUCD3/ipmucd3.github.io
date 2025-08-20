@@ -6,7 +6,6 @@ layout: single
 toc: false
 ---
 
-# HalfDome Simulation Focus Week
 
 <img src="https://halfdomesims.github.io/assets/images/logo_small.png" alt="drawing" width="200"/>
 
