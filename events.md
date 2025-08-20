@@ -14,6 +14,10 @@ toc_sticky: true
 August 18-22, 2025, KIAS, Seoul, Korea\
 Registration deadline: June 15 2025
 
+**HalfDome Universe Focus Work Week 2025**
+[Website](/halfdome2025/){:target=`_blank`}\
+August 25-29, 2025, Kavli IPMU, Japan
+
 **Beyond-2pt Statistics Meet Survey Systematics Workshop** 
 [Website](https://indico.ipmu.jp/event/460/){:target=`_blank`}\
 September 16-19, 2025, Kavli IPMU, Japan
