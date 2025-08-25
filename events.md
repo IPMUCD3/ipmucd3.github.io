@@ -9,11 +9,6 @@ toc_sticky: true
 
 ## Upcoming events
 
-**AstroAI Asian (A<sup>3</sup>) Network Summer School** 
-[Website](/a3n/){:target=`_blank`}\
-August 18-22, 2025, KIAS, Seoul, Korea\
-Registration deadline: June 15 2025
-
 **HalfDome Universe Focus Work Week 2025**
 [Website](/halfdome2025/){:target=`_blank`}\
 August 25-29, 2025, Kavli IPMU, Japan
@@ -67,6 +62,10 @@ Organizer: Kevin McCarthy
 [Calendar](https://research.ipmu.jp/seminar/?mode=seminar_coming)
 
 ## Past Events
+
+**AstroAI Asian (A<sup>3</sup>) Network Summer School** 
+[Website](/a3n_Aug2025/){:target=`_blank`}\
+August 18-22, 2025, KIAS, Seoul, Korea
 
 **CD3 Project Expo 2025** [Website](/expo2025/){:target=`_blank`}\
 May 30, 2025, Kavli IPMU, Kashiwa, Japan
