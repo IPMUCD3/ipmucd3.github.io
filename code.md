@@ -8,14 +8,14 @@ toc_sticky: true
 ---
 
 \
-Data products and softwares released by our members and projects.
+Data products and software released by our members and projects. Please contact Katya (kateryna.vovk@ipmu.jp) if you would like your data or software to be included on this page. 
 
-## Observational Data Release
+### Observational Data
 
 **[Hyper Suprime-Cam](https://hsc.mtk.nao.ac.jp/ssp/){:target="_blank"}** ([data access](https://hsc.mtk.nao.ac.jp/ssp/data-release/){:target="_blank"})\
 The latest public release (third release) of HSC-SSP includes over 600 square degrees of deep multi-color data served through dedicated databases and user interfaces.
 
-## Software
+### Software
 
 **[Galight](https://github.com/dartoon/galight){:target="_blank"}**\
 A Python-based open-source package that performs two-dimensional model fitting of optical and near-infrared images to characterize the light distribution of galaxies with components including a disk, bulge, bar, and quasar. 
@@ -26,7 +26,10 @@ Yomikata uses context to resolve ambiguous words in Japanese ([Demo](https://hug
 **[CosmoMMF](https://github.com/James11222/CosmoMMF){:target="_blank"}**\
 A julia based code that identifies clusters, filaments, walls, and voids using a modified version of the NEXUS algorithm, developed as part of [Sunseri et al. 2022](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107b3514S/abstract){:target="_blank"}. 
 
-## Simulation
+### Simulation
+
+**[The HalfDome Cosmological Simulations](https://halfdomesims.github.io/){:target="_blank"}**\
+The HalfDome Cosmological Simulations are tailored to the joint analysis of ongoing and upcoming cosmological surveys. 
 
 **[IllustrisTNG in the HSC-SSP](https://www.tng-project.org/data/docs/specifications/#sec5_5){:target="_blank"}** ([arxiv:2308.14793](https://arxiv.org/abs/2308.14793){:target="_blank"})\
 Synthetic images of galaxies from the IllustrisTNG simulations made using dust radiative transfer post-processing with SKIRT. The images are designed to match the observational characteristics of the Hyper Suprime-Cam Subaru Strategic Program. Both “HSC-realistic” and noise-free, high-resolution versions of the images are available. Galleries: [HSC-realistic mocks](https://www.tng-project.org/explore/gallery/bottrell23/), [idealized mocks](https://www.tng-project.org/explore/gallery/bottrell23i/)
