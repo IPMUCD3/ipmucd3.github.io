@@ -1,7 +1,7 @@
 ---
 title: "Information"
 permalink: /info/
-last_modified_at: 2024-11-06
+last_modified_at: 2025-10-07
 layout: single
 toc: true
 toc_sticky: true
@@ -15,9 +15,13 @@ The Center for Data-Driven Discovery (CD3) is an integral part of the Kavli IPMU
 
 For information about access, accommodation, and life in Japan, please visit [this page](https://www.ipmu.jp/en/visitors){:target="_blank"}.
 
-## Get Involved
+## Join CD3
 
 If you are interested in becoming a member and/or receiving announcements of future activities, please fill out this [form](https://forms.gle/n6JYTyrJPvW2enjr9){:target="_blank}.
+
+## ChatGPT Business Account
+
+To support research, writing, and experimentation with AI tools, CD3 provides members with access to OpenAI’s ChatGPT Business (formerly `ChatGPT Team', see [models, limits, and FAQs](https://help.openai.com/en/collections/7835004-chatgpt-business)). Membership requests are reviewed monthly on the last day of each month. Please complete the [CD3 ChatGPT Business Access Form](https://docs.google.com/forms/d/e/1FAIpQLSeXjB16TdqUdX_KR9xc1wbYzbXLwG7LIaYnatgsgxgPCcbF5A/viewform?usp=dialog) to request access. You will be notified via email once your request has been reviewed and approved. 
 
 ## Jobs 
 
