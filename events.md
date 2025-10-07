@@ -1,21 +1,13 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2025-06-09
+last_modified_at: 2025-10-07
 layout: single
 toc: true
 toc_sticky: true
 ---
 
 ## Upcoming events
-
-**HalfDome Universe Focus Work Week 2025**
-[Website](/halfdome2025/){:target=`_blank`}\
-August 25-29, 2025, Kavli IPMU, Japan
-
-**Beyond-2pt Statistics Meet Survey Systematics Workshop** 
-[Website](https://indico.ipmu.jp/event/460/){:target=`_blank`}\
-September 16-19, 2025, Kavli IPMU, Japan
 
 **Neutrino Physics and Machine Learning (NPML 2025)** 
 [Website](https://indico.ipmu.jp/event/462){:target=`_blank`}\
@@ -62,6 +54,14 @@ Organizer: Kevin McCarthy
 [Calendar](https://research.ipmu.jp/seminar/?mode=seminar_coming)
 
 ## Past Events
+
+**Beyond-2pt Statistics Meet Survey Systematics Workshop** 
+[Website](https://indico.ipmu.jp/event/460/){:target=`_blank`}\
+September 16-19, 2025, Kavli IPMU, Japan
+
+**HalfDome Universe Focus Work Week 2025**
+[Website](/halfdome2025/){:target=`_blank`}\
+August 25-29, 2025, Kavli IPMU, Japan
 
 **AstroAI Asian (A<sup>3</sup>) Network Summer School** 
 [Website](/a3n_Aug2025/){:target=`_blank`}\
