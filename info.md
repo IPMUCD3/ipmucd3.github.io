@@ -21,7 +21,18 @@ If you are interested in becoming a member and/or receiving announcements of fut
 
 ## ChatGPT Business Account
 
-To support research, writing, and experimentation with AI tools, CD3 provides members with access to OpenAI’s ChatGPT Business (formerly `ChatGPT Team', see [models, limits, and FAQs](https://help.openai.com/en/collections/7835004-chatgpt-business)). Membership requests are reviewed monthly on the last day of each month. Please complete the [CD3 ChatGPT Business Access Form](https://docs.google.com/forms/d/e/1FAIpQLSeXjB16TdqUdX_KR9xc1wbYzbXLwG7LIaYnatgsgxgPCcbF5A/viewform?usp=dialog) to request access. You will be notified via email once your request has been reviewed and approved. 
+To support research, writing, and experimentation with AI tools, CD3 provides members with access to OpenAI’s ChatGPT Business (formerly "ChatGPT Team", see [models, limits, and FAQs](https://help.openai.com/en/collections/7835004-chatgpt-business)). Membership requests are reviewed monthly on the last day of each month. Please complete the [CD3 ChatGPT Business Access Form](https://docs.google.com/forms/d/e/1FAIpQLSeXjB16TdqUdX_KR9xc1wbYzbXLwG7LIaYnatgsgxgPCcbF5A/viewform?usp=dialog) to request access. You will be notified via email once your request has been reviewed and approved. 
+
+## CD3 Seed Grant
+
+We invite CD3 members to apply for small seed grants sponsored by Google, aimed at supporting initial investigations of research or outreach ideas aligned with the CD3 mission. We especially encourage projects that are otherwise difficult to pursue via traditional programs. 
+
+Application: submit a brief (under 1 page) proposal via the form below.
+Form: https://forms.gle/LZkTiUDont3uADas7
+
+Deadline: end of every month.
+Presentation: short talk (10 minutes) during the first Hack Friday of each month (1:30 pm, Balcony Room A, 4F).
+Funding: 100,000 JPY (15–20 projects) or 500,000 JPY (about 5 projects).
 
 ## Jobs 
 
