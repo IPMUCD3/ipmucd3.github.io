@@ -1,7 +1,7 @@
 ---
 title: "Information"
 permalink: /info/
-last_modified_at: 2025-10-07
+last_modified_at: 2025-10-21
 layout: single
 toc: true
 toc_sticky: true
