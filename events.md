@@ -19,13 +19,13 @@ Registration deadline: June 30 2025 (early), August 31 (abstract submission)
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
 -->
   
-Every Friday 1:30-5pm, Balcony A (4F)
-* The goal: code, experiment, and connect!
-* Current format: rotation among 4 topics (see email announcement for weekly schedule):
-  * (1) Numerics Forum (Enrico Garaldi, Ben Horowitz, Ka Ming Tsui, Patrick de Perio)
-  * (2) CD3-Google seed grant presentation (Leander Thiele, Elisa Ferreira)
-  * (3) AI/ML frontier topics/study group (Deven Misra, Vera Maiboroda)
-  * (4) Project report, technical help session (Kateryna Vovk)
+The goal: code, experiment, and connect. Everyone is welcome. Please bring your laptop (and an open mind!).\
+Every Friday 1:30-5pm, Balcony A (4F)\
+Current format: rotation among 4 topics (please see email announcement for weekly schedule):
+* (1) Numerics forum (Enrico Garaldi, Ben Horowitz, Ka Ming Tsui, Patrick de Perio)
+* (2) CD3-Google seed grant presentation (Leander Thiele, Elisa Ferreira)
+* (3) AI/ML frontier topics/study group (Deven Misra, Vera Maiboroda)
+* (4) Project report, technical help session (Kateryna Vovk)
 
 ## Group Meetings
 
