@@ -15,13 +15,17 @@ October 27-31, 2025, Koshiba Hall, Hongo campus, University of Tokyo, Japan\
 Registration deadline: June 30 2025 (early), August 31 (abstract submission)
 
 ## Hack Friday 
+<!--
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
-Every Friday 1:30-5pm, Balcony A (4F, note we changed to Balcony A in 2025)
+-->
+  
+Every Friday 1:30-5pm, Balcony A (4F)
 * The goal: code, experiment, and connect!
-* The format: 1:30pm describes your goal of the session; 2-4:30pm find a comfy place to code (together or alone); 4:30-5pm reconvene and report back your accomplishments (or failures..) and get feedback from others.
-* Current program: [Human-AI Collaboration](https://cd3.ipmu.jp/hac)
-* What to bring: a laptop, a small challenge that is explorable on an afternoon's time scale, and an open mind!
-* Who can/should join: anyone who codes. This should be of minimal burden to your work/life, so feel free to join and leave anytime.
+* Current format: rotation among 4 topics (see email announcement for weekly schedule):
+  * (1) Numerics Forum (Enrico Garaldi, Ben Horowitz, Ka Ming Tsui, Patrick de Perio)
+  * (2) CD3-Google seed grant presentation (Leander Thiele, Elisa Ferreira)
+  * (3) AI/ML frontier topics/study group (Deven Misra, Vera Maiboroda)
+  * (4) Project report, technical help session (Kateryna Vovk)
 
 ## Group Meetings
 
