@@ -9,10 +9,7 @@ toc_sticky: true
 
 ## Upcoming events
 
-**Neutrino Physics and Machine Learning (NPML 2025)** 
-[Website](https://indico.ipmu.jp/event/462){:target=`_blank`}\
-October 27-31, 2025, Koshiba Hall, Hongo campus, University of Tokyo, Japan\
-Registration deadline: June 30 2025 (early), August 31 (abstract submission)
+
 
 ## Hack Friday 
 <!--
@@ -31,7 +28,7 @@ Current format: rotation among 4 topics (please see email announcement for weekl
 
 **Astro Journal Club**\
 Every Friday, 11am, Seminar room A (1F) \
-Organizers: Andrew Eberhardt, Masafusa Onoue
+Organizers: Sherry Song, Minh Nguen, Zeyu Gao
 
 **CMB Group Meeting**\
 Every Thursday, 10am, Seminar room A (1F) \
@@ -42,22 +39,27 @@ Every Wednesday, 11am, Seminar room C (3F) \
 Organizer: Linda Blot
 
 **Galaxy Evolution Group Meeting**\
-Every Tuesday, 2pm, Kashiwa Research Complex 2 (3F) \
-Organizer: Boris Kalita
+Every Wednesday, 2pm, Kashiwa Research Complex 2 (3F) \
+Organizer: Takumi Tanaka
 
 **Kashiwa Local Neutrino Group Meeting**\
 Every Monday, 2pm, Balcony A (4F) \
 Organizers: Patrick de Perio, César Jesús Valls, Ka Ming Tsui
 
-**PFS Lunch**\
+<!---**PFS Lunch**\
 Every 1st and 3rd Thursday, 12-1pm, Balcony A (4F) \
-Organizer: Kevin McCarthy
+Organizer: Kevin McCarthy--->
 
 ## Talks
 
 [Calendar](https://research.ipmu.jp/seminar/?mode=seminar_coming)
 
 ## Past Events
+
+**Neutrino Physics and Machine Learning (NPML 2025)** 
+[Website](https://indico.ipmu.jp/event/462){:target=`_blank`}\
+October 27-31, 2025, Koshiba Hall, Hongo campus, University of Tokyo, Japan\
+Registration deadline: June 30 2025 (early), August 31 (abstract submission)
 
 **Beyond-2pt Statistics Meet Survey Systematics Workshop** 
 [Website](https://indico.ipmu.jp/event/460/){:target=`_blank`}\
