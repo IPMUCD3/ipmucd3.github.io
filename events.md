@@ -9,7 +9,16 @@ toc_sticky: true
 
 ## Upcoming events
 
+**Dark Matter & Black Holes** 
+[Website](https://indico.ipmu.jp/event/464/){:target=`_blank`}\
+December 1-5, 2025, Kavli IPMU, Japan
 
+**LiteBIRD collaboration meeting** \
+January, 2025, Kavli IPMU, Kashiwa, Japan
+
+**Celebrating 40 Years of Damped Lya Systems** 
+[Website](https://indico.ipmu.jp/event/471/){:target=`_blank`}\
+March 16-19, 2026, Kavli IPMU, Japan
 
 ## Hack Friday 
 <!--
