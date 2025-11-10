@@ -36,14 +36,12 @@ toc_sticky: true
 
 ## Postdocs
 
-[Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
 [Jahmall Matteo	Bersini](https://inspirehep.net/authors/1834555){:target="_blank"}\
 [Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Anamaria	Hell](https://anamariahell.com/){:target="_blank"}\
 [Benjamin	Horowitz](https://bhorowitz.github.io/){:target="_blank"}\
 [Daniela	Galárraga-Espinosa](https://db.ipmu.jp/member/personal/7819en.html){:target="_blank"}\
-[César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Kevin	McCarthy](https://kevinmacastro.github.io/){:target="_blank"}\
@@ -59,7 +57,6 @@ toc_sticky: true
 
 [Ryosuke Akizawa](https://db.ipmu.jp/member/personal/7180en.html){:target="_blank"}\
 [Kosuke Aizawa](https://db.ipmu.jp/member/personal/7178en.html){:target="_blank"}\
-[Jessica	Cowell](https://db.ipmu.jp/member/personal/7398en.html){:target="_blank"}\
 [Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
 Masaya Ichikawa\
@@ -69,7 +66,6 @@ Takumi	Izawa\
 Keigo	Kondo\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 Yuting Liu\
-[Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 Jahanvi	M\
 [Deven	Misra](http://devenmisra.github.io){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
@@ -77,7 +73,6 @@ Miguel Ruiz-Granda\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
-[Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 [Shuo Wang](https://shuowangsts.github.io/){:target="_blank"}\
 Yu Watanabe\
 [Xinpeng Wang](https://xinpengw.site/){:target="_blank"}\
@@ -110,6 +105,7 @@ If you are interested in partnering with us, please reach out!
 
 **Former Postdocs**
 
+[Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/){:target="_blank"}\
 [Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
 [Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
 [Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
@@ -117,6 +113,7 @@ If you are interested in partnering with us, please reach out!
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
 [Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
 [Derek Inman](https://db.ipmu.jp/member/personal/6780en.html){:target="_blank"}\
+[César Jesús Valls](https://db.ipmu.jp/member/personal/7014en.html){:target="_blank"}\
 [Ilya Khrykin](https://ikhrykin.github.io/){:target="_blank"}\
 [Abhiram Kidambi](https://abhirammk.github.io/){:target="_blank"}\
 [Yue Nan](https://db.ipmu.jp/member/personal/6892en.html){:target="_blank"}\
@@ -134,10 +131,14 @@ If you are interested in partnering with us, please reach out!
 
 **Former Students**
 
+[Jessica	Cowell](https://db.ipmu.jp/member/personal/7398en.html){:target="_blank"}\
 [Saki Fujita](https://www.chiplearning.net/){:target="_blank"}\
 Yona Lapeyre\
 Andrés	Muñoz\
 Rhea Gaur \
+[Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
+[Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 Wenke	Ren\
 [Bonny Y.	Wang](https://bonnywang.github.io){:target="_blank"}
+
