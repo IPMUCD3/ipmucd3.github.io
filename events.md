@@ -25,13 +25,14 @@ March 16-19, 2026, Kavli IPMU, Japan
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
 -->
   
-The goal: code, experiment, and connect. Everyone is welcome. Please bring your laptop (and an open mind!).\
-Every Friday 1:30-5pm, Balcony A (4F)\
-Current [weekly schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQeHwebXXIo1u1JylEeXSpcMyKXEAMvYlCAhNIRLmQ6bkxeLhFWmSrUs8UTbbfTrdBidm5Q_hm1-8UM/pubhtml?gid=0&single=true) covers 4 topics:
-* (1) Numerics forum (Enrico Garaldi, Ben Horowitz, Ka Ming Tsui, Patrick de Perio)
-* (2) CD3-Google seed grant presentation (Leander Thiele, Elisa Ferreira)
-* (3) AI/ML frontier topics/study group (Deven Misra, Vera Maiboroda)
-* (4) Project report, technical help session, or CD3 seminars (Kateryna Vovk)
+**The goal:** This is CD3 members' regular meetup. Come code, experiment, and connect. Everyone is welcome. Please bring your laptop (and an open mind!).\
+**Time and location:** Every Friday 1:30-5pm, Balcony A (4F)\
+**Current schedule:** [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQeHwebXXIo1u1JylEeXSpcMyKXEAMvYlCAhNIRLmQ6bkxeLhFWmSrUs8UTbbfTrdBidm5Q_hm1-8UM/pubhtml?gid=0&single=true) \
+**Ongoing Topics**:
+* Numerics forum (Enrico Garaldi, Ben Horowitz, Ka Ming Tsui, Patrick de Perio)
+* CD3-Google seed grant presentation (Leander Thiele, Elisa Ferreira)
+* AI/ML frontier topics/study group (Deven Misra, Vera Maiboroda)
+* Flexible slot: Project report, technical help session, or CD3 seminars (Kateryna Vovk)
 
 ## Group Meetings
 
