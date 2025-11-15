@@ -1,7 +1,7 @@
 ---
 title: "Information"
 permalink: /info/
-last_modified_at: 2025-10-21
+last_modified_at: 2025-11-15
 layout: single
 toc: true
 toc_sticky: true
@@ -27,9 +27,9 @@ To support research, writing, and experimentation with AI tools, CD3 provides me
 
 CD3 members are eligible to apply for seed grants sponsored by Google, aimed at supporting initial investigations of research or outreach ideas aligned with the CD3 mission. We especially encourage projects that are otherwise difficult to pursue via traditional programs. 
 
-Application form: https://forms.gle/LZkTiUDont3uADas7
-Presentation: short talk (10 minutes) during the first Hack Friday of each month (1:30 pm, Balcony Room A, 4F).
-Deadline: end of every month.
+Application form: [link](https://forms.gle/LZkTiUDont3uADas7)\
+Presentation: short talk (10 minutes) during the first Hack Friday of each month (1:30 pm, Balcony Room A, 4F).\
+Deadline: end of every month.\
 Funding: 100,000 JPY (15–20 projects) or 500,000 JPY (about 5 projects).
 
 ## Jobs 
