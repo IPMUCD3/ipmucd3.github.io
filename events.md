@@ -1,7 +1,7 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2025-10-07
+last_modified_at: 2025-11-15
 layout: single
 toc: true
 toc_sticky: true
@@ -27,11 +27,11 @@ March 16-19, 2026, Kavli IPMU, Japan
   
 The goal: code, experiment, and connect. Everyone is welcome. Please bring your laptop (and an open mind!).\
 Every Friday 1:30-5pm, Balcony A (4F)\
-Current format: rotation among 4 topics (please see email announcement for weekly schedule):
+Current [weekly schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vQeHwebXXIo1u1JylEeXSpcMyKXEAMvYlCAhNIRLmQ6bkxeLhFWmSrUs8UTbbfTrdBidm5Q_hm1-8UM/pubhtml?gid=0&single=true) covers 4 topics:
 * (1) Numerics forum (Enrico Garaldi, Ben Horowitz, Ka Ming Tsui, Patrick de Perio)
 * (2) CD3-Google seed grant presentation (Leander Thiele, Elisa Ferreira)
 * (3) AI/ML frontier topics/study group (Deven Misra, Vera Maiboroda)
-* (4) Project report, technical help session (Kateryna Vovk)
+* (4) Project report, technical help session, or CD3 seminars (Kateryna Vovk)
 
 ## Group Meetings
 
@@ -67,8 +67,7 @@ Organizer: Kevin McCarthy--->
 
 **Neutrino Physics and Machine Learning (NPML 2025)** 
 [Website](https://indico.ipmu.jp/event/462){:target=`_blank`}\
-October 27-31, 2025, Koshiba Hall, Hongo campus, University of Tokyo, Japan\
-Registration deadline: June 30 2025 (early), August 31 (abstract submission)
+October 27-31, 2025, Koshiba Hall, Hongo campus, University of Tokyo, Japan
 
 **Beyond-2pt Statistics Meet Survey Systematics Workshop** 
 [Website](https://indico.ipmu.jp/event/460/){:target=`_blank`}\
