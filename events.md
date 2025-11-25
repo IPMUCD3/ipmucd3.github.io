@@ -27,7 +27,7 @@ March 16-19, 2026, Kavli IPMU, Japan
   
 **The goal:** This is CD3 members' regular meetup. Come code, experiment, and connect. Everyone is welcome. Please bring your laptop (and an open mind!).\
 **Time and location:** Every Friday 1:30-5pm, Balcony A (4F)\
-**Current schedule:** [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQeHwebXXIo1u1JylEeXSpcMyKXEAMvYlCAhNIRLmQ6bkxeLhFWmSrUs8UTbbfTrdBidm5Q_hm1-8UM/pubhtml?gid=0&single=true) \
+**Current schedule:** [link](https://indico.ipmu.jp/category/8/) \
 **Ongoing Topics**:
 * Numerics forum (Enrico Garaldi, Ben Horowitz, Ka Ming Tsui, Patrick de Perio)
 * CD3-Google seed grant presentation (Leander Thiele, Elisa Ferreira)
