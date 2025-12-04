@@ -24,7 +24,6 @@ March 16-19, 2026, Kavli IPMU, Japan
 <!--
 [Slides](https://docs.google.com/presentation/d/1YlANbb1qp_nbp37aalpP6JGxunt3yQOsnf2GoU-9KMw/){:target=`_blank`}\
 -->
-  
 **The goal:** This is CD3 members' regular meetup. Come code, experiment, and connect. Everyone is welcome. Please bring your laptop (and an open mind!).\
 **Time and location:** Every Friday 1:30-5pm, Balcony A (4F)\
 **Current schedule:** [link](https://indico.ipmu.jp/category/8/) \
@@ -63,6 +62,10 @@ Organizer: Kevin McCarthy--->
 ## Talks
 
 [Calendar](https://research.ipmu.jp/seminar/?mode=seminar_coming)
+
+## AstroAI Asian (A<sup>3</sup>) Network
+
+[Website](\a3n)
 
 ## Past Events
 
