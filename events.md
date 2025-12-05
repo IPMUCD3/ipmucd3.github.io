@@ -31,7 +31,7 @@ March 16-19, 2026, Kavli IPMU, Japan
 * Numerics forum (Enrico Garaldi, Ben Horowitz, Ka Ming Tsui, Patrick de Perio)
 * CD3-Google seed grant presentation (Leander Thiele, Elisa Ferreira)
 * AI/ML frontier topics/study group (Deven Misra, Vera Maiboroda)
-* Flexible slot: Project report, technical help session, or CD3 seminars (Kateryna Vovk)
+* Flexible slot: Project report, technical help session, or CD3 seminars (Kateryna Vovk) [Slides](https://docs.google.com/presentation/d/18XeA2k_hxRjov4KAn7e7Fp9CR4VivXEZaU7VA2Ze4Bs/edit?usp=sharing)
 
 ## Group Meetings
 
