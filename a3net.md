@@ -43,7 +43,7 @@ Seminars are held online on a biweekly or monthly schedule. Each session feature
 
 ### Call for Abstracts
 
-A3NSS invites abstract submissions on any research area linking AI/ML and astrophysics/cosmology, as well as theoretical studies of AI/ML technologies. Researchers at all career stages, including early career researchers, are encouraged to submit.  
+A<sup>3</sup>NSS invites abstract submissions on any research area linking AI/ML and astrophysics/cosmology, as well as theoretical studies of AI/ML technologies. Researchers at all career stages, including early career researchers, are encouraged to submit.  
 Link to abstract submission [form](https://docs.google.com/forms/d/e/1FAIpQLSePSRAJAg_t--xBBDuEsrtqPppUdBT2QVdwGdEF5al3_ARKvw/viewform?usp=dialog). 
 
 ### Contact
