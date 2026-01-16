@@ -39,7 +39,6 @@ toc_sticky: true
 ## Postdocs
 
 [Jahmall Matteo	Bersini](https://inspirehep.net/authors/1834555){:target="_blank"}\
-[Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Anamaria	Hell](https://anamariahell.com/){:target="_blank"}\
 [Benjamin	Horowitz](https://bhorowitz.github.io/){:target="_blank"}\
@@ -60,8 +59,7 @@ toc_sticky: true
 [Takafumi	Tsukui](https://takafumi291.github.io/){:target="_blank"}\
 [Michele	Veronesi](https://miverone.github.io/){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
-[Jiaxi	Yu](https://db.ipmu.jp/member/personal/7518en.html){:target="_blank"}\
-[Si-Yue	Yu](https://db.ipmu.jp/member/personal/7528en.html){:target="_blank"}
+[Jiaxi	Yu](https://db.ipmu.jp/member/personal/7518en.html){:target="_blank"}
 
 
 ## Students
@@ -124,6 +122,7 @@ If you are interested in partnering with us, please reach out!
 [Connor Bottrell](https://db.ipmu.jp/member/personal/6785en.html){:target="_blank"}\
 [Angela Chen](https://db.ipmu.jp/member/personal/6860en.html){:target="_blank"}\
 [Man Wai Cheung](https://db.ipmu.jp/member/personal/7026en.html){:target="_blank"}\
+[Ioana Coman](https://db.ipmu.jp/member/personal/7042en.html){:target="_blank"}\
 [Xuheng Ding](https://dartoon.github.io/){:target="_blank"}\
 [Joshua Eby](https://db.ipmu.jp/member/personal/6779en.html){:target="_blank"}\
 [Thuong Hoang](https://hoangducthuong.github.io/){:target="_blank"}\
@@ -141,6 +140,7 @@ If you are interested in partnering with us, please reach out!
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
 [Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
 [Kiyoto Yabe](https://db.ipmu.jp/member/personal/4354en.html){:target="_blank"}\
+[Si-Yue	Yu](https://db.ipmu.jp/member/personal/7528en.html){:target="_blank"}\
 [Stephane Zsoldos](https://github.com/P3tru){:target="_blank"}
 
 
