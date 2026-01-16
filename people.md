@@ -48,12 +48,15 @@ toc_sticky: true
 [Yiwen	Huang](https://db.ipmu.jp/member/personal/8041en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Kevin	McCarthy](https://kevinmacastro.github.io/){:target="_blank"}\
+[Maria	Mylova](https://db.ipmu.jp/member/personal/6974en.html){:target="_blank"}\
 [Nhat-Minh	Nguyen](https://minhmpa.github.io/){:target="_blank"}\
 [Guillermo	Pascual Cisneros](https://db.ipmu.jp/member/personal/7750en.html){:target="_blank"}\
 [Jiaxin	Qiao](https://db.ipmu.jp/member/personal/8038en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
+[Rahul Ramesh](http://rahul-ramesh-astro.github.io){:target="_blank"}\
 [Jie	Sheng](https://inspirehep.net/authors/2701928){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
+[Ka Ming	Tsui](https://db.ipmu.jp/member/personal/7067en.html){:target="_blank"}\
 [Takafumi	Tsukui](https://takafumi291.github.io/){:target="_blank"}\
 [Michele	Veronesi](https://miverone.github.io/){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
