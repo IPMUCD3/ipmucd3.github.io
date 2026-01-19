@@ -10,6 +10,7 @@ toc_sticky: true
 ## Faculty
 
 [Jia Liu](https://liuxx479.github.io/){:target="_blank"} (Director)\
+[Tom Melia](https://db.ipmu.jp/member/personal/2727en.html){:target="_blank"} (Deputy Director)\
 [Linda Blot](https://db.ipmu.jp/member/personal/7166en.html){:target="_blank"} \
 [Patrick de Perio](https://db.ipmu.jp/member/personal/2843en.html){:target="_blank"}\
 [Elisa Ferreira](https://www.elisagmferreira.com){:target="_blank"}\
@@ -20,7 +21,6 @@ toc_sticky: true
 [Alexander	Kusenko](https://kusenko.physics.ucla.edu/){:target="_blank"}\
 [Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
-[Tom Melia](https://db.ipmu.jp/member/personal/2727en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
 [Toshiya Namikawa](https://db.ipmu.jp/member/personal/1857en.html){:target="_blank"}\
 [J.Xavier Prochaska](https://www.ucolick.org/~xavier/Profession.html){:target="_blank"}\
