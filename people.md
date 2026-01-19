@@ -23,13 +23,13 @@ toc_sticky: true
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
 [Toshiya Namikawa](https://db.ipmu.jp/member/personal/1857en.html){:target="_blank"}\
-[J.Xavier Prochaska](https://www.ucolick.org/~xavier/Profession.html){:target="_blank"}\
+[J. Xavier Prochaska](https://www.ucolick.org/~xavier/Profession.html){:target="_blank"}\
 [Misao Sasaki](https://db.ipmu.jp/member/personal/566en.html){:target="_blank"}\
 [Jingjing Shi](https://www.jshiastro.com/home){:target="_blank"}\
 [John Silverman](https://db.ipmu.jp/member/personal/594en.html){:target="_blank"}\
 [Masahiro Takada](https://db.ipmu.jp/member/personal/698en.html){:target="_blank"}\
-[Tadayuki	Takahashi](https://db.ipmu.jp/member/personal/5672en.html){:target="_blank"}\
-[Leander	Thiele](http://leanderthiele.github.io){:target="_blank"}\
+[Tadayuki Takahashi](https://db.ipmu.jp/member/personal/5672en.html){:target="_blank"}\
+[Leander Thiele](http://leanderthiele.github.io){:target="_blank"}\
 [Mark Vagins](https://db.ipmu.jp/member/personal/27en.html){:target="_blank"}\
 [Masaki Yamashita](https://db.ipmu.jp/member/personal/55en.html){:target="_blank"}\
 [Masahito Yamazaki](https://member.ipmu.jp/masahito.yamazaki/index.shtml){:target="_blank"}\
