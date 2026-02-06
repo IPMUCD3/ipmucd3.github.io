@@ -2,7 +2,7 @@
 permalink: /a3net/
 redirect_from:
   - /a3n/
-last_modified_at: YYYY-MM-DD
+last_modified_at: 2026-02-06
 layout: single
 toc: true
 toc_sticky: true
