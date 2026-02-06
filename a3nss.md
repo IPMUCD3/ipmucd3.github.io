@@ -15,11 +15,11 @@ The **AstroAI Asian Network Seminar Series (A<sup>3</sup>NSS)** is a monthly onl
 
 The seminar series is held **monthly** in an online format. Each session features a **30-minute talk**, followed by a **30-minute open discussion**, designed to encourage in-depth questions, cross-disciplinary exchange, and active participation from researchers at all career stages.
 
-### Call for Abstracts
+## Call for Abstracts & Join the Mailing List
 
 We invite A<sup>3</sup> Net members to submit abstracts. Researchers at all career stages are encouraged. 
 
-Abstract submission: [form](https://forms.gle/mW55EoZeddAhswkB7). 
+Abstract submission and/or join the mailing list: [form](https://forms.gle/mW55EoZeddAhswkB7). 
 
 <!--
 Topics:
