@@ -38,5 +38,6 @@ Topics:
 - Thomas Venville, ANU (Main contact: thomas.venville@anu.edu.au)
 - Kateryna Vovk, CD3, Kavli IPMU
 - Leander Thiele, CD3, Kavli IPMU
+- Jia Liu, CD3, Kavli IPMU
 
 (Please get in touch with us if you would like to be part of the organizing team.)
