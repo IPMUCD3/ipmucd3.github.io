@@ -35,6 +35,10 @@ Topics:
 - Cross-disciplinary advances at the interface of astrophysics, cosmology, physics, and computer science.
 -->
 
+## Schedule
+
+To be announced. 
+
 ## Organizers
 
 - Thomas Venville (ANU, main contact: thomas.venville@anu.edu.au)
