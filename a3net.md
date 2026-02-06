@@ -24,7 +24,7 @@ Past schools: \
 [A<sup>3</sup> Net summer school 2024](https://cd3.ipmu.jp/a3n_Sep2024) (Osaka, Japan)
 
 ## The AstroAI Asian Network Seminar Series (A<sup>3</sup>NSS)
-The **AstroAI Asian Network Seminar Series (A<sup>3</sup>NSS)** is a monthly online seminar series that connects A<sup>3</sup> Net members and highlights recent advances. The seminar series is held **monthly** in an online format. Each session features a **30-minute talk**, followed by a **30-minute open discussion**, designed to encourage in-depth questions, cross-disciplinary exchange, and active participation from researchers at all career stages. 
+The **AstroAI Asian Network Seminar Series ([A<sup>3</sup>NSS](https://cd3.ipmu.jp/a3nss/))**  is a monthly online seminar series that connects A<sup>3</sup> Net members and highlights recent advances. The seminar series is held **monthly** in an online format. Each session features a **30-minute talk**, followed by a **30-minute open discussion**, designed to encourage in-depth questions, cross-disciplinary exchange, and active participation from researchers at all career stages. 
 
 ## Organizing Team
 
