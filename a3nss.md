@@ -17,9 +17,11 @@ The seminar series is held **monthly** in an online format. Each session feature
 
 ### Call for Abstracts
 
-We invite A<sup>3</sup> Net members to submit abstracts. Researchers at all career stages are encouraged to present. 
+We invite A<sup>3</sup> Net members to submit abstracts. Researchers at all career stages are encouraged. 
+
 Abstract submission: [form](https://forms.gle/mW55EoZeddAhswkB7). 
 
+<!--
 Topics:
 - AI/ML applications to observational and theoretical astrophysics and cosmology
 - Simulation-based inference
@@ -31,13 +33,13 @@ Topics:
 - Uncertainty quantification and robustness
 - Scalable algorithms for large astronomical datasets
 - Cross-disciplinary advances at the interface of astrophysics, cosmology, physics, and computer science.
-
+-->
 
 ## Organizers
 
-- Thomas Venville, ANU (Main contact: thomas.venville@anu.edu.au)
-- Kateryna Vovk, CD3, Kavli IPMU
-- Leander Thiele, CD3, Kavli IPMU
-- Jia Liu, CD3, Kavli IPMU
+- Thomas Venville (ANU, main contact: thomas.venville@anu.edu.au)
+- Kateryna Vovk (CD3, Kavli IPMU)
+- Leander Thiele (CD3, Kavli IPMU)
+- Jia Liu (CD3, Kavli IPMU)
 
 (Please get in touch with us if you would like to be part of the organizing team.)
