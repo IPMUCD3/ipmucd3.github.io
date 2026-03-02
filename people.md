@@ -57,7 +57,6 @@ toc_sticky: true
 [Jie	Sheng](https://inspirehep.net/authors/2701928){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
 [Sunao Sugiyama](https://db.ipmu.jp/member/personal/5761en.html){:target="_blank"}\
-[Ka Ming	Tsui](https://db.ipmu.jp/member/personal/7067en.html){:target="_blank"}\
 [Takafumi	Tsukui](https://takafumi291.github.io/){:target="_blank"}\
 [Michele	Veronesi](https://miverone.github.io/){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
@@ -140,6 +139,7 @@ If you are interested in partnering with us, please reach out!
 [Sunao Sugiyama](https://cosmo-sunao.webnode.jp){:target="_blank"}\
 [Tomoko Suzuki](https://sites.google.com/view/tlsuzuki/home){:target="_blank"}\
 [Hideki Tanimura](https://member.ipmu.jp/hideki.tanimura/index.htm){:target="_blank"}\
+[Ka Ming Tsui](https://db.ipmu.jp/member/personal/7067en.html){:target="_blank"}\
 [Valeri Vardanyan](https://inspirehep.net/authors/1353608?ui-citation-summary=true){:target="_blank"}\
 [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html){:target="_blank"}\
 [Lilan Yang](https://db.ipmu.jp/member/personal/6862en.html){:target="_blank"}\
