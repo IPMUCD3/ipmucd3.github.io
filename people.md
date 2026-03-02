@@ -38,6 +38,7 @@ toc_sticky: true
 
 ## Postdocs
 
+[Hugo Allaire](https://db.ipmu.jp/member/personal/7394en.html){:target="_blank"}\
 [Jahmall Matteo	Bersini](https://inspirehep.net/authors/1834555){:target="_blank"}\
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Anamaria	Hell](https://anamariahell.com/){:target="_blank"}\
@@ -55,10 +56,12 @@ toc_sticky: true
 [Rahul Ramesh](http://rahul-ramesh-astro.github.io){:target="_blank"}\
 [Jie	Sheng](https://inspirehep.net/authors/2701928){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
+[Sunao Sugiyama](https://db.ipmu.jp/member/personal/5761en.html){:target="_blank"}\
 [Ka Ming	Tsui](https://db.ipmu.jp/member/personal/7067en.html){:target="_blank"}\
 [Takafumi	Tsukui](https://takafumi291.github.io/){:target="_blank"}\
 [Michele	Veronesi](https://miverone.github.io/){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
+[Yunjing Wu](https://yunjingwu.github.io/){:target="_blank"}\
 [Jiaxi	Yu](https://db.ipmu.jp/member/personal/7518en.html){:target="_blank"}
 
 
@@ -68,6 +71,7 @@ toc_sticky: true
 [Kosuke Aizawa](https://db.ipmu.jp/member/personal/7178en.html){:target="_blank"}\
 [Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
+Poulomi Dey\
 [Di He](https://db.ipmu.jp/member/personal/8085en.html){:target="_blank"}\
 Masaya Ichikawa\
 Caio Takanori	Oba Ishikawa\
