@@ -17,7 +17,7 @@ The **AstroAI Asian Network ([A<sup>3</sup> Net](https://cd3.ipmu.jp/a3n/))** pr
 
 We organize annual summer schools, hosted at member institutes. Targeting students and early-career researchers, this one-week program includes theoretical lectures, hands-on exercises, and collaborative projects. Participants will explore the latest advancements in AI/ML techniques and their applications in solving complex astrophysical problems. 
 
-A<sup>3</sup> Net summer school 2026 in Taipei will be announced soon!
+A<sup>3</sup> Net summer school 2026 in Taipei is already here! [A<sup>3</sup> Net summer school 2026](https://cd3.ipmu.jp/a3n_Aug2026) (Taipei, Taiwan)
 
 Past schools: \
 [A<sup>3</sup> Net summer school 2025](https://cd3.ipmu.jp/a3n_Aug2025) (Seoul, South Korea)\
