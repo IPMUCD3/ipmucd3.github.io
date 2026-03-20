@@ -37,7 +37,7 @@ Topics:
 
 ## Schedule
 
-To be announced. 
+- 25th of March, 2026 @ 15:30 JST: He Wang (The International Centre for Theoretical Physics Asia-Pacific, University of Chinese Academy of Sciences, ICTP-AP/UCAS), "LLM-Guided Evolutionary Monte Carlo Tree Search for Explainable Algorithm Discovery in Gravitational-Wave Detection".
 
 ## Organizers
 
@@ -45,5 +45,9 @@ To be announced.
 - Kateryna Vovk (CD3, Kavli IPMU)
 - Leander Thiele (CD3, Kavli IPMU)
 - Jia Liu (CD3, Kavli IPMU)
+- Lanz Anthonee A. Lagman (University of the Philippines - Diliman)
+- Rizchel Masong (De La Salle University)
+- Ekta Sharma (Kavli Institute for Astronomy & Astrophysics, PKU)
+- Yunjing Wu (CD3, Kavli IPMU)
 
 (Please get in touch with us if you would like to be part of the organizing team.)
