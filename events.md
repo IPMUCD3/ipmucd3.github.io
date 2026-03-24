@@ -1,7 +1,7 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2025-11-15
+last_modified_at: 2026-03-24
 layout: single
 toc: true
 toc_sticky: true
@@ -9,16 +9,9 @@ toc_sticky: true
 
 ## Upcoming events
 
-**Dark Matter & Black Holes** 
-[Website](https://indico.ipmu.jp/event/464/){:target=`_blank`}\
-December 1-5, 2025, Kavli IPMU, Japan
-
-**LiteBIRD collaboration meeting** \
-January, 2025, Kavli IPMU, Kashiwa, Japan
-
-**Celebrating 40 Years of Damped Lya Systems** 
-[Website](https://indico.ipmu.jp/event/471/){:target=`_blank`}\
-March 16-19, 2026, Kavli IPMU, Japan
+**AstroAI Asian (A<sup>3</sup>) Network Summer School** 
+[Website](/a3n_Aug2026/){:target=`_blank`}\
+August, 2026
 
 ## Hack Friday 
 <!--
@@ -68,6 +61,17 @@ Organizer: Kevin McCarthy--->
 [Website](\a3n)
 
 ## Past Events
+
+**Celebrating 40 Years of Damped Lya Systems** 
+[Website](https://indico.ipmu.jp/event/471/){:target=`_blank`}\
+March 16-19, 2026, Kavli IPMU, Japan
+
+**LiteBIRD collaboration meeting** \
+January, 2025, Kavli IPMU, Kashiwa, Japan
+
+**Dark Matter & Black Holes** 
+[Website](https://indico.ipmu.jp/event/464/){:target=`_blank`}\
+December 1-5, 2025, Kavli IPMU, Japan
 
 **Neutrino Physics and Machine Learning (NPML 2025)** 
 [Website](https://indico.ipmu.jp/event/462){:target=`_blank`}\
