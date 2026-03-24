@@ -10,7 +10,7 @@ toc_sticky: true
 ## Upcoming events
 
 **AstroAI Asian (A<sup>3</sup>) Network Summer School** 
-[Website](/a3n_Aug2026/){:target=`_blank`}\
+[Website](https://cd3.ipmu.jp/a3n_Aug2026){:target=`_blank`}\
 August, 2026
 
 ## Hack Friday 
