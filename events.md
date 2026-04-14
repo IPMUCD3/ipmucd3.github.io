@@ -9,6 +9,9 @@ toc_sticky: true
 
 ## Upcoming events
 
+**CD3 Project Expo 2026** [Website](/expo2026/){:target=`_blank`}\
+April 24, 2026, Kavli IPMU, Kashiwa, Japan
+
 **AstroAI Asian (A<sup>3</sup>) Network Summer School** 
 [Website](https://cd3.ipmu.jp/a3n_Aug2026){:target=`_blank`}\
 August, 2026
