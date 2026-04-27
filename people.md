@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2025-06-24
+last_modified_at: 2026-04-27
 layout: single
 toc: true
 toc_sticky: true
@@ -17,8 +17,8 @@ toc_sticky: true
 [Enrico Garaldi](http://egaraldi.github.io){:target="_blank"}\
 [Simeon Hellerman](https://db.ipmu.jp/member/personal/154en.html){:target="_blank"}\
 [Takeo Higuchi](https://db.ipmu.jp/member/personal/2440en.html){:target="_blank"}\
-[Kenta	Hotokezaka](https://www.resceu.s.u-tokyo.ac.jp/~hotokezaka/){:target="_blank"}\
-[Alexander	Kusenko](https://kusenko.physics.ucla.edu/){:target="_blank"}\
+[Kenta Hotokezaka](https://www.resceu.s.u-tokyo.ac.jp/~hotokezaka/){:target="_blank"}\
+[Alexander Kusenko](https://kusenko.physics.ucla.edu/){:target="_blank"}\
 [Khee-Gan Lee](https://www.kglee.me/){:target="_blank"}\
 [Tomotake Matsumura](https://db.ipmu.jp/member/personal/2196en.html){:target="_blank"}\
 [Hitoshi Murayama](http://hitoshi.berkeley.edu){:target="_blank"}\
@@ -43,39 +43,43 @@ toc_sticky: true
 [Andrew Eberhardt](https://db.ipmu.jp/member/personal/7315en.html){:target="_blank"}\
 [Anamaria	Hell](https://anamariahell.com/){:target="_blank"}\
 [Benjamin	Horowitz](https://bhorowitz.github.io/){:target="_blank"}\
-[Daniela	Galárraga-Espinosa](https://db.ipmu.jp/member/personal/7819en.html){:target="_blank"}\
+[Daniela Galárraga-Espinosa](https://db.ipmu.jp/member/personal/7819en.html){:target="_blank"}\
+[Yannis Georis](https://db.ipmu.jp/member/personal/8067en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
-[Yiwen	Huang](https://db.ipmu.jp/member/personal/8041en.html){:target="_blank"}\
+[Yiwen Huang](https://db.ipmu.jp/member/personal/8041en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
-[Kevin	McCarthy](https://kevinmacastro.github.io/){:target="_blank"}\
-[Maria	Mylova](https://db.ipmu.jp/member/personal/6974en.html){:target="_blank"}\
-[Nhat-Minh	Nguyen](https://minhmpa.github.io/){:target="_blank"}\
-[Guillermo	Pascual Cisneros](https://db.ipmu.jp/member/personal/7750en.html){:target="_blank"}\
+[Vera Maiboroda](https://db.ipmu.jp/member/personal/7997en.html){:target="_blank"}\
+[Kevin McCarthy](https://kevinmacastro.github.io/){:target="_blank"}\
+[Maria Mylova](https://db.ipmu.jp/member/personal/6974en.html){:target="_blank"}\
+[Nhat-Minh Nguyen](https://minhmpa.github.io/){:target="_blank"}\
+[Guillermo Pascual Cisneros](https://db.ipmu.jp/member/personal/7750en.html){:target="_blank"}\
 [Jiaxin	Qiao](https://db.ipmu.jp/member/personal/8038en.html){:target="_blank"}\
 [Tian Qiu](https://db.ipmu.jp/member/personal/5938en.html){:target="_blank"}\
 [Rahul Ramesh](http://rahul-ramesh-astro.github.io){:target="_blank"}\
-[Jie	Sheng](https://inspirehep.net/authors/2701928){:target="_blank"}\
+[Riya Shah](https://db.ipmu.jp/member/personal/8180en.html){:target="_blank"}\
+[Jie Sheng](https://inspirehep.net/authors/2701928){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
 [Sunao Sugiyama](https://db.ipmu.jp/member/personal/5761en.html){:target="_blank"}\
 [Takafumi	Tsukui](https://takafumi291.github.io/){:target="_blank"}\
-[Michele	Veronesi](https://miverone.github.io/){:target="_blank"}\
+[Victoria Venken](https://db.ipmu.jp/member/personal/8040en.html){:target="_blank"}\
+[Michele Veronesi](https://miverone.github.io/){:target="_blank"}\
 [Kateryna Vovk](https://db.ipmu.jp/member/personal/7085en.html){:target="_blank"} (Web administrator)\
 [Yunjing Wu](https://yunjingwu.github.io/){:target="_blank"}\
-[Jiaxi	Yu](https://db.ipmu.jp/member/personal/7518en.html){:target="_blank"}
+[Jiaxi Yu](https://db.ipmu.jp/member/personal/7518en.html){:target="_blank"}
 
 
 ## Students
 
 [Ryosuke Akizawa](https://db.ipmu.jp/member/personal/7180en.html){:target="_blank"}\
 [Kosuke Aizawa](https://db.ipmu.jp/member/personal/7178en.html){:target="_blank"}\
-[Suyog	Garg](https://suyog7130.github.io/){:target="_blank"}\
+[Suyog Garg](https://suyog7130.github.io/){:target="_blank"}\
 [Kota Hayashi](https://db.ipmu.jp/member/personal/6900en.html){:target="_blank"}\
 Poulomi Dey\
 [Di He](https://db.ipmu.jp/member/personal/8085en.html){:target="_blank"}\
 Masaya Ichikawa\
 Caio Takanori	Oba Ishikawa\
 [Tanto	Irikura](https://db.ipmu.jp/member/personal/7895en.html){:target="_blank"}\
-Takumi	Izawa\
+Takumi Izawa\
 Keigo	Kondo\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 Yuting Liu\
@@ -84,6 +88,7 @@ Jahanvi	M\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
 [Shota Ogawa](https://db.ipmu.jp/member/personal/7897en.html){:target="_blank"}\
 Miguel Ruiz-Granda\
+[Tamon Suehiro](https://db.ipmu.jp/member/personal/7900en.html){:target="_blank"}\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
@@ -91,7 +96,7 @@ Miguel Ruiz-Granda\
 Yu Watanabe\
 [Xinpeng Wang](https://xinpengw.site/){:target="_blank"}\
 Can	Xu\
-Ruixiang	Xu\
+Ruixiang Xu\
 Omar Yehia\
 Chenghan Zha\
 [Bufan	Zheng](http://whuzbf.github.io){:target="_blank"}
