@@ -50,6 +50,7 @@ toc_sticky: true
 [Yiwen Huang](https://db.ipmu.jp/member/personal/8041en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
 [Vera Maiboroda](https://db.ipmu.jp/member/personal/7997en.html){:target="_blank"}\
+[Hayato Morimura](https://db.ipmu.jp/member/personal/7126en.html){:target="_blank"}\
 [Kevin McCarthy](https://kevinmacastro.github.io/){:target="_blank"}\
 [Maria Mylova](https://db.ipmu.jp/member/personal/6974en.html){:target="_blank"}\
 [Nhat-Minh Nguyen](https://minhmpa.github.io/){:target="_blank"}\
@@ -80,7 +81,7 @@ Poulomi Dey\
 [Di He](https://db.ipmu.jp/member/personal/8085en.html){:target="_blank"}\
 Masaya Ichikawa\
 Caio Takanori	Oba Ishikawa\
-[Tanto	Irikura](https://db.ipmu.jp/member/personal/7895en.html){:target="_blank"}\
+[Tanto Irikura](https://db.ipmu.jp/member/personal/7895en.html){:target="_blank"}\
 Takumi Izawa\
 Keigo	Kondo\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
@@ -88,13 +89,14 @@ Yuting Liu\
 Jahanvi	M\
 [Deven	Misra](http://devenmisra.github.io){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
-Kouki	Nozaki\
+[Kouki Nozaki](https://db.ipmu.jp/member/personal/8311en.html){:target="_blank"}\
 [Shota Ogawa](https://db.ipmu.jp/member/personal/7897en.html){:target="_blank"}\
 Miguel Ruiz-Granda\
 [Tamon Suehiro](https://db.ipmu.jp/member/personal/7900en.html){:target="_blank"}\
 [Takumi Tanaka](https://sites.google.com/view/tanakatakumi){:target="_blank"}\
 [Takanori Taniguchi](https://db.ipmu.jp/member/personal/6537en.html){:target="_blank"}\
 [Ryo Terasawa](https://db.ipmu.jp/member/personal/6801en.html){:target="_blank"}\
+[Keita Tsuji](https://db.ipmu.jp/member/personal/7901en.html){:target="_blank"}\
 [Shuo Wang](https://shuowangsts.github.io/){:target="_blank"}\
 Yu Watanabe\
 [Xinpeng Wang](https://xinpengw.site/){:target="_blank"}\
@@ -102,7 +104,7 @@ Can	Xu\
 Ruixiang Xu\
 Omar Yehia\
 Chenghan Zha\
-[Bufan	Zheng](http://whuzbf.github.io){:target="_blank"}
+[Bufan Zheng](http://whuzbf.github.io){:target="_blank"}
 
 
 ## Collaborators
