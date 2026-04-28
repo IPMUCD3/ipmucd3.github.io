@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-last_modified_at: 2026-04-27
+last_modified_at: 2026-04-28
 layout: single
 toc: true
 toc_sticky: true
@@ -45,6 +45,7 @@ toc_sticky: true
 [Benjamin	Horowitz](https://bhorowitz.github.io/){:target="_blank"}\
 [Daniela Galárraga-Espinosa](https://db.ipmu.jp/member/personal/7819en.html){:target="_blank"}\
 [Yannis Georis](https://db.ipmu.jp/member/personal/8067en.html){:target="_blank"}\
+[Nivedita Ghosh](https://db.ipmu.jp/member/personal/7749en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Yiwen Huang](https://db.ipmu.jp/member/personal/8041en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
@@ -59,6 +60,7 @@ toc_sticky: true
 [Riya Shah](https://db.ipmu.jp/member/personal/8180en.html){:target="_blank"}\
 [Jie Sheng](https://inspirehep.net/authors/2701928){:target="_blank"}\
 [Sherry Song](https://db.ipmu.jp/member/personal/7605en.html){:target="_blank"}\
+[Yoshinori Sueno](https://db.ipmu.jp/member/personal/8283en.html){:target="_blank"}\
 [Sunao Sugiyama](https://db.ipmu.jp/member/personal/5761en.html){:target="_blank"}\
 [Takafumi	Tsukui](https://takafumi291.github.io/){:target="_blank"}\
 [Victoria Venken](https://db.ipmu.jp/member/personal/8040en.html){:target="_blank"}\
@@ -86,6 +88,7 @@ Yuting Liu\
 Jahanvi	M\
 [Deven	Misra](http://devenmisra.github.io){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
+Kouki	Nozaki\
 [Shota Ogawa](https://db.ipmu.jp/member/personal/7897en.html){:target="_blank"}\
 Miguel Ruiz-Granda\
 [Tamon Suehiro](https://db.ipmu.jp/member/personal/7900en.html){:target="_blank"}\
