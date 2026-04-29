@@ -38,6 +38,7 @@ Topics:
 ## Schedule
 
 - 25th of March, 2026 @ 15:30 JST: He Wang (The International Centre for Theoretical Physics Asia-Pacific, University of Chinese Academy of Sciences, ICTP-AP/UCAS), "LLM-Guided Evolutionary Monte Carlo Tree Search for Explainable Algorithm Discovery in Gravitational-Wave Detection".
+- 29th of April, 2026 @ 15:30 JST: Maja Jabłońska (Research School of Astronomy and Astrophysics, Australian National University), "Stellar Variability in the Survey Era: A Differentiable Forward Model with SPICE".
 
 ## Organizers
 
