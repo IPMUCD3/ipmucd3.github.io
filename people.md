@@ -45,7 +45,6 @@ toc_sticky: true
 [Benjamin	Horowitz](https://bhorowitz.github.io/){:target="_blank"}\
 [Daniela Galárraga-Espinosa](https://db.ipmu.jp/member/personal/7819en.html){:target="_blank"}\
 [Yannis Georis](https://db.ipmu.jp/member/personal/8067en.html){:target="_blank"}\
-[Nivedita Ghosh](https://db.ipmu.jp/member/personal/7749en.html){:target="_blank"}\
 [Baptiste Jost](https://db.ipmu.jp/member/personal/7119en.html){:target="_blank"}\
 [Yiwen Huang](https://db.ipmu.jp/member/personal/8041en.html){:target="_blank"}\
 [Clement Leloup](https://db.ipmu.jp/member/personal/7013en.html){:target="_blank"}\
