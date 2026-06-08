@@ -33,7 +33,7 @@ August, 2026
 
 **Astro Journal Club**\
 Every Friday, 11am, Seminar room A (1F) \
-Organizers: Sherry Song, Minh Nguen, Zeyu Gao
+Organizers: Sherry Song, Zeyu Gao
 
 **CMB Group Meeting**\
 Every Thursday, 10am, Seminar room A (1F) \
