@@ -100,7 +100,7 @@ Miguel Ruiz-Granda\
 Yu Watanabe\
 [Xinpeng Wang](https://xinpengw.site/){:target="_blank"}\
 Can	Xu\
-Ruixiang Xu\
+<!--Ruixiang Xu\-->
 Omar Yehia\
 Chenghan Zha\
 [Bufan Zheng](http://whuzbf.github.io){:target="_blank"}
