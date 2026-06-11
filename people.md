@@ -99,7 +99,7 @@ Miguel Ruiz-Granda\
 [Shuo Wang](https://shuowangsts.github.io/){:target="_blank"}\
 Yu Watanabe\
 [Xinpeng Wang](https://xinpengw.site/){:target="_blank"}\
-Can	Xu\<!--Ruixiang Xu\-->
+Can	Xu\
 Omar Yehia\
 Chenghan Zha\
 [Bufan Zheng](http://whuzbf.github.io){:target="_blank"}
