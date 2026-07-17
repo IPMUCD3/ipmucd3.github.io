@@ -85,6 +85,7 @@ Takumi Izawa\
 Keigo	Kondo\
 [Toshiki Kurita](https://db.ipmu.jp/member/personal/5730en.html){:target="_blank"}\
 Yuting Liu\
+[Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 Jahanvi	M\
 [Deven	Misra](http://devenmisra.github.io){:target="_blank"}\
 [Kanmi Nose](https://db.ipmu.jp/member/personal/6901en.html){:target="_blank"}\
@@ -163,7 +164,6 @@ If you are interested in partnering with us, please reach out!
 Yona Lapeyre\
 Andrés	Muñoz\
 Rhea Gaur \
-[Zhaoxuan Liu](https://db.ipmu.jp/member/personal/6838en.html){:target="_blank"}\
 [Shenli Tang](https://db.ipmu.jp/member/personal/6029en.html){:target="_blank"}\
 [Akira Tokiwa](https://db.ipmu.jp/member/personal/6538en.html){:target="_blank"}\
 Wenke	Ren\
