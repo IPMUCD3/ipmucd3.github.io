@@ -27,7 +27,7 @@ Artificial intelligence is rapidly changing how scientists learn and do research
 
 Our team brings physicists, social scientists, and data scientists together inside one institute to study **AI for Science (AI4S)** as it happens. We work with researchers at the frontier of physics, astronomy, and related fields, watching how experienced scientists actually use AI on real, unsolved problems, and asking what that means for them and for science. Unlike most AI4S studies, which rely on case studies or classroom exercises, we observe expert researchers at work through interviews, daily observation, and large-scale surveys.
 
-The project is led by [Jia Liu](https://liuxx479.github.io/){:target="_blank"} and [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"} at the Center for Data-Driven Discovery (CD3), Kavli IPMU, which combines expertise in physics, data science, and social science under one roof.
+The project is led by [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"}, Shan Wang, and [Jia Liu](https://liuxx479.github.io/){:target="_blank"} at the Center for Data-Driven Discovery (CD3), Kavli IPMU, which combines expertise in physics, data science, and social science under one roof.
 
 ## What we ask
 
@@ -63,13 +63,6 @@ The survey is **anonymous and voluntary** and takes about **15 minutes**. No ide
 <div class="ai4s-team">
 
   <div class="ai4s-member">
-    <img src="/_images/ai4s/jia.jpg" alt="Jia Liu">
-    <h3><a href="https://liuxx479.github.io/" target="_blank">Jia Liu</a></h3>
-    <p class="ai4s-role">Co-Principal Investigator<br>Kavli IPMU, The University of Tokyo</p>
-    <p class="ai4s-bio">Dr. Jia Liu is an Associate Professor at Kavli IPMU and Director of the Center for Data-Driven Discovery (CD3). A computational and observational cosmologist, she studies the large-scale structure of the universe to learn about fundamental physics, including inflation, dark energy, and neutrino mass. She co-leads the project and brings the perspective of a working physicist using AI in daily research.</p>
-  </div>
-
-  <div class="ai4s-member">
     <img src="/_images/ai4s/hiromi.jpg" alt="Hiromi Yokoyama">
     <h3><a href="https://member.ipmu.jp/hiromi.yokoyama/en/index.html" target="_blank">Hiromi Yokoyama</a></h3>
     <p class="ai4s-role">Co-Principal Investigator<br>Kavli IPMU, The University of Tokyo</p>
@@ -79,8 +72,15 @@ The survey is **anonymous and voluntary** and takes about **15 minutes**. No ide
   <div class="ai4s-member">
     <img src="/_images/ai4s/shan.jpg" alt="Shan Wang">
     <h3>Shan Wang</h3>
-    <p class="ai4s-role">Study Lead<br>University of San Francisco</p>
+    <p class="ai4s-role">Co-Principal Investigator<br>University of San Francisco</p>
     <p class="ai4s-bio">Dr. Shan Wang is an Associate Professor and previous director of Data Science and Artificial Intelligence at the University of San Francisco (on sabbatical at Kavli IPMU). Her research interests include medical informatics, biomedical research, and utilizing machine learning and AI to address social, ethical, and policy problems.</p>
+  </div>
+
+  <div class="ai4s-member">
+    <img src="/_images/ai4s/jia.jpg" alt="Jia Liu">
+    <h3><a href="https://liuxx479.github.io/" target="_blank">Jia Liu</a></h3>
+    <p class="ai4s-role">Co-Principal Investigator<br>Kavli IPMU, The University of Tokyo</p>
+    <p class="ai4s-bio">Dr. Jia Liu is an Associate Professor at Kavli IPMU and Director of the Center for Data-Driven Discovery (CD3). A computational and observational cosmologist, she studies the large-scale structure of the universe to learn about fundamental physics, including inflation, dark energy, and neutrino mass. She co-leads the project and brings the perspective of a working physicist using AI in daily research.</p>
   </div>
 
   <div class="ai4s-member">
@@ -128,4 +128,4 @@ We thank the participants of the 2026 workshop, everyone who has taken the surve
 
 ## Contact
 
-Questions about the project or the survey: Jia Liu (jia.liu /at/ ipmu.jp).
+Questions about the project or the survey: Shan Wang (swang151 /at/ usfca.edu) and Hiromi Yokoyama (hiromi.yokoyama /at/ ipmu.jp).
