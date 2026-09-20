@@ -25,7 +25,7 @@ toc_sticky: true
 Artificial intelligence is rapidly changing how scientists learn and do research. The change goes beyond speed and efficiency: AI is reshaping how we think, communicate, and collaborate. As these tools become part of everyday research practice, now is a critical moment to look closely at the human experience that comes with this shift.
 {: .ai4s-lead}
 
-Our team brings physicists, social scientists, and data scientists together inside one institute to study **AI for Science (AI4S)** as it happens. We work with researchers at the frontier of physics, astronomy, and related fields, watching how experienced scientists actually use AI on real, unsolved problems, and asking what that means for them and for science. Unlike most AI4S studies, which rely on case studies or classroom exercises, we observe expert researchers at work through interviews, daily observation, and large-scale surveys.
+Our team brings physicists, social scientists, and data scientists together inside one institute to study **AI for Science (AI4S)** as it happens. We work with researchers at the frontier of physics, astronomy, and related fields, examining how experienced scientists actually use AI on real, unsolved problems, and asking what that means for them and for science. Unlike most AI4S studies, which rely on case studies or classroom exercises, we collect data from expert researchers at work through workshops, interviews, daily observation, and large-scale surveys.
 
 The project is led by [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"}, Shan Wang, and [Jia Liu](https://liuxx479.github.io/){:target="_blank"} at the Center for Data-Driven Discovery (CD3), Kavli IPMU, which combines expertise in physics, data science, and social science under one roof.
 
@@ -116,6 +116,20 @@ The survey is **anonymous and voluntary** and takes about **15 minutes**. No ide
     <h3>Hui Zhang</h3>
     <p class="ai4s-role">Chinese Academy of Sciences / Kavli IPMU</p>
     <p class="ai4s-bio">Hui Zhang is a PhD student at the Institute of Psychology, Chinese Academy of Sciences. She is currently a one-year exchange researcher at Kavli IPMU, the University of Tokyo. Her research focuses on human–AI interaction, including human–machine trust, AI usage, and ethical AI design.</p>
+  </div>
+
+  <div class="ai4s-member">
+    <img src="/_images/ai4s/tomo.jpg" alt="Tomoharu Okada">
+    <h3>Tomoharu Okada</h3>
+    <p class="ai4s-role">NHK (Japan Broadcasting Corporation)</p>
+    <p class="ai4s-bio">Tomoharu Okada is a Senior Program Director at NHK (Japan Broadcasting Corporation), where he has produced award-winning science documentaries on informatics and fundamental physics for nearly 30 years. He holds a Master of Arts and Sciences from the University of Tokyo, where he specialized in theoretical physics, including particle physics and superstring theory. His current research interests include the growing autonomy of AI systems in scientific practice, its ethical implications, and how expectations of AI are shaping the future of science.</p>
+  </div>
+
+  <div class="ai4s-member">
+    <img src="/_images/ai4s/marcin.jpg" alt="Marcin Korecki">
+    <h3>Marcin Korecki</h3>
+    <p class="ai4s-role">Kavli IPMU, The University of Tokyo</p>
+    <p class="ai4s-bio">Marcin Korecki is a postdoctoral researcher at the University of Tokyo. His research brings together AI, philosophy, social choice, and the study of complex adaptive systems to develop new ways of thinking about agency, value, and collective alignment in increasingly automated societies.</p>
   </div>
 
 </div>

@@ -1,7 +1,7 @@
 ---
 title: "Events"
 permalink: /events/
-last_modified_at: 2026-04-14
+last_modified_at: 2026-09-20
 layout: single
 toc: true
 toc_sticky: true
@@ -9,12 +9,16 @@ toc_sticky: true
 
 ## Upcoming events
 
-**CD3 Project Expo 2026** [Website](/expo2026/){:target=`_blank`}\
-April 24, 2026, Kavli IPMU, Kashiwa, Japan
+**Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
+[Website](https://indico.kmi.nagoya-u.ac.jp/event/19/){:target=`_blank`}\
+October 5-9, 2026, Kobayashi-Maskawa Institute (KMI) at Nagoya University, Nagoya, Japan
 
-**AstroAI Asian (A<sup>3</sup>) Network Summer School** 
-[Website](https://cd3.ipmu.jp/a3n_Aug2026){:target=`_blank`}\
-August, 2026
+**LiteBIRD Face-to-Face collaboration meeting** \
+October 12-16, 2026, Kavli IPMU, Kashiwa, Japan
+
+**Filaments in the Multi-scale Universe: understanding their role and detectability**
+[Website](https://indico.ipmu.jp/e/filaments2026){:target=`_blank`}\
+October 26-30, 2026, Kavli IPMU, Kashiwa, Japan
 
 ## Hack Friday 
 <!--
@@ -65,6 +69,17 @@ Organizer: Kevin McCarthy--->
 
 ## Past Events
 
+**AstroAI Asian (A<sup>3</sup>) Network Summer School** 
+[Website](/a3n_Aug2026/){:target=`_blank`}\
+August 24-28, 2026, LeCosPA, National Taiwan University, Taipei, Taiwan
+
+**Workshop: Human–AI Collaboration in Advanced STEM** 
+[Website](/hac2026/){:target=`_blank`}\
+June 22-26, 2026, Ito, Izu Peninsula, Shizuoka, Japan
+
+**CD3 Project Expo 2026** [Website](/expo2026/){:target=`_blank`}\
+April 24, 2026, Kavli IPMU, Kashiwa, Japan
+
 **Celebrating 40 Years of Damped Lya Systems** 
 [Website](https://indico.ipmu.jp/event/471/){:target=`_blank`}\
 March 16-19, 2026, Kavli IPMU, Japan
@@ -108,7 +123,7 @@ January 20-24, 2025, Kavli IPMU, Kashiwa, Japan
 
 **Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
 [Website](https://indico.kmi.nagoya-u.ac.jp/event/9/){:target=`_blank`}\
-December 3-5, 2024, Kobayashi Masakawa Institute (KMI) at Nagoya University, Nagoya, Japan
+December 3-5, 2024, Kobayashi-Maskawa Institute (KMI) at Nagoya University, Nagoya, Japan
 
 **Probing the Genesis of Super Massive Black Holes: Emerging Perspectives from JWST 
 and Expectation toward New Wide-Field Survey Observations**
