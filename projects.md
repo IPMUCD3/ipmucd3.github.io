@@ -60,6 +60,5 @@ We explore the feasibility of applying novel machine-learning techniques to data
 ## AI for Science and Society
 **[AI for Science (AI4S)](/ai4s/)** brings physicists and social scientists together to study how AI is changing the way frontier science is done, through an intensive [Human–AI collaboration workshop](/hac2026/) and an international survey of physicists. Supported by the Kavli Foundation.
 
-## AI Ethics
 <img src="/_images/logo_ELSI.jpg" style="width: 140px;">\
 **[Score ELSI](https://member.ipmu.jp/hiromi.yokoyama/elsi.html){:target="_blank"}** aims to develop a simple scale to measure the Ethical, Legal, and Social Issues (ELSI) in  science and technology, such as artificial intelligence, genome editing, mental health instruments, and climate engineering.

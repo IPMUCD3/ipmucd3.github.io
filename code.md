@@ -1,7 +1,7 @@
 ---
 title: "Data and Code"
 permalink: /code/
-last_modified_at: 2023-08-31
+last_modified_at: 2026-09-20
 layout: single
 toc: true
 toc_sticky: true
@@ -26,6 +26,12 @@ Yomikata uses context to resolve ambiguous words in Japanese ([Demo](https://hug
 **[CosmoMMF](https://github.com/James11222/CosmoMMF){:target="_blank"}**\
 A julia based code that identifies clusters, filaments, walls, and voids using a modified version of the NEXUS algorithm, developed as part of [Sunseri et al. 2022](https://ui.adsabs.harvard.edu/abs/2023PhRvD.107b3514S/abstract){:target="_blank"}. 
 
+**[LUCiD](https://github.com/CIDeR-ML/LUCiD/){:target="_blank"}** ([arxiv:2602.24129](https://arxiv.org/abs/2602.24129){:target="_blank"})\
+LUCiD (Light-based Unified Calibration and trackIng Differentiable simulation) is a high-performance, end-to-end differentiable simulation framework for optical particle detectors, such as Cherenkov and scintillator neutrino detectors. It enables gradient-based optimization of calibration parameters and particle reconstruction using automatic differentiation.
+
+**[PhotonSim](https://github.com/cesarjesusvalls/PhotonSim/){:target="_blank"}** ([arxiv:2602.24129](https://arxiv.org/abs/2602.24129){:target="_blank"})\
+A GEANT4-based C++ application that simulates optical photon generation (Cherenkov and scintillation) from particle interactions in monolithic detector volumes. It produces the photon samples used to build the surrogate models in LUCiD.
+
 ### Simulation
 
 **[The HalfDome Cosmological Simulations](https://halfdomesims.github.io/){:target="_blank"}**\
@@ -40,6 +46,15 @@ A suite of mock weak lensing maps based on the cosmological hydrodynamic simulat
 **[MassiveNuS](http://astronomy.nmsu.edu/aklypin/SUsimulations/MassiveNuS/){:target="_blank"}** ([arxiv:1711.10524](https://arxiv.org/abs/1711.10524){:target="_blank"})\
 A suite of 100 cosmological massive neutrino simulations (+ 1 massless model), with snapshots, halo catalogues, merger trees, and CMB and weak lensing convergence maps. 
 
+### Teaching Materials
 
+Lectures, hands-on notebooks, and hack projects from the [AstroAI Asian (A<sup>3</sup>) Network](/a3net/) Summer Schools on machine learning for astrophysics.
 
+**[A<sup>3</sup>Net Summer School 2026](https://github.com/IPMUCD3/a3net_2026){:target="_blank"}** (Taipei, [school page](/a3n_Aug2026/))\
+Statistical modeling and machine learning foundations (Tomomi Sunayama, Ting-Wen Lan); deep learning and neural network architectures (Kazuhiro Terao); generative models (Daniela Breitman); symmetries, specialized architectures, and transformers (Vera Maiboroda); [hack projects](https://github.com/IPMUCD3/a3net_2026/tree/main/Hack){:target="_blank"}.
 
+**[A<sup>3</sup>Net Summer School 2025](https://github.com/IPMUCD3/a3net_2025){:target="_blank"}** (Seoul, [school page](/a3n_Aug2025/))\
+Statistical modeling and machine learning (Adrian Bayer); introduction to deep learning (Sungwook E. Hong); generative models (Carol Cuesta-Lazaro); symmetries and specialized neural architectures (Vera Maiboroda); research application examples; [hack projects](https://github.com/IPMUCD3/a3net_2025/tree/main/Hack){:target="_blank"}.
+
+**[A<sup>3</sup>Net Summer School 2024](https://github.com/IPMUCD3/a3net_2024){:target="_blank"}** (Osaka, [school page](/a3n_Sep2024/))\
+Statistical modeling and shallow machine learning (Makoto Uemura); deep learning basics (Leander Thiele); symmetries and specialized neural architectures (Michelle Ntampaka); generative models (Kana Moriwaki); [hack projects](https://github.com/IPMUCD3/a3net_2024/tree/main/Hack){:target="_blank"}.
