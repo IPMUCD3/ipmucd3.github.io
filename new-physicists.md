@@ -1,8 +1,9 @@
 ---
-# Working name; change the title here if the team is renamed.
-title: "AI for Science (AI4S)"
-permalink: /ai4s/
-last_modified_at: 2026-09-20
+title: "The New Physicists"
+permalink: /new-physicists/
+redirect_from:
+  - /ai4s/
+last_modified_at: 2026-09-24
 layout: single
 toc: true
 toc_sticky: true
@@ -20,12 +21,15 @@ toc_sticky: true
 .ai4s-activity { border-left: 4px solid #d5d9de; padding: .1em 0 .1em 1em; margin: 1.2em 0 1.8em; }
 </style>
 
+**A social science study of a generation working with AI**
+{: .ai4s-lead}
+
 ## About the project
 
 Artificial intelligence is rapidly changing how scientists learn and do research. The change goes beyond speed and efficiency: AI is reshaping how we think, communicate, and collaborate. As these tools become part of everyday research practice, now is a critical moment to look closely at the human experience that comes with this shift.
 {: .ai4s-lead}
 
-Our team brings physicists, social scientists, and data scientists together inside one institute to study **AI for Science (AI4S)** as it happens. We work with researchers at the frontier of physics, astronomy, and related fields, examining how experienced scientists actually use AI on real, unsolved problems, and asking what that means for them and for science. Unlike most AI4S studies, which rely on case studies or classroom exercises, we collect data from expert researchers at work through workshops, interviews, daily observation, and large-scale surveys.
+Our team brings physicists, social scientists, and data scientists together inside one institute to study how physicists, and science more broadly, are changing as AI becomes part of everyday research. We work with researchers at the frontier of physics, astronomy, and related fields, examining how experienced scientists actually use AI on real, unsolved problems, and asking what that means for them and for science. Unlike most AI4S studies, which rely on case studies or classroom exercises, we collect data from expert researchers at work through workshops, interviews, daily observation, and large-scale surveys.
 
 The project is led by [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"}, Shan Wang, and [Jia Liu](https://liuxx479.github.io/){:target="_blank"} at the Center for Data-Driven Discovery (CD3), Kavli IPMU, which combines expertise in physics, data science, and social science under one roof.
 
