@@ -40,7 +40,7 @@ The project is led by [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/e
 - **Pressure.** How do researchers experience government expectations and international competition around AI in science?
 - **Education.** How should we train the next generation of scientists in such a rapidly changing landscape?
 - **Responsibility.** If AI can do part, or all, of a research project on its own, what is the value of the human researcher, and who is responsible for the result?
-- **Identity.** What happens to ownership, meaning, and the joy of discovery when much of the work is produced by AI?
+- **Identity.** What happens to ownership, meaning, and the joy of discovery when AI produces much of the work?
 
 ## Activities
 
@@ -49,18 +49,18 @@ The project is led by [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/e
 June 22–26, 2026 · Ito, Shizuoka, Japan · [Workshop page](/hac2026/)
 {: .ai4s-activity}
 
-A week-long workshop that brought together researchers from theoretical and experimental astrophysics, cosmology, high-energy physics, and materials science. After a morning of training on best practices for AI tools (prompting, verification, responsible use), participants formed small teams, chose unsolved problems matched to their combined expertise, and worked on them intensively while deliberately integrating AI into brainstorming, literature review, coding, and calculations. Each day began with a group briefing on research progress and AI use, and ended with a group interview led by our social science team. The interviews and observations from the workshop are the foundation of our ongoing analysis.
+A week-long workshop that brought together researchers from theoretical and experimental astrophysics, cosmology, high-energy physics, and materials science. After a morning of training on best practices for AI tools (prompting, verification, responsible use), participants formed small teams, chose unsolved problems that matched their combined expertise, and worked intensively on them while deliberately integrating AI into brainstorming, literature review, coding, and calculations. Each day began with a group briefing on research progress and AI use, and ended with a group interview led by our social science team. The interviews and observations from the workshop are the foundation of our ongoing analysis.
 
 ### Survey: the impact of AI on physics
 
 Ongoing since August 2026 · International · Open to all physicists
 {: .ai4s-activity}
 
-Building on what we heard at the workshop, we are running a large-scale international survey of physicists. We want to collect your views on the current status and future of AI in physics research, and on how it may affect the education, responsibilities, and identities of scientists.
-
-The survey is **anonymous and voluntary** and takes about **15 minutes**. No identifying or IP information is collected. Your perspective as a working researcher is exactly what this study needs. Please take part, and share it with your colleagues.
+The survey is **anonymous and voluntary** and takes about **15 minutes**. No identifying or IP information is collected. Please take part and share it with your colleagues.
 
 [Take the survey](https://usfca.qualtrics.com/jfe/form/SV_bxgGSBoMmj1ObEG){: .btn .btn--primary .btn--large target="_blank"}
+
+Building on what we heard at the workshop, we are running a large-scale international survey of physicists. We want to collect views on the current status and future of AI in physics research, and on how it may affect the education, responsibilities, and identities of scientists.
 
 ## Team
 
@@ -77,7 +77,7 @@ The survey is **anonymous and voluntary** and takes about **15 minutes**. No ide
     <img src="/_images/ai4s/shan.jpg" alt="Shan Wang">
     <h3>Shan Wang</h3>
     <p class="ai4s-role">Co-Principal Investigator<br>University of San Francisco</p>
-    <p class="ai4s-bio">Dr. Shan Wang is an Associate Professor and previous director of Data Science and Artificial Intelligence at the University of San Francisco (on sabbatical at Kavli IPMU). Her research interests include medical informatics, biomedical research, and utilizing machine learning and AI to address social, ethical, and policy problems.</p>
+    <p class="ai4s-bio">Dr. Shan Wang is an Associate Professor and former director of Data Science and Artificial Intelligence at the University of San Francisco (on sabbatical at Kavli IPMU). Her research interests include medical informatics, biomedical research, and utilizing machine learning and AI to address social, ethical, and policy problems.</p>
   </div>
 
   <div class="ai4s-member">
@@ -112,7 +112,7 @@ The survey is **anonymous and voluntary** and takes about **15 minutes**. No ide
     <img src="/_images/ai4s/yan.jpg" alt="Yan Naing Aung">
     <h3>Yan Naing Aung</h3>
     <p class="ai4s-role">AI Engineer</p>
-    <p class="ai4s-bio">Yan Naing Aung is an AI Engineer with an MS in Data Science and Engineering and an MS in Applied Economics from the University of San Francisco. His work focuses on developing Retrieval Augmented Generation (RAG) systems and multi-agent workflows, and he has contributed to developing evaluation frameworks for testing large language model reliability against adversarial prompts.</p>
+    <p class="ai4s-bio">Yan Naing Aung is an AI Engineer with an MS in Data Science and Engineering and an MS in Applied Economics from the University of San Francisco. His work focuses on developing Retrieval-Augmented Generation (RAG) systems and multi-agent workflows, and he has contributed to developing evaluation frameworks for testing large language model reliability against adversarial prompts.</p>
   </div>
 
   <div class="ai4s-member">
@@ -140,10 +140,10 @@ The survey is **anonymous and voluntary** and takes about **15 minutes**. No ide
 
 ## Acknowledgments
 
-This project is supported by **The Kavli Foundation**; by **JSPS KAKENHI** Grant Number JP25K21635, Grant-in-Aid for Challenging Research (Pioneering), "Establishing Global ELSI and RRI for the AI4S Era" (PI: Hiromi Yokoyama); and by a **JSPS Invitational Fellowship for Research in Japan** awarded to Shan Wang, hosted by Hiromi Yokoyama at Kavli IPMU.
+This project is supported by **The Kavli Foundation** (PI: Jia Liu; Co-I: Hiromi Yokoyama); by **JSPS KAKENHI** Grant Number JP25K21635, Grant-in-Aid for Challenging Research (Pioneering), "Establishing Global ELSI and RRI for the AI4S Era" (PI: Hiromi Yokoyama); and by a **JSPS Invitational Fellowship for Research in Japan** awarded to Shan Wang, hosted by Hiromi Yokoyama at Kavli IPMU.
 
 We thank the participants of the 2026 workshop, everyone who has taken the survey, and the workshop and conference organizers who kindly helped us share it with their communities.
 
 ## Contact
 
-Questions about the project or the survey: Shan Wang (swang151 /at/ usfca.edu) and Hiromi Yokoyama (hiromi.yokoyama /at/ ipmu.jp).
+Questions about the project or the survey: Shan Wang (swang151@usfca.edu) and Hiromi Yokoyama (hiromi.yokoyama@ipmu.jp).
