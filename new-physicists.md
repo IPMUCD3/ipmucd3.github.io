@@ -29,9 +29,9 @@ toc_sticky: true
 Artificial intelligence is rapidly changing how scientists learn and do research. The change goes beyond speed and efficiency: AI is reshaping how we think, communicate, and collaborate. As these tools become part of everyday research practice, now is a critical moment to look closely at the human experience that comes with this shift.
 {: .ai4s-lead}
 
-Our team brings physicists, social scientists, and data scientists together inside one institute to study how physicists, and science more broadly, are changing as AI becomes part of everyday research. We work with researchers at the frontier of physics, astronomy, and related fields, examining how experienced scientists actually use AI on real, unsolved problems, and asking what that means for them and for science. Unlike most AI4S studies, which rely on case studies or classroom exercises, we collect data from expert researchers at work through workshops, interviews, daily observation, and large-scale surveys.
+Our team brings physicists, social scientists, and data scientists together to study how physicists, and science more broadly, are changing as AI becomes part of everyday research. We work with researchers at the frontier of physics, astronomy, and related fields, examining how experienced scientists use AI on real, unsolved problems, and asking what that means for them and for science. 
 
-The project is led by [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"}, Shan Wang, and [Jia Liu](https://liuxx479.github.io/){:target="_blank"} at the Center for Data-Driven Discovery (CD3), Kavli IPMU, which combines expertise in physics, data science, and social science under one roof.
+The project is led by [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/en/index.html){:target="_blank"}, [Shan Wang](https://www.usfca.edu/faculty/shan-wang){:target="_blank"}, and [Jia Liu](https://liuxx479.github.io/){:target="_blank"}.
 
 ## What we ask
 
@@ -49,7 +49,7 @@ The project is led by [Hiromi Yokoyama](https://member.ipmu.jp/hiromi.yokoyama/e
 June 22–26, 2026 · Ito, Shizuoka, Japan · [Workshop page](/hac2026/)
 {: .ai4s-activity}
 
-An invitation-only, week-long retreat that brought together researchers from theoretical and experimental astrophysics, cosmology, high-energy physics, and materials science. After a morning of training on best practices for AI tools (prompting, verification, responsible use), participants formed small teams, chose unsolved problems matched to their combined expertise, and worked on them intensively while deliberately integrating AI into brainstorming, literature review, coding, and calculations. Each day began with a group briefing on research progress and AI use, and ended with a group interview led by our social science team. The interviews and observations from the workshop are the foundation of our ongoing analysis.
+A week-long workshop that brought together researchers from theoretical and experimental astrophysics, cosmology, high-energy physics, and materials science. After a morning of training on best practices for AI tools (prompting, verification, responsible use), participants formed small teams, chose unsolved problems matched to their combined expertise, and worked on them intensively while deliberately integrating AI into brainstorming, literature review, coding, and calculations. Each day began with a group briefing on research progress and AI use, and ended with a group interview led by our social science team. The interviews and observations from the workshop are the foundation of our ongoing analysis.
 
 ### Survey: the impact of AI on physics
 
