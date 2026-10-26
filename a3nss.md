@@ -41,6 +41,7 @@ Topics:
 - 29th of April, 2026 @ 15:30 JST: Maja Jabłońska (Research School of Astronomy and Astrophysics, Australian National University), "Stellar Variability in the Survey Era: A Differentiable Forward Model with SPICE".
 - 24th of June, 2026 @ 15:30 JST: Lile Wang (Peking University), "Deep Neural Networks for Modelling Astrophysical Nuclear Reacting Flows".
 - 29th of July, 2026 @ 15:30 JST: Tomasz Różański (Research School of Astronomy and Astrophysics, Australian National University), "Normalizing Every Stellar Spectrum".
+- 28th of October, 2026 @ 15:30 JST: Leander Thiele (Kavli IPMU), "Cosmological Inference with Machine Learning".
 ## Organizers
 
 - Thomas Venville (ANU, main contact: thomas.venville@anu.edu.au)
