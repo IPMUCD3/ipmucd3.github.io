@@ -8,17 +8,10 @@ toc_sticky: true
 ---
 
 ## Upcoming events
+**Toward a Complete Census of AGN with Large Field Surveys: Emerging Results from Subaru PFS**
+[Website](https://indico.ipmu.jp/event/525/){:target=`_blank`}\
+November 16-20, 2026, Kavli IPMU, Kashiwa, Japan
 
-**Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
-[Website](https://indico.kmi.nagoya-u.ac.jp/event/19/){:target=`_blank`}\
-October 5-9, 2026, Kobayashi-Maskawa Institute (KMI) at Nagoya University, Nagoya, Japan
-
-**LiteBIRD Face-to-Face collaboration meeting** \
-October 12-16, 2026, Kavli IPMU, Kashiwa, Japan
-
-**Filaments in the Multi-scale Universe: understanding their role and detectability**
-[Website](https://indico.ipmu.jp/e/filaments2026){:target=`_blank`}\
-October 26-30, 2026, Kavli IPMU, Kashiwa, Japan
 
 ## Hack Friday 
 <!--
@@ -37,7 +30,7 @@ October 26-30, 2026, Kavli IPMU, Kashiwa, Japan
 
 **Astro Journal Club**\
 Every Friday, 11am, Seminar room A (1F) \
-Organizers: Sherry Song, Zeyu Gao
+Organizers: Takafumi Tsukui, Otavio Alves
 
 **CMB Group Meeting**\
 Every Thursday, 10am, Seminar room A (1F) \
@@ -45,7 +38,7 @@ Organizer: Elisa Ferreira
 
 **Cosmology x Machine Learning Group Meeting**\
 Every Wednesday, 11am, Seminar room C (3F) \
-Organizer: Linda Blot
+Organizer: Jia Liu
 
 **Galaxy Evolution Group Meeting**\
 Every Wednesday, 2pm, Kashiwa Research Complex 2 (3F) \
@@ -68,6 +61,21 @@ Organizer: Kevin McCarthy--->
 [Website](\a3n)
 
 ## Past Events
+
+**Simulations of Galaxy Evolution: Advancements, Revolutions and Struggles (Simulations GEARS)**
+[Website](https://indico.ipmu.jp/event/526/){:target=`_blank`}\
+November 2-6, 2026, Kavli IPMU, Kashiwa, Japan
+
+**Filaments in the Multi-scale Universe: understanding their role and detectability**
+[Website](https://indico.ipmu.jp/e/filaments2026){:target=`_blank`}\
+October 26-30, 2026, Kavli IPMU, Kashiwa, Japan
+
+**LiteBIRD Face-to-Face collaboration meeting** \
+October 12-16, 2026, Kavli IPMU, Kashiwa, Japan
+
+**Workshop: Future of AI Research for Science in Japan (FAIRS-Japan)**
+[Website](https://indico.kmi.nagoya-u.ac.jp/event/19/){:target=`_blank`}\
+October 5-9, 2026, Kobayashi-Maskawa Institute (KMI) at Nagoya University, Nagoya, Japan
 
 **AstroAI Asian (A<sup>3</sup>) Network Summer School** 
 [Website](/a3n_Aug2026/){:target=`_blank`}\
